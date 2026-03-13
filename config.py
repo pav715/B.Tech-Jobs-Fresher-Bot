@@ -10,4 +10,4 @@ LOCATIONS = [
 ]
 
 # ── Timing ────────────────────────────────────────────────────────────
-CHECK_INTERVAL_MINUTES = 5   # Check every 5 minutes
+CHECK_INTERVAL_MINUTES = 10   # Check every 10 minutes

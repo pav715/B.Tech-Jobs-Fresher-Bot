@@ -41,7 +41,36 @@ def log(msg):
         f.write(line + "\n")
 
 
-# ── Date helpers (same as US Tax bot) ─────────────────────────────────
+# ── Date helpers ──────────────────────────────────────────────────────
+def _is_today(job):
+    """Return True if job was posted today."""
+    today = datetime.now().date()
+    posted  = job.get("posted") or ""
+    fetched = job.get("fetched_at") or ""
+
+    for value in (posted, fetched):
+        if not value:
+            continue
+        iso = value.replace("Z", "").split("+")[0]
+        try:
+            dt = datetime.fromisoformat(iso)
+            if dt.date() == today:
+                return True
+        except Exception:
+            pass
+
+    # RFC822 (Indeed pubDate format)
+    if posted:
+        try:
+            dt = parsedate_to_datetime(posted)
+            if dt.date() == today:
+                return True
+        except Exception:
+            pass
+
+    return False
+
+
 def _is_within_days(job, days):
     """Return True if job was posted within last `days` days."""
     today  = datetime.now().date()
@@ -107,8 +136,8 @@ def run_cycle(seen):
         log(f"Scrape error: {e}")
         return False
 
-    # Jobs from last 2 days in allowed locations
-    recent = [j for j in jobs if _is_within_days(j, 2) and _location_allowed(j.get("location", ""))]
+    # Today's jobs only in allowed locations
+    recent = [j for j in jobs if _is_today(j) and _location_allowed(j.get("location", ""))]
     candidates = recent if recent else [j for j in jobs if _location_allowed(j.get("location", ""))]
 
     new_jobs = [j for j in candidates if j["id"] not in seen]
