@@ -1,25 +1,23 @@
 """
 B.Tech Jobs Fresher — Telegram Bot
-Runs 24/7, checks every 5 minutes, sends only jobs posted in that 5-min window.
-If previous run failed, fetches jobs from last successful run time.
-Target: B.Tech freshers (CSE/ECE/EEE) in Hyderabad
+Runs every 5 minutes via GitHub Actions.
+Sends only new jobs — no duplicates, no backlog on first run.
 """
 import json
 import os
 import time
 import requests
-from datetime import datetime
+from datetime import datetime, timedelta
+from email.utils import parsedate_to_datetime
 import config
 from scraper import fetch_all_jobs
 from sender import send_job
 
-SEEN_FILE = "seen_jobs.json"
-LOG_FILE = "bot.log"
-LAST_RUN_FILE = "last_successful_run.txt"
+SEEN_FILE     = "seen_jobs.json"
+LOG_FILE      = "bot.log"
 
 
 def load_seen():
-    """Load previously seen job IDs to prevent duplicates."""
     if os.path.exists(SEEN_FILE):
         try:
             with open(SEEN_FILE, "r") as f:
@@ -30,87 +28,96 @@ def load_seen():
 
 
 def save_seen(seen_set):
-    """Save seen job IDs. Keep only last 5000."""
     data = list(seen_set)[-5000:]
     with open(SEEN_FILE, "w") as f:
         json.dump(data, f)
 
 
-def load_last_run_time():
-    """Load timestamp of last successful run."""
-    if os.path.exists(LAST_RUN_FILE):
-        try:
-            with open(LAST_RUN_FILE, "r") as f:
-                return f.read().strip()
-        except Exception:
-            pass
-    return None
-
-
-def save_last_run_time(timestamp):
-    """Save timestamp of successful run."""
-    try:
-        with open(LAST_RUN_FILE, "w") as f:
-            f.write(timestamp)
-    except Exception:
-        pass
-
-
 def log(msg):
-    """Log message to both console and file with timestamp."""
-    ts = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+    ts   = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
     line = f"[{ts}] {msg}"
     print(line)
     with open(LOG_FILE, "a", encoding="utf-8") as f:
         f.write(line + "\n")
 
 
-def calculate_minutes_back():
-    """Calculate how many minutes back to fetch jobs from."""
-    last_run = load_last_run_time()
+# ── Date helpers (same as US Tax bot) ─────────────────────────────────
+def _is_within_days(job, days):
+    """Return True if job was posted within last `days` days."""
+    today  = datetime.now().date()
+    cutoff = today - timedelta(days=days)
 
-    if not last_run:
-        # First run ever - fetch from last 5 minutes
-        log("First run detected - fetching from last 5 minutes")
-        return 5
+    posted  = job.get("posted") or ""
+    fetched = job.get("fetched_at") or ""
 
+    for value in (posted, fetched):
+        if not value:
+            continue
+        iso = value.replace("Z", "").split("+")[0]
+        try:
+            dt = datetime.fromisoformat(iso)
+            if cutoff <= dt.date() <= today:
+                return True
+        except Exception:
+            pass
+
+    # RFC822 (Indeed pubDate format)
+    if posted:
+        try:
+            dt = parsedate_to_datetime(posted)
+            if cutoff <= dt.date() <= today:
+                return True
+        except Exception:
+            pass
+
+    return False
+
+
+def _location_allowed(loc_str):
+    loc     = (loc_str or "").lower()
+    allowed = [x.lower() for x in config.LOCATIONS]
+    if not allowed or not loc:
+        return True
+    return any(a in loc for a in allowed)
+
+
+# ── First run: mark existing jobs as seen (no backlog spam) ────────────
+def initialize_seen_if_empty(seen):
+    if seen:
+        return seen
+    log("First run: preloading existing jobs as seen — only NEW jobs will be posted.")
     try:
-        # Parse last successful run time
-        last_time = datetime.fromisoformat(last_run)
-        now = datetime.now()
-
-        # Calculate minutes since last successful run
-        minutes_diff = (now - last_time).total_seconds() / 60
-
-        # Add 1 minute buffer to catch edge cases
-        minutes_back = int(minutes_diff) + 1
-
-        log(f"Last successful run was {minutes_diff:.1f} mins ago - fetching from last {minutes_back} minutes")
-        return minutes_back
+        jobs = fetch_all_jobs()
+        for j in jobs:
+            if "id" in j:
+                seen.add(j["id"])
+        save_seen(seen)
+        log(f"Preload done. {len(seen)} jobs marked as seen.")
     except Exception as e:
-        log(f"Error calculating time window: {e} - defaulting to 5 minutes")
-        return 5
+        log(f"Preload error: {e}")
+    return seen
 
 
+# ── One scrape cycle ───────────────────────────────────────────────────
 def run_cycle(seen):
-    """Run one complete job search and posting cycle."""
-    minutes_back = calculate_minutes_back()
-    log(f"Checking for new B.Tech fresher jobs from LinkedIn...")
-
+    log("Checking for new B.Tech fresher jobs from LinkedIn...")
     try:
-        jobs = fetch_all_jobs(minutes_back=minutes_back)
+        jobs = fetch_all_jobs()
     except Exception as e:
         log(f"Scrape error: {e}")
         return False
 
-    new_jobs = [j for j in jobs if j["id"] not in seen]
+    # Jobs from last 2 days in allowed locations
+    recent = [j for j in jobs if _is_within_days(j, 2) and _location_allowed(j.get("location", ""))]
+    candidates = recent if recent else [j for j in jobs if _location_allowed(j.get("location", ""))]
+
+    new_jobs = [j for j in candidates if j["id"] not in seen]
 
     if not new_jobs:
         log(f"No new jobs found. Total tracked: {len(seen)}")
-        return True  # Still successful even if no jobs
+        return True
 
-    log(f"Found {len(new_jobs)} new B.Tech fresher jobs! Sending to Telegram...")
-
+    log(f"Found {len(new_jobs)} new jobs! Sending to Telegram...")
     sent = 0
     for job in new_jobs:
         try:
@@ -120,42 +127,32 @@ def run_cycle(seen):
                 sent += 1
                 log(f"  Sent: [{job['source']}] {job['title']} @ {job['company']} | {job['location']}")
             else:
-                log(f"  Failed to send: {job['title']}")
+                log(f"  Failed: {job['title']}")
         except Exception as e:
-            log(f"  Error sending job: {e}")
+            log(f"  Error: {e}")
 
     save_seen(seen)
-    log(f"Done. Sent {sent} new B.Tech fresher jobs. Total tracked: {len(seen)}")
+    log(f"Done. Sent {sent} new jobs. Total tracked: {len(seen)}")
     return True
 
 
 def main():
-    """Main bot - single cycle execution for GitHub Actions."""
-    log("=" * 70)
-    log("  B.Tech Jobs Fresher — Telegram Bot")
-    log("  TARGET: B.Tech Freshers (0-1 years) | FOCUS: CSE/ECE/EEE")
-    log("  LOCATIONS: Hyderabad only")
+    log("=" * 60)
+    log("  B.Tech Jobs Fresher - Telegram Bot")
+    log("  TARGET: B.Tech Freshers | LOCATION: Hyderabad")
     log(f"  CHECK INTERVAL: Every {config.CHECK_INTERVAL_MINUTES} minutes")
-    log("=" * 70)
+    log("=" * 60)
 
     if not config.BOT_TOKEN or not config.CHAT_ID:
         log("ERROR: BOT_TOKEN or CHAT_ID not set.")
         return False
 
-    log("✅ Bot configured: BOT_TOKEN and CHAT_ID loaded")
-
     seen = load_seen()
-    log(f"Loaded {len(seen)} previously seen jobs (no duplicates).")
+    log(f"Loaded {len(seen)} previously seen jobs.")
+
+    seen = initialize_seen_if_empty(seen)
 
     success = run_cycle(seen)
-
-    if success:
-        # Save timestamp of successful run
-        current_time = datetime.now().isoformat()
-        save_last_run_time(current_time)
-        log("✅ Successful run completed. Timestamp saved.")
-    else:
-        log("❌ Run failed. Will retry with extended time window on next run.")
 
     log("Single-run cycle complete. Exiting.")
     return success

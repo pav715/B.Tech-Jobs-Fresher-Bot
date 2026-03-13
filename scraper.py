@@ -270,36 +270,43 @@ def fetch_all_jobs(minutes_back=5):
             except Exception as e:
                 print(f"  Error fetching {keyword}/{location}: {e}")
 
-    # Filter by time window
+    # Filter by time window — only jobs posted AFTER last successful run
     now = datetime.now()
     cutoff_time = now - timedelta(minutes=minutes_back)
+
     recent_jobs = []
 
     for job in all_jobs:
         try:
             posted_str = job.get("posted", "")
             if not posted_str:
-                recent_jobs.append(job)
+                # No timestamp — include only on first run (large window)
+                if minutes_back > 60:
+                    recent_jobs.append(job)
                 continue
 
-            # Date-only strings (YYYY-MM-DD) from LinkedIn — treat as posted today
-            if len(posted_str) == 10:
-                recent_jobs.append(job)
-                continue
-
+            # Try parsing as full ISO format with time
             try:
                 posted_time = datetime.fromisoformat(posted_str.replace('Z', '+00:00'))
-            except Exception:
-                try:
-                    posted_time = datetime.fromisoformat(posted_str)
-                except Exception:
+                # Compare exact timestamps
+                if posted_time >= cutoff_time:
                     recent_jobs.append(job)
-                    continue
+                continue
+            except Exception:
+                pass
 
-            if posted_time >= cutoff_time:
-                recent_jobs.append(job)
+            # Try parsing as date-only (YYYY-MM-DD) from LinkedIn
+            if len(posted_str) == 10:
+                try:
+                    posted_date = datetime.fromisoformat(posted_str)
+                    # Convert to start of day and compare against cutoff
+                    # Include if posted date >= cutoff date
+                    if posted_date >= cutoff_time.replace(hour=0, minute=0, second=0, microsecond=0):
+                        recent_jobs.append(job)
+                except Exception:
+                    pass
         except Exception:
-            recent_jobs.append(job)
+            pass
 
     # Deduplicate
     seen_ids = set()

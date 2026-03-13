@@ -19,50 +19,24 @@
 [2026-03-13 13:02:25]   CHECK INTERVAL: Every 5 minutes
 [2026-03-13 13:02:25] ======================================================================
 [2026-03-13 13:02:25] ERROR: BOT_TOKEN or CHAT_ID not set.
-[2026-03-13 07:35:14] ======================================================================
-[2026-03-13 07:35:14]   B.Tech Jobs Fresher — Telegram Bot
-[2026-03-13 07:35:14]   TARGET: B.Tech Freshers (0-1 years) | FOCUS: CSE/ECE/EEE
-[2026-03-13 07:35:14]   LOCATIONS: Hyderabad only
-[2026-03-13 07:35:14]   CHECK INTERVAL: Every 5 minutes
-[2026-03-13 07:35:14] ======================================================================
-[2026-03-13 07:35:14] ✅ Bot configured: BOT_TOKEN and CHAT_ID loaded
-[2026-03-13 07:35:14] Loaded 0 previously seen jobs (no duplicates).
-[2026-03-13 07:35:14] First run detected - fetching from last 5 minutes
-[2026-03-13 07:35:14] Checking for new B.Tech fresher jobs from LinkedIn...
-[2026-03-13 07:35:18] Found 5 new B.Tech fresher jobs! Sending to Telegram...
-[2026-03-13 07:35:21]   Sent: [LinkedIn] Human Resource Associate - Fresher @ SPL Consulting | Hyderabad, Telangana, India
-[2026-03-13 07:35:24]   Sent: [LinkedIn] Inside Sales Associate (Fresher Hiring) in Patna, Hyderabad @ PlanetSpark | Hyderabad, Telangana, India
-[2026-03-13 07:35:27]   Sent: [LinkedIn] Business Development Executive (Fresher) @ Algonox Technologies | Hyderabad, Telangana, India
-[2026-03-13 07:35:29]   Sent: [LinkedIn] Jr Data Analyst (Fresher MBA in Finance only) @ ICE | Hyderabad, Telangana, India
-[2026-03-13 07:35:32]   Sent: [LinkedIn] Security Engineer, University Graduate, 2026 @ Google | Hyderabad, Telangana, India
-[2026-03-13 07:35:32] Done. Sent 5 new B.Tech fresher jobs. Total tracked: 5
-[2026-03-13 07:35:32] ✅ Successful run completed. Timestamp saved.
-[2026-03-13 07:35:32] Single-run cycle complete. Exiting.
-[2026-03-13 07:55:04] ======================================================================
-[2026-03-13 07:55:04]   B.Tech Jobs Fresher — Telegram Bot
-[2026-03-13 07:55:04]   TARGET: B.Tech Freshers (0-1 years) | FOCUS: CSE/ECE/EEE
-[2026-03-13 07:55:04]   LOCATIONS: Hyderabad only
-[2026-03-13 07:55:04]   CHECK INTERVAL: Every 5 minutes
-[2026-03-13 07:55:04] ======================================================================
-[2026-03-13 07:55:04] ✅ Bot configured: BOT_TOKEN and CHAT_ID loaded
-[2026-03-13 07:55:04] Loaded 5 previously seen jobs (no duplicates).
-[2026-03-13 07:55:04] Last successful run was 19.5 mins ago - fetching from last 20 minutes
-[2026-03-13 07:55:04] Checking for new B.Tech fresher jobs from LinkedIn...
-[2026-03-13 07:55:07] Found 1 new B.Tech fresher jobs! Sending to Telegram...
-[2026-03-13 07:55:10]   Sent: [LinkedIn] Business Development Associate - CTC 6.5 -7.5 LPA - Fresher Hiring @ PlanetSpark | Hyderabad, Telangana, India
-[2026-03-13 07:55:10] Done. Sent 1 new B.Tech fresher jobs. Total tracked: 6
-[2026-03-13 07:55:10] ✅ Successful run completed. Timestamp saved.
-[2026-03-13 07:55:10] Single-run cycle complete. Exiting.
-[2026-03-13 07:55:59] ======================================================================
-[2026-03-13 07:55:59]   B.Tech Jobs Fresher — Telegram Bot
-[2026-03-13 07:55:59]   TARGET: B.Tech Freshers (0-1 years) | FOCUS: CSE/ECE/EEE
-[2026-03-13 07:55:59]   LOCATIONS: Hyderabad only
-[2026-03-13 07:55:59]   CHECK INTERVAL: Every 5 minutes
-[2026-03-13 07:55:59] ======================================================================
-[2026-03-13 07:55:59] ✅ Bot configured: BOT_TOKEN and CHAT_ID loaded
-[2026-03-13 07:55:59] Loaded 6 previously seen jobs (no duplicates).
-[2026-03-13 07:55:59] Last successful run was 0.8 mins ago - fetching from last 1 minutes
-[2026-03-13 07:55:59] Checking for new B.Tech fresher jobs from LinkedIn...
-[2026-03-13 07:56:02] No new jobs found. Total tracked: 6
-[2026-03-13 07:56:02] ✅ Successful run completed. Timestamp saved.
-[2026-03-13 07:56:02] Single-run cycle complete. Exiting.
+[2026-03-13 13:18:23] ======================================================================
+[2026-03-13 13:18:23]   B.Tech Jobs Fresher — Telegram Bot
+[2026-03-13 13:18:23]   TARGET: B.Tech Freshers (0-1 years) | FOCUS: CSE/ECE/EEE
+[2026-03-13 13:18:23]   LOCATIONS: Hyderabad only
+[2026-03-13 13:18:23]   CHECK INTERVAL: Every 5 minutes
+[2026-03-13 13:18:23] ======================================================================
+[2026-03-13 13:18:23] ERROR: BOT_TOKEN or CHAT_ID not set.
+[2026-03-13 13:21:35] Last successful run was 5.0 mins ago - fetching from last 6 minutes
+[2026-03-13 13:22:21] ======================================================================
+[2026-03-13 13:22:21]   B.Tech Jobs Fresher — Telegram Bot
+[2026-03-13 13:22:21]   TARGET: B.Tech Freshers (0-1 years) | FOCUS: CSE/ECE/EEE
+[2026-03-13 13:22:21]   LOCATIONS: Hyderabad only
+[2026-03-13 13:22:22]   CHECK INTERVAL: Every 5 minutes
+[2026-03-13 13:22:22] ======================================================================
+[2026-03-13 13:22:22] ERROR: BOT_TOKEN or CHAT_ID not set.
+[2026-03-13 13:36:45] ============================================================
+[2026-03-13 13:36:45]   B.Tech Jobs Fresher - Telegram Bot
+[2026-03-13 13:36:45]   TARGET: B.Tech Freshers | LOCATION: Hyderabad
+[2026-03-13 13:36:45]   CHECK INTERVAL: Every 5 minutes
+[2026-03-13 13:36:45] ============================================================
+[2026-03-13 13:36:45] ERROR: BOT_TOKEN or CHAT_ID not set.
