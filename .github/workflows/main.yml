@@ -7,69 +7,41 @@
 
   concurrency:
     group: btech-bot-run
-    cancel-in-progress: false
+    cancel-in-progress: true
 
   jobs:
     run-bot:
       runs-on: ubuntu-latest
-      timeout-minutes: 1
+      timeout-minutes: 2
       permissions:
         contents: write
 
       steps:
-      - uses: actions/checkout@v4.1.1
+      - uses: actions/checkout@v4
 
       - name: Set up Python
-        uses: actions/setup-python@v5.0.0
+        uses: actions/setup-python@v5
         with:
           python-version: '3.11'
 
-      - name: Create requirements.txt if missing
-        run: |
-          cd "B.Tech Jobs Fresher"
-          if [ ! -f requirements.txt ]; then
-            cat > requirements.txt << 'EOF'
-          requests
-          beautifulsoup4
-          lxml
-          EOF
-          fi
-
       - name: Install dependencies
-        run: |
-          cd "B.Tech Jobs Fresher"
-          pip install -r requirements.txt
+        run: pip install requests beautifulsoup4 lxml
 
       - name: Run bot
         env:
           BOT_TOKEN: ${{ secrets.BOT_TOKEN }}
           CHAT_ID: ${{ secrets.CHAT_ID }}
-          PYTHONIOENCODING: utf-8
-          PYTHONUTF8: '1'
-        run: |
-          cd "B.Tech Jobs Fresher"
-          python bot.py
+        run: python bot.py
 
-      - name: Commit updates (Priority)
+      - name: Commit updates
         if: always()
         continue-on-error: true
-        timeout-minutes: 1
         run: |
-          cd "B.Tech Jobs Fresher"
           git config --local user.email "bot@github.com"
           git config --local user.name "GitHub Bot"
           git pull origin main --rebase 2>/dev/null || true
-          git add bot.log seen_jobs.json requirements.txt last_successful_run.txt 2>/dev/null || true
+          git add bot.log seen_jobs.json last_successful_run.txt 2>/dev/null || true
           if ! git diff --staged --quiet; then
             git commit -m "Bot run: $(date)" || true
             git push 2>/dev/null || true
           fi
-
-      - name: Schedule Next Run (5 mins later)
-        if: always()
-        continue-on-error: true
-        run: |
-          sleep 300
-          gh workflow run "bot.yml" --ref main
-        env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
