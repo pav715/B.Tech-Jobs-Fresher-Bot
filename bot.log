@@ -38,3 +38,18 @@
 [2026-03-13 07:35:32] Done. Sent 5 new B.Tech fresher jobs. Total tracked: 5
 [2026-03-13 07:35:32] ✅ Successful run completed. Timestamp saved.
 [2026-03-13 07:35:32] Single-run cycle complete. Exiting.
+[2026-03-13 07:55:04] ======================================================================
+[2026-03-13 07:55:04]   B.Tech Jobs Fresher — Telegram Bot
+[2026-03-13 07:55:04]   TARGET: B.Tech Freshers (0-1 years) | FOCUS: CSE/ECE/EEE
+[2026-03-13 07:55:04]   LOCATIONS: Hyderabad only
+[2026-03-13 07:55:04]   CHECK INTERVAL: Every 5 minutes
+[2026-03-13 07:55:04] ======================================================================
+[2026-03-13 07:55:04] ✅ Bot configured: BOT_TOKEN and CHAT_ID loaded
+[2026-03-13 07:55:04] Loaded 5 previously seen jobs (no duplicates).
+[2026-03-13 07:55:04] Last successful run was 19.5 mins ago - fetching from last 20 minutes
+[2026-03-13 07:55:04] Checking for new B.Tech fresher jobs from LinkedIn...
+[2026-03-13 07:55:07] Found 1 new B.Tech fresher jobs! Sending to Telegram...
+[2026-03-13 07:55:10]   Sent: [LinkedIn] Business Development Associate - CTC 6.5 -7.5 LPA - Fresher Hiring @ PlanetSpark | Hyderabad, Telangana, India
+[2026-03-13 07:55:10] Done. Sent 1 new B.Tech fresher jobs. Total tracked: 6
+[2026-03-13 07:55:10] ✅ Successful run completed. Timestamp saved.
+[2026-03-13 07:55:10] Single-run cycle complete. Exiting.
