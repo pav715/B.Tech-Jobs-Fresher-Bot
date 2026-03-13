@@ -53,3 +53,16 @@
 [2026-03-13 07:55:10] Done. Sent 1 new B.Tech fresher jobs. Total tracked: 6
 [2026-03-13 07:55:10] ✅ Successful run completed. Timestamp saved.
 [2026-03-13 07:55:10] Single-run cycle complete. Exiting.
+[2026-03-13 07:55:59] ======================================================================
+[2026-03-13 07:55:59]   B.Tech Jobs Fresher — Telegram Bot
+[2026-03-13 07:55:59]   TARGET: B.Tech Freshers (0-1 years) | FOCUS: CSE/ECE/EEE
+[2026-03-13 07:55:59]   LOCATIONS: Hyderabad only
+[2026-03-13 07:55:59]   CHECK INTERVAL: Every 5 minutes
+[2026-03-13 07:55:59] ======================================================================
+[2026-03-13 07:55:59] ✅ Bot configured: BOT_TOKEN and CHAT_ID loaded
+[2026-03-13 07:55:59] Loaded 6 previously seen jobs (no duplicates).
+[2026-03-13 07:55:59] Last successful run was 0.8 mins ago - fetching from last 1 minutes
+[2026-03-13 07:55:59] Checking for new B.Tech fresher jobs from LinkedIn...
+[2026-03-13 07:56:02] No new jobs found. Total tracked: 6
+[2026-03-13 07:56:02] ✅ Successful run completed. Timestamp saved.
+[2026-03-13 07:56:02] Single-run cycle complete. Exiting.
