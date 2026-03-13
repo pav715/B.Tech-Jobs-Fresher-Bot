@@ -71,3 +71,14 @@
 [2026-03-13 13:52:55]   Failed: Business Development Associate - CTC 6.5 -7.5 LPA - Fresher Hiring
 [2026-03-13 13:52:55] Done. Sent 0 new jobs. Total tracked: 5
 [2026-03-13 13:52:55] Single-run cycle complete. Exiting.
+[2026-03-13 08:28:54] ============================================================
+[2026-03-13 08:28:54]   B.Tech Jobs Fresher - Telegram Bot
+[2026-03-13 08:28:54]   TARGET: B.Tech Freshers | LOCATION: Hyderabad
+[2026-03-13 08:28:54]   CHECK INTERVAL: Every 5 minutes
+[2026-03-13 08:28:54] ============================================================
+[2026-03-13 08:28:54] Loaded 5 previously seen jobs.
+[2026-03-13 08:28:54] Checking for new B.Tech fresher jobs from LinkedIn...
+[2026-03-13 08:28:58] Found 1 new jobs! Sending to Telegram...
+[2026-03-13 08:29:01]   Sent: [LinkedIn] Business Development Associate - CTC 6.5 -7.5 LPA - Fresher Hiring @ PlanetSpark | Hyderabad, Telangana, India
+[2026-03-13 08:29:01] Done. Sent 1 new jobs. Total tracked: 6
+[2026-03-13 08:29:01] Single-run cycle complete. Exiting.
