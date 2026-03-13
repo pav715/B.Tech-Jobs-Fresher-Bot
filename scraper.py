@@ -11,7 +11,6 @@ import re
 import time
 import random
 from datetime import datetime, timedelta
-from urllib.parse import urljoin, quote
 from bs4 import BeautifulSoup
 import config
 

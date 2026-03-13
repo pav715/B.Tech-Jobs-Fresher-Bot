@@ -2,7 +2,7 @@ import os
 
 # ── Telegram ─────────────────────────────────────────────────────────
 BOT_TOKEN = os.environ.get("BOT_TOKEN", "")
-CHAT_ID   = os.environ.get("CHAT_ID", "")  # Use same CHAT_ID as US Tax bot
+CHAT_ID   = os.environ.get("CHAT_ID", "")
 
 # ── B.Tech Specializations (Telangana) ───────────────────────────────
 # CSE: AI&ML, Data Science, Cyber Security, CS & Business Systems
