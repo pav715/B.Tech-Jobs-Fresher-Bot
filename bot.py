@@ -95,7 +95,7 @@ def calculate_minutes_back():
 def run_cycle(seen):
     """Run one complete job search and posting cycle."""
     minutes_back = calculate_minutes_back()
-    log(f"Checking for new B.Tech fresher jobs... ({len(config.KEYWORDS)} keywords x {len(config.LOCATIONS)} locations)")
+    log(f"Checking for new B.Tech fresher jobs from LinkedIn...")
 
     try:
         jobs = fetch_all_jobs(minutes_back=minutes_back)

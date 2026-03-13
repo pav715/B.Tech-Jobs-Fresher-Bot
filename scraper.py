@@ -57,7 +57,9 @@ LOCATION_PATTERN = re.compile(
 
 
 def _is_fresher_job(title, description=""):
-    """Check if job is for freshers only."""
+    """Check if job is for freshers only.
+    Key: Must have fresher/graduate/entry-level keyword.
+    Must NOT require 2+ years experience."""
     text = f"{title} {description}".lower()
     if not FRESHER_PATTERN.search(text):
         return False
@@ -67,9 +69,9 @@ def _is_fresher_job(title, description=""):
 
 
 def _is_btech_job(title, description=""):
-    """Check if job is for B.Tech (CSE/ECE/EEE)."""
-    text = f"{title} {description}".lower()
-    return bool(BTECH_PATTERN.search(text))
+    """Always accept — filter by fresher keyword only.
+    LinkedIn search keyword (B.Tech CSE, etc.) already targets relevant roles."""
+    return True
 
 
 def _has_location(location_str):
@@ -232,11 +234,11 @@ def fetch_all_jobs(minutes_back=5):
 
     print(f"Fetching B.Tech fresher jobs from LinkedIn, Naukri, Indeed...")
 
-    # Use B.Tech specific keywords
-    search_keywords = ["B.Tech fresher", "CSE fresher", "B.Tech", "Fresher"]
+    # Broad fresher keywords that LinkedIn actually returns results for
+    search_keywords = ["Fresher Hyderabad", "B.Tech fresher Hyderabad"]
 
     for keyword in search_keywords:
-        for location in config.LOCATIONS:
+        for location in ["Hyderabad"]:  # Single location — LinkedIn returns regional results
             try:
                 # LinkedIn
                 results = scrape_linkedin(keyword, location)
@@ -277,6 +279,11 @@ def fetch_all_jobs(minutes_back=5):
         try:
             posted_str = job.get("posted", "")
             if not posted_str:
+                recent_jobs.append(job)
+                continue
+
+            # Date-only strings (YYYY-MM-DD) from LinkedIn — treat as posted today
+            if len(posted_str) == 10:
                 recent_jobs.append(job)
                 continue
 
