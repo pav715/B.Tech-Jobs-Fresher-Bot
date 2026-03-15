@@ -655,3 +655,14 @@
 [2026-03-15 08:01:05] Checking for new B.Tech fresher jobs from LinkedIn...
 [2026-03-15 08:01:09] No new jobs found. Total tracked: 9
 [2026-03-15 08:01:09] Single-run cycle complete. Exiting.
+[2026-03-15 08:50:18] ============================================================
+[2026-03-15 08:50:18]   B.Tech Jobs Fresher - Telegram Bot
+[2026-03-15 08:50:18]   TARGET: B.Tech Freshers | LOCATION: Hyderabad
+[2026-03-15 08:50:18]   CHECK INTERVAL: Every 10 minutes
+[2026-03-15 08:50:18] ============================================================
+[2026-03-15 08:50:18] Loaded 9 previously seen jobs.
+[2026-03-15 08:50:18] Checking for new B.Tech fresher jobs from LinkedIn...
+[2026-03-15 08:50:23] Found 1 new jobs! Sending to Telegram...
+[2026-03-15 08:50:25]   Sent: [LinkedIn] Inside Sales Executive (Fresher) @ Algonox Technologies | Hyderabad, Telangana, India
+[2026-03-15 08:50:25] Done. Sent 1 new jobs. Total tracked: 10
+[2026-03-15 08:50:25] Single-run cycle complete. Exiting.
