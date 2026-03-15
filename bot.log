@@ -9,3 +9,21 @@
 [2026-03-13 14:07:04] Checking for new B.Tech fresher jobs from LinkedIn...
 [2026-03-13 14:07:23] No new jobs found. Total tracked: 5
 [2026-03-13 14:07:23] Single-run cycle complete. Exiting.
+[2026-03-15 17:53:57] ============================================================
+[2026-03-15 17:53:57]   B.Tech Jobs Fresher - Telegram Bot
+[2026-03-15 17:53:57]   TARGET: B.Tech Freshers | LOCATION: Hyderabad
+[2026-03-15 17:53:57]   CHECK INTERVAL: Every 10 minutes
+[2026-03-15 17:53:57] ============================================================
+[2026-03-15 17:53:57] Loaded 5 previously seen jobs.
+[2026-03-15 17:53:57] Checking for new B.Tech fresher jobs from LinkedIn...
+[2026-03-15 17:55:41] Found 8 new jobs! Sending to Telegram...
+[2026-03-15 17:55:43]   Sent: [LinkedIn] HR Executive (Fresher / 1–2 Years Experience) @ YALAVARTHI SOFTWARE SOLUTIONS PRIVATE LIMITED | Hyderabad, Telangana, India
+[2026-03-15 17:55:46]   Sent: [LinkedIn] Order to Cash Operations New Associate @ Accenture services Pvt Ltd | Hyderabad, Telangana, India
+[2026-03-15 17:55:48]   Sent: [LinkedIn] Health-tech Sales Executive – Schools & Corporate Partnerships @ eyefit.ai | Hyderabad, Telangana, India
+[2026-03-15 17:55:51]   Sent: [LinkedIn] Doctoral Student @ BITS Pilani, Hyderabad Campus | Hyderabad, Telangana, India
+[2026-03-15 17:55:53]   Sent: [LinkedIn] Inside Sales Executive (Fresher) @ Algonox Technologies | Hyderabad, Telangana, India
+[2026-03-15 17:55:56]   Sent: [LinkedIn] 2026 Campus Hire_ Sr.Engineer_ HW @ Qualcomm | Hyderabad, Telangana, India
+[2026-03-15 17:55:58]   Sent: [LinkedIn] Domestic Voice Process (Sales) @ TP | Hyderabad, Telangana, India
+[2026-03-15 17:56:01]   Sent: [LinkedIn] Site Measurement @ Theos | Hyderabad, Telangana, India
+[2026-03-15 17:56:01] Done. Sent 8 new jobs. Total tracked: 13
+[2026-03-15 17:56:01] Single-run cycle complete. Exiting.
