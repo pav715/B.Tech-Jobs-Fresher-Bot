@@ -136,7 +136,7 @@ def run_cycle(seen):
         log(f"Scrape error: {e}")
         return False
 
-    # Today's jobs only in allowed locations
+    # Jobs from last 3 days in allowed locations (today-only was too strict — LinkedIn/Naukri often lack exact post date)
     recent = [j for j in jobs if _is_today(j) and _location_allowed(j.get("location", ""))]
     candidates = recent if recent else [j for j in jobs if _location_allowed(j.get("location", ""))]
 

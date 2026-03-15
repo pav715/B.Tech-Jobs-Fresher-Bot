@@ -132,3 +132,23 @@ def send_job(job):
     if ok:
         time.sleep(2)
     return ok
+
+
+def send_startup_message(keyword_count, location_count):
+    """Send startup message to channel."""
+    msg = (
+        "👋 *Welcome to B.Tech Jobs Fresher — Hyderabad & Telangana*\n\n"
+        "🎯 This channel posts *fresh B.Tech fresher job openings* every 10 minutes — "
+        "automatically sourced from LinkedIn, Naukri, and Indeed.\n\n"
+        "🎓 *Degrees Covered:*\n"
+        "• B.Tech / BE — CSE, ECE, EEE, IT, Mechanical, Civil\n"
+        "• M.Tech / ME\n"
+        "• All engineering specializations\n\n"
+        "💼 *Job Role:* Any role — we check description for fresher/0\\-1 exp\n\n"
+        f"🔍 Searching {keyword_count} keywords across {location_count} locations\n"
+        "📍 *Locations:* Hyderabad, Telangana only\n"
+        "👥 *Target:* Freshers \\(0\\-1 years experience\\)\n\n"
+        "🔔 *Turn on notifications* so you never miss a job\\!\n\n"
+        "✅ Good luck with your job search\\! 🚀"
+    )
+    _post(msg)
