@@ -1,14 +1,15 @@
 """
 Job scraper — B.Tech Jobs Fresher
 Sources: LinkedIn public API, Naukri API, Indeed RSS
-Filters: CSE/ECE/EEE, Hyderabad only
+Logic: Search by B.Tech-group keywords. Job role can be ANYTHING.
+       Only check job DESCRIPTION for fresher/0-1 exp indicators.
 """
 import requests
 import hashlib
 import re
 import time
 import random
-from datetime import datetime, timedelta
+from datetime import datetime
 from bs4 import BeautifulSoup
 import config
 
@@ -29,25 +30,69 @@ def job_id(url, title, company):
 
 
 def delay():
-    time.sleep(random.uniform(0.2, 0.5))
+    time.sleep(random.uniform(0.3, 0.7))
 
 
-# ── Fresher validation ─────────────────────────────────────────────
-FRESHER_PATTERN = re.compile(
-    r"\b(fresher|entry\s*level|graduate|trainee|0\s*years|0-1\s*year)\b",
-    re.IGNORECASE,
+# ── Fresher check — applied to JOB DESCRIPTION only ───────────────
+# Job ROLE/TITLE can be anything — companies put education in description
+FRESHER_DESC_PATTERN = re.compile(
+    r"""
+    fresher                         # fresher
+    | fresh\s*graduate              # fresh graduate
+    | entry[\s\-]*level             # entry level / entry-level
+    | any\s*graduate                # any graduate
+    | recent\s*graduate             # recent graduate
+    | 0[\s\-]*1\s*year              # 0-1 year / 0 - 1 year
+    | 0[\s\-]*1\s*yr                # 0-1 yr
+    | exp[:\s]*0[\s\-]*1            # exp: 0-1 / exp 0-1
+    | exp[:\s]*0\s*year             # exp: 0 year
+    | exp[:\s]*0\s*yr               # exp: 0 yr
+    | experience[:\s]*0[\s\-]*1     # experience: 0-1
+    | experience[:\s]*0\s*year      # experience: 0 year
+    | \b0\s*year[s]?\s*exp          # 0 years exp
+    | \b0\s*yr[s]?\s*exp            # 0 yrs exp
+    | no\s*experience\s*required    # no experience required
+    | without\s*experience          # without experience
+    | trainee                       # trainee
+    | campus\s*hire                 # campus hire
+    | campus\s*recruit              # campus recruit
+    | batch\s*20(2[3-9]|[3-9]\d)   # batch 2023/2024/2025 etc
+    | 2024\s*batch                  # 2024 batch
+    | 2025\s*batch                  # 2025 batch
+    | passed\s*out\s*20(2[3-9])     # passed out 2023/2024/2025
+    | b\.?tech\b                    # B.Tech
+    | b\.?\s*e\.?\b                 # BE
+    | c\.?s\.?e\.?\b                # CSE
+    | e\.?c\.?e\.?\b                # ECE
+    | e\.?e\.?e\.?\b                # EEE
+    | \bit\b                        # IT
+    | computer\s*science            # computer science
+    | information\s*technology      # information technology
+    | electronics                   # electronics
+    | electrical\s*engineering      # electrical engineering
+    | mechanical\s*engineering      # mechanical engineering
+    | civil\s*engineering           # civil engineering
+    | any\s*engineering             # any engineering
+    | engineering\s*graduate        # engineering graduate
+    | m\.?tech\b                    # M.Tech
+    | bachelor['\s]*s?\s*degree     # bachelor's degree
+    """,
+    re.IGNORECASE | re.VERBOSE,
 )
 
-REJECT_EXPERIENCE_PATTERN = re.compile(
-    r"\b(\d+\s*\+?\s*years?|2\s*years?|3\s*years?|4\s*years?|5\s*years?|"
-    r"senior|mid\s*level|experienced)\b",
-    re.IGNORECASE,
-)
-
-BTECH_PATTERN = re.compile(
-    r"\b(b\.?tech|be|cse|ece|eee|computer|electronics|electrical|"
-    r"embedded|vlsi|software|python|java|full\s*stack)\b",
-    re.IGNORECASE,
+# Reject ONLY if description clearly states 2+ years required
+# Must NOT reject: "0-1 years", "1 year", "less than 1 year"
+REJECT_EXP_PATTERN = re.compile(
+    r"""
+    \b([2-9]|\d{2,})\s*\+?\s*years?\s*(of\s*)?(experience|exp)\b  # 2+ years experience
+    | \b([2-9]|\d{2,})\s*\+?\s*yrs?\s*(of\s*)?(experience|exp)\b  # 2+ yrs experience
+    | minimum\s*[2-9]\s*years?                                      # minimum 2 years
+    | at\s*least\s*[2-9]\s*years?                                   # at least 2 years
+    | \bsenior\b                                                     # senior
+    | \blead\b                                                       # lead
+    | \bmanager\b                                                    # manager
+    """,
+    re.IGNORECASE | re.VERBOSE,
 )
 
 LOCATION_PATTERN = re.compile(
@@ -56,32 +101,42 @@ LOCATION_PATTERN = re.compile(
 )
 
 
-def _is_fresher_job(title, description=""):
-    """Check if job is for freshers only.
-    Key: Must have fresher/graduate/entry-level keyword.
-    Must NOT require 2+ years experience."""
-    text = f"{title} {description}".lower()
-    if not FRESHER_PATTERN.search(text):
+def _is_fresher_desc(description):
+    """
+    Check job DESCRIPTION for fresher/0-1 exp / B.Tech indicators.
+    Job title/role is NOT checked — can be anything.
+    Returns True if description indicates fresher/0-1 exp role for B.Tech.
+    """
+    if not description:
         return False
-    if REJECT_EXPERIENCE_PATTERN.search(text):
+    if not FRESHER_DESC_PATTERN.search(description):
         return False
-    return True
-
-
-def _is_btech_job(title, description=""):
-    """Always accept — filter by fresher keyword only.
-    LinkedIn search keyword (B.Tech CSE, etc.) already targets relevant roles."""
+    if REJECT_EXP_PATTERN.search(description):
+        return False
     return True
 
 
 def _has_location(location_str):
-    """Check if location is Hyderabad/Telangana."""
     if not location_str:
         return False
     return bool(LOCATION_PATTERN.search(location_str))
 
 
-# ── LINKEDIN (public API) ──────────────────────────────────────────
+# ── LinkedIn: fetch job description from job detail page ──────────
+def _fetch_linkedin_desc(job_url):
+    """Fetch LinkedIn job description text from the public job page."""
+    try:
+        r = requests.get(job_url, headers=HEADERS, timeout=10)
+        soup = BeautifulSoup(r.content, "html.parser")
+        desc_tag = soup.find("div", class_=re.compile(r"description|show-more-less-html", re.I))
+        if desc_tag:
+            return desc_tag.get_text(separator=" ", strip=True)
+    except Exception:
+        pass
+    return ""
+
+
+# ── LINKEDIN ──────────────────────────────────────────────────────
 def scrape_linkedin(keyword, location):
     jobs = []
     try:
@@ -96,26 +151,26 @@ def scrape_linkedin(keyword, location):
         soup = BeautifulSoup(r.content, "html.parser")
         for card in soup.find_all("li")[:20]:
             try:
-                title   = card.find("h3").get_text(strip=True) if card.find("h3") else ""
-                company = card.find("h4").get_text(strip=True) if card.find("h4") else ""
-                loc_tag = card.find("span", class_=re.compile("job-search-card__location"))
-                loc_str = loc_tag.get_text(strip=True) if loc_tag else location
+                title    = card.find("h3").get_text(strip=True) if card.find("h3") else ""
+                company  = card.find("h4").get_text(strip=True) if card.find("h4") else ""
+                loc_tag  = card.find("span", class_=re.compile("job-search-card__location"))
+                loc_str  = loc_tag.get_text(strip=True) if loc_tag else location
                 link_tag = card.find("a", href=True)
-                link    = link_tag["href"].split("?")[0] if link_tag else ""
+                link     = link_tag["href"].split("?")[0] if link_tag else ""
                 time_tag = card.find("time")
-                posted  = time_tag["datetime"] if time_tag and time_tag.get("datetime") else ""
+                posted   = time_tag["datetime"] if time_tag and time_tag.get("datetime") else ""
 
                 if not title or not link:
-                    continue
-
-                # Apply filters
-                if not _is_fresher_job(title):
-                    continue
-                if not _is_btech_job(title):
                     continue
                 if not _has_location(loc_str):
                     continue
 
+                # Fetch description and check for fresher/B.Tech indicators
+                desc = _fetch_linkedin_desc(link)
+                if not _is_fresher_desc(desc):
+                    continue
+
+                delay()
                 jobs.append({
                     "id":       job_id(link, title, company),
                     "title":    title,
@@ -133,7 +188,7 @@ def scrape_linkedin(keyword, location):
     return jobs
 
 
-# ── NAUKRI API ─────────────────────────────────────────────────────
+# ── NAUKRI ────────────────────────────────────────────────────────
 def scrape_naukri(keyword, location):
     jobs = []
     try:
@@ -145,7 +200,7 @@ def scrape_naukri(keyword, location):
             f"&keyword={kw}&location={loc}&experience=0"
             f"&jobAge=7&src=jobsearchDesk&latLong="
         )
-        r = requests.get(url, headers={**HEADERS, "appid": "109", "systemid": "109"}, timeout=10)
+        r    = requests.get(url, headers={**HEADERS, "appid": "109", "systemid": "109"}, timeout=10)
         data = r.json()
         for j in data.get("jobDetails", []):
             title   = j.get("title", "").strip()
@@ -154,15 +209,21 @@ def scrape_naukri(keyword, location):
             jurl    = f"https://www.naukri.com{j.get('jdURL', '')}"
             posted  = j.get("footerPlaceholderLabel", "")
 
+            # Use all available description fields
+            desc_parts = [
+                j.get("jobDesc", ""),
+                j.get("jobHighlight", ""),
+                " ".join(j.get("tagsAndHighlights", {}).get("highlights", [])),
+                j.get("experienceText", ""),
+                j.get("educationText", ""),
+            ]
+            desc = " ".join(str(p) for p in desc_parts if p)
+
             if not title or not jurl:
                 continue
-
-            # Apply filters
-            if not _is_fresher_job(title):
-                continue
-            if not _is_btech_job(title):
-                continue
             if not _has_location(loc_str):
+                continue
+            if not _is_fresher_desc(desc):
                 continue
 
             jobs.append({
@@ -180,7 +241,7 @@ def scrape_naukri(keyword, location):
     return jobs
 
 
-# ── INDEED INDIA (RSS) ─────────────────────────────────────────────
+# ── INDEED INDIA (RSS) ────────────────────────────────────────────
 def scrape_indeed(keyword, location):
     jobs = []
     try:
@@ -196,16 +257,14 @@ def scrape_indeed(keyword, location):
             company = company_tag.get_text(strip=True) if company_tag else "Unknown"
             pub_date = item.find("pubDate")
             posted  = pub_date.get_text(strip=True) if pub_date else ""
+            desc_tag = item.find("description")
+            desc    = desc_tag.get_text(separator=" ", strip=True) if desc_tag else ""
 
             if not title or not link:
                 continue
-
-            # Apply filters
-            if not _is_fresher_job(title):
-                continue
-            if not _is_btech_job(title):
-                continue
             if not _has_location(location):
+                continue
+            if not _is_fresher_desc(desc):
                 continue
 
             jobs.append({
@@ -226,52 +285,86 @@ def scrape_indeed(keyword, location):
 # ── MAIN SCRAPE FUNCTION ──────────────────────────────────────────
 def fetch_all_jobs():
     """
-    Fetch B.Tech fresher jobs from LinkedIn, Naukri, and Indeed.
-    Returns ALL jobs — bot.py filters by date window.
+    Fetch fresher jobs for B.Tech/BE holders.
+    Job ROLE can be anything — filter by description only.
+    Keywords cover all B.Tech groups: CSE, ECE, EEE, IT, Mech, Civil, any engineering.
     """
-    all_jobs = []
+    all_jobs  = []
     seen_urls = set()
 
-    print(f"Fetching B.Tech fresher jobs from LinkedIn, Naukri, Indeed...")
+    print("Fetching B.Tech fresher jobs from LinkedIn, Naukri, Indeed...")
 
-    # Broad fresher keywords that LinkedIn actually returns results for
-    search_keywords = ["Fresher Hyderabad", "B.Tech fresher Hyderabad"]
+    # B.Tech group keywords — covers all branches and common roles
+    search_keywords = [
+        # Core B.Tech / BE
+        "B.Tech fresher Hyderabad",
+        "BE fresher Hyderabad",
+        "engineering fresher Hyderabad",
+        "any engineering fresher Hyderabad",
+        # Branch-specific
+        "CSE fresher Hyderabad",
+        "ECE fresher Hyderabad",
+        "EEE fresher Hyderabad",
+        "IT fresher Hyderabad",
+        "mechanical engineer fresher Hyderabad",
+        "civil engineer fresher Hyderabad",
+        # Common B.Tech job roles (job role can be anything)
+        "software engineer fresher Hyderabad",
+        "software developer fresher Hyderabad",
+        "junior developer fresher Hyderabad",
+        "python developer fresher Hyderabad",
+        "java developer fresher Hyderabad",
+        "full stack developer fresher Hyderabad",
+        "frontend developer fresher Hyderabad",
+        "backend developer fresher Hyderabad",
+        "data analyst fresher Hyderabad",
+        "network engineer fresher Hyderabad",
+        "embedded engineer fresher Hyderabad",
+        "VLSI engineer fresher Hyderabad",
+        "testing engineer fresher Hyderabad",
+        "QA engineer fresher Hyderabad",
+        "automation engineer fresher Hyderabad",
+        "DevOps fresher Hyderabad",
+        "cloud fresher Hyderabad",
+        # General
+        "graduate engineer trainee Hyderabad",
+        "GET Hyderabad",
+        "trainee engineer Hyderabad",
+        "campus hire Hyderabad",
+    ]
 
     for keyword in search_keywords:
-        for location in ["Hyderabad"]:  # Single location — LinkedIn returns regional results
+        for location in ["Hyderabad"]:
             try:
-                # LinkedIn
                 results = scrape_linkedin(keyword, location)
                 for job in results:
-                    url = job.get("url", "")
-                    if url and url not in seen_urls:
-                        seen_urls.add(url)
+                    u = job.get("url", "")
+                    if u and u not in seen_urls:
+                        seen_urls.add(u)
                         all_jobs.append(job)
                 delay()
 
-                # Naukri
                 results = scrape_naukri(keyword, location)
                 for job in results:
-                    url = job.get("url", "")
-                    if url and url not in seen_urls:
-                        seen_urls.add(url)
+                    u = job.get("url", "")
+                    if u and u not in seen_urls:
+                        seen_urls.add(u)
                         all_jobs.append(job)
                 delay()
 
-                # Indeed
                 results = scrape_indeed(keyword, location)
                 for job in results:
-                    url = job.get("url", "")
-                    if url and url not in seen_urls:
-                        seen_urls.add(url)
+                    u = job.get("url", "")
+                    if u and u not in seen_urls:
+                        seen_urls.add(u)
                         all_jobs.append(job)
                 delay()
 
             except Exception as e:
                 print(f"  Error fetching {keyword}/{location}: {e}")
 
-    # Deduplicate
-    seen_ids = set()
+    # Deduplicate by job id
+    seen_ids    = set()
     unique_jobs = []
     for job in all_jobs:
         if job["id"] not in seen_ids:
