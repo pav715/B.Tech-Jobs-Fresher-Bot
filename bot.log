@@ -153,3 +153,14 @@
 [2026-03-16 00:03:08] Checking for new B.Tech fresher jobs from LinkedIn...
 [2026-03-16 00:04:50] No new jobs found. Total tracked: 13
 [2026-03-16 00:04:50] Single-run cycle complete. Exiting.
+[2026-03-16 03:30:03] ============================================================
+[2026-03-16 03:30:03]   B.Tech Jobs Fresher - Telegram Bot
+[2026-03-16 03:30:03]   TARGET: B.Tech Freshers | LOCATION: Hyderabad
+[2026-03-16 03:30:03]   CHECK INTERVAL: Every 10 minutes
+[2026-03-16 03:30:03] ============================================================
+[2026-03-16 03:30:03] Loaded 13 previously seen jobs.
+[2026-03-16 03:30:03] Checking for new B.Tech fresher jobs from LinkedIn...
+[2026-03-16 03:31:51] Found 1 new jobs! Sending to Telegram...
+[2026-03-16 03:31:53]   Sent: [LinkedIn] Order to Cash Operations New Associate @ Accenture in India | Hyderabad, Telangana, India
+[2026-03-16 03:31:53] Done. Sent 1 new jobs. Total tracked: 14
+[2026-03-16 03:31:53] Single-run cycle complete. Exiting.
