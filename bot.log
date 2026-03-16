@@ -246,3 +246,14 @@
 [2026-03-16 11:14:44]   Sent: [LinkedIn] Domestic Voice Process (Sales) @ TP | Hyderabad, Telangana, India
 [2026-03-16 11:14:44] Done. Sent 2 new jobs. Total tracked: 15
 [2026-03-16 11:14:44] Single-run cycle complete. Exiting.
+[2026-03-16 11:57:46] ============================================================
+[2026-03-16 11:57:46]   B.Tech Jobs Fresher - Telegram Bot
+[2026-03-16 11:57:46]   TARGET: B.Tech Freshers | LOCATION: Hyderabad
+[2026-03-16 11:57:46]   CHECK INTERVAL: Every 10 minutes
+[2026-03-16 11:57:46] ============================================================
+[2026-03-16 11:57:46] Loaded 15 previously seen jobs.
+[2026-03-16 11:57:46] Checking for new B.Tech fresher jobs from LinkedIn...
+[2026-03-16 11:59:34] Found 1 new jobs! Sending to Telegram...
+[2026-03-16 11:59:37]   Sent: [LinkedIn] Medical Devices Sales Representative @ Ababil Healthcare Private Limited | Hyderabad, Telangana, India
+[2026-03-16 11:59:37] Done. Sent 1 new jobs. Total tracked: 16
+[2026-03-16 11:59:37] Single-run cycle complete. Exiting.
