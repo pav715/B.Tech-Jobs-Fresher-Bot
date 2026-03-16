@@ -234,3 +234,15 @@
 [2026-03-16 10:14:39] Checking for new B.Tech fresher jobs from LinkedIn...
 [2026-03-16 10:16:07] No new jobs found. Total tracked: 13
 [2026-03-16 10:16:07] Single-run cycle complete. Exiting.
+[2026-03-16 11:12:45] ============================================================
+[2026-03-16 11:12:45]   B.Tech Jobs Fresher - Telegram Bot
+[2026-03-16 11:12:45]   TARGET: B.Tech Freshers | LOCATION: Hyderabad
+[2026-03-16 11:12:45]   CHECK INTERVAL: Every 10 minutes
+[2026-03-16 11:12:45] ============================================================
+[2026-03-16 11:12:45] Loaded 13 previously seen jobs.
+[2026-03-16 11:12:45] Checking for new B.Tech fresher jobs from LinkedIn...
+[2026-03-16 11:14:38] Found 2 new jobs! Sending to Telegram...
+[2026-03-16 11:14:41]   Sent: [LinkedIn] Graphic Designer (0–6 Months Experience) @ People Prime Worldwide | Hyderabad, Telangana, India
+[2026-03-16 11:14:44]   Sent: [LinkedIn] Domestic Voice Process (Sales) @ TP | Hyderabad, Telangana, India
+[2026-03-16 11:14:44] Done. Sent 2 new jobs. Total tracked: 15
+[2026-03-16 11:14:44] Single-run cycle complete. Exiting.
