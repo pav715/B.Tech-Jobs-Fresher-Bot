@@ -626,3 +626,14 @@
 [2026-03-18 01:45:54] ============================================================
 [2026-03-18 01:45:54] Loaded 26 previously seen jobs.
 [2026-03-18 01:45:54] Checking for new B.Tech fresher jobs from LinkedIn...
+[2026-03-18 04:10:05] ============================================================
+[2026-03-18 04:10:05]   B.Tech Jobs Fresher - Telegram Bot
+[2026-03-18 04:10:05]   TARGET: B.Tech Freshers | LOCATION: Hyderabad
+[2026-03-18 04:10:05]   CHECK INTERVAL: Every 10 minutes
+[2026-03-18 04:10:05] ============================================================
+[2026-03-18 04:10:05] Loaded 26 previously seen jobs.
+[2026-03-18 04:10:05] Checking for new B.Tech fresher jobs from LinkedIn...
+[2026-03-18 04:12:01] Found 1 new jobs! Sending to Telegram...
+[2026-03-18 04:12:04]   Sent: [LinkedIn] Trainee Engineer in Sangareddy, Greater Noida, Mahbubnagar, Warangal, Hyderabad, Noida, Gurgaon, Ghaziabad, Faridabad @ Impressico Business Solutions | Hyderabad, Telangana, India
+[2026-03-18 04:12:04] Done. Sent 1 new jobs. Total tracked: 27
+[2026-03-18 04:12:04] Single-run cycle complete. Exiting.
