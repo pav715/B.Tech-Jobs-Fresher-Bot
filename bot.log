@@ -1094,3 +1094,15 @@
 [2026-03-20 00:02:16] Checking for new B.Tech fresher jobs from LinkedIn...
 [2026-03-20 00:03:42] No new jobs found. Total tracked: 31
 [2026-03-20 00:03:42] Single-run cycle complete. Exiting.
+[2026-03-20 02:50:02] ============================================================
+[2026-03-20 02:50:02]   B.Tech Jobs Fresher - Telegram Bot
+[2026-03-20 02:50:02]   TARGET: B.Tech Freshers | LOCATION: Hyderabad
+[2026-03-20 02:50:02]   CHECK INTERVAL: Every 10 minutes
+[2026-03-20 02:50:02] ============================================================
+[2026-03-20 02:50:02] Loaded 31 previously seen jobs.
+[2026-03-20 02:50:02] Checking for new B.Tech fresher jobs from LinkedIn...
+[2026-03-20 02:51:37] Found 2 new jobs! Sending to Telegram...
+[2026-03-20 02:51:40]   Sent: [LinkedIn] Sales and Marketing Internship in Bangalore, Hyderabad, Vadodara, Mumbai, Ahmedabad, Pune (Hybrid) @ Cell-Vitals Nutrition | Hyderabad, Telangana, India
+[2026-03-20 02:51:43]   Sent: [LinkedIn] Trainee Engineer in Sangareddy, Hyderabad, Mahbubnagar, Warangal, Gurgaon, Greater Noida, Ghaziabad, Faridabad, Noida @ Impressico Business Solutions | Hyderabad, Telangana, India
+[2026-03-20 02:51:43] Done. Sent 2 new jobs. Total tracked: 33
+[2026-03-20 02:51:43] Single-run cycle complete. Exiting.
