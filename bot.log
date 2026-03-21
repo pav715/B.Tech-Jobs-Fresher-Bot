@@ -1504,3 +1504,14 @@
 [2026-03-21 10:38:06] Checking for new B.Tech fresher jobs from LinkedIn...
 [2026-03-21 10:39:46] No new jobs found. Total tracked: 39
 [2026-03-21 10:39:46] Single-run cycle complete. Exiting.
+[2026-03-21 10:57:49] ============================================================
+[2026-03-21 10:57:49]   B.Tech Jobs Fresher - Telegram Bot
+[2026-03-21 10:57:49]   TARGET: B.Tech Freshers | LOCATION: Hyderabad
+[2026-03-21 10:57:49]   CHECK INTERVAL: Every 10 minutes
+[2026-03-21 10:57:49] ============================================================
+[2026-03-21 10:57:49] Loaded 39 previously seen jobs.
+[2026-03-21 10:57:49] Checking for new B.Tech fresher jobs from LinkedIn...
+[2026-03-21 10:59:13] Found 1 new jobs! Sending to Telegram...
+[2026-03-21 10:59:16]   Sent: [LinkedIn] Hiring @ ELETRIC FUEL | Hyderabad, Telangana, India
+[2026-03-21 10:59:16] Done. Sent 1 new jobs. Total tracked: 40
+[2026-03-21 10:59:16] Single-run cycle complete. Exiting.
