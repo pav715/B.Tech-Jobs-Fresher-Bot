@@ -2199,3 +2199,14 @@
 [2026-03-23 06:05:40] Checking for new B.Tech fresher jobs from LinkedIn...
 [2026-03-23 06:07:04] No new jobs found. Total tracked: 45
 [2026-03-23 06:07:04] Single-run cycle complete. Exiting.
+[2026-03-23 07:37:46] ============================================================
+[2026-03-23 07:37:46]   B.Tech Jobs Fresher - Telegram Bot
+[2026-03-23 07:37:46]   TARGET: B.Tech Freshers | LOCATION: Hyderabad
+[2026-03-23 07:37:46]   CHECK INTERVAL: Every 10 minutes
+[2026-03-23 07:37:46] ============================================================
+[2026-03-23 07:37:46] Loaded 45 previously seen jobs.
+[2026-03-23 07:37:46] Checking for new B.Tech fresher jobs from LinkedIn...
+[2026-03-23 07:39:16] Found 1 new jobs! Sending to Telegram...
+[2026-03-23 07:39:19]   Sent: [LinkedIn] Oracle Functional Consultant @ People Prime Worldwide | Hyderabad, Telangana, India
+[2026-03-23 07:39:19] Done. Sent 1 new jobs. Total tracked: 46
+[2026-03-23 07:39:19] Single-run cycle complete. Exiting.
