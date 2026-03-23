@@ -2241,3 +2241,15 @@
 [2026-03-23 10:36:01] Checking for new B.Tech fresher jobs from LinkedIn...
 [2026-03-23 10:37:36] No new jobs found. Total tracked: 48
 [2026-03-23 10:37:36] Single-run cycle complete. Exiting.
+[2026-03-23 11:27:42] ============================================================
+[2026-03-23 11:27:42]   B.Tech Jobs Fresher - Telegram Bot
+[2026-03-23 11:27:42]   TARGET: B.Tech Freshers | LOCATION: Hyderabad
+[2026-03-23 11:27:42]   CHECK INTERVAL: Every 10 minutes
+[2026-03-23 11:27:42] ============================================================
+[2026-03-23 11:27:42] Loaded 48 previously seen jobs.
+[2026-03-23 11:27:42] Checking for new B.Tech fresher jobs from LinkedIn...
+[2026-03-23 11:29:14] Found 2 new jobs! Sending to Telegram...
+[2026-03-23 11:29:16]   Sent: [LinkedIn] Trainee Analyst - Mortgage Process (Fresher) @ FinacPlus | Hyderabad, Telangana, India
+[2026-03-23 11:29:19]   Sent: [LinkedIn] 2026 Campus Hire_Engineer_SW @ Qualcomm | Hyderabad, Telangana, India
+[2026-03-23 11:29:19] Done. Sent 2 new jobs. Total tracked: 50
+[2026-03-23 11:29:19] Single-run cycle complete. Exiting.
