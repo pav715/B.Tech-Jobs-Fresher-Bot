@@ -2262,3 +2262,14 @@
 [2026-03-23 12:03:12] Checking for new B.Tech fresher jobs from LinkedIn...
 [2026-03-23 12:04:38] No new jobs found. Total tracked: 50
 [2026-03-23 12:04:38] Single-run cycle complete. Exiting.
+[2026-03-23 13:43:03] ============================================================
+[2026-03-23 13:43:03]   B.Tech Jobs Fresher - Telegram Bot
+[2026-03-23 13:43:03]   TARGET: B.Tech Freshers | LOCATION: Hyderabad
+[2026-03-23 13:43:03]   CHECK INTERVAL: Every 10 minutes
+[2026-03-23 13:43:03] ============================================================
+[2026-03-23 13:43:03] Loaded 50 previously seen jobs.
+[2026-03-23 13:43:03] Checking for new B.Tech fresher jobs from LinkedIn...
+[2026-03-23 13:44:48] Found 1 new jobs! Sending to Telegram...
+[2026-03-23 13:44:50]   Sent: [LinkedIn] Assistant Professor in CSE/IT (Fresher PhD Thesis Submitted) @ Amity University | Hyderabad, Telangana, India
+[2026-03-23 13:44:50] Done. Sent 1 new jobs. Total tracked: 51
+[2026-03-23 13:44:50] Single-run cycle complete. Exiting.
