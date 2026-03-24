@@ -2495,3 +2495,14 @@
 [2026-03-24 12:01:41] Checking for new B.Tech fresher jobs from LinkedIn...
 [2026-03-24 12:03:22] No new jobs found. Total tracked: 54
 [2026-03-24 12:03:22] Single-run cycle complete. Exiting.
+[2026-03-24 13:44:33] ============================================================
+[2026-03-24 13:44:33]   B.Tech Jobs Fresher - Telegram Bot
+[2026-03-24 13:44:33]   TARGET: B.Tech Freshers | LOCATION: Hyderabad
+[2026-03-24 13:44:33]   CHECK INTERVAL: Every 10 minutes
+[2026-03-24 13:44:33] ============================================================
+[2026-03-24 13:44:33] Loaded 54 previously seen jobs.
+[2026-03-24 13:44:33] Checking for new B.Tech fresher jobs from LinkedIn...
+[2026-03-24 13:46:17] Found 1 new jobs! Sending to Telegram...
+[2026-03-24 13:46:20]   Sent: [LinkedIn] DFT Trainee Engineer @ Quest Global | Hyderabad, Telangana, India
+[2026-03-24 13:46:20] Done. Sent 1 new jobs. Total tracked: 55
+[2026-03-24 13:46:20] Single-run cycle complete. Exiting.
