@@ -2679,3 +2679,15 @@
 [2026-03-25 09:03:58] Checking for new B.Tech fresher jobs from LinkedIn...
 [2026-03-25 09:05:37] No new jobs found. Total tracked: 56
 [2026-03-25 09:05:37] Single-run cycle complete. Exiting.
+[2026-03-25 10:04:06] ============================================================
+[2026-03-25 10:04:06]   B.Tech Jobs Fresher - Telegram Bot
+[2026-03-25 10:04:06]   TARGET: B.Tech Freshers | LOCATION: Hyderabad
+[2026-03-25 10:04:06]   CHECK INTERVAL: Every 10 minutes
+[2026-03-25 10:04:06] ============================================================
+[2026-03-25 10:04:06] Loaded 56 previously seen jobs.
+[2026-03-25 10:04:06] Checking for new B.Tech fresher jobs from LinkedIn...
+[2026-03-25 10:05:46] Found 2 new jobs! Sending to Telegram...
+[2026-03-25 10:05:49]   Sent: [LinkedIn] EIC Intern @ Cushman & Wakefield | Greater Hyderabad Area
+[2026-03-25 10:05:52]   Sent: [LinkedIn] EIC Intern @ Cushman & Wakefield | Greater Hyderabad Area
+[2026-03-25 10:05:52] Done. Sent 2 new jobs. Total tracked: 58
+[2026-03-25 10:05:52] Single-run cycle complete. Exiting.
