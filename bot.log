@@ -2752,3 +2752,15 @@
 [2026-03-25 17:31:32] ============================================================
 [2026-03-25 17:31:32] Loaded 58 previously seen jobs.
 [2026-03-25 17:31:32] Checking for new B.Tech fresher jobs from LinkedIn...
+[2026-03-25 18:31:04] ============================================================
+[2026-03-25 18:31:04]   B.Tech Jobs Fresher - Telegram Bot
+[2026-03-25 18:31:04]   TARGET: B.Tech Freshers | LOCATION: Hyderabad
+[2026-03-25 18:31:04]   CHECK INTERVAL: Every 10 minutes
+[2026-03-25 18:31:04] ============================================================
+[2026-03-25 18:31:04] Loaded 58 previously seen jobs.
+[2026-03-25 18:31:04] Checking for new B.Tech fresher jobs from LinkedIn...
+[2026-03-25 18:32:48] Found 2 new jobs! Sending to Telegram...
+[2026-03-25 18:32:51]   Sent: [LinkedIn] CA0305 - Junior Solutions Engineer B.Sc. CS Freshers @ Cloudangles | Hyderabad, Telangana, India
+[2026-03-25 18:32:54]   Sent: [LinkedIn] Content / Proposal Writer (Fresher) @ InteliX Systems | Hyderabad, Telangana, India
+[2026-03-25 18:32:54] Done. Sent 2 new jobs. Total tracked: 60
+[2026-03-25 18:32:54] Single-run cycle complete. Exiting.
