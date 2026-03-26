@@ -2904,3 +2904,14 @@
 [2026-03-26 09:42:02] Checking for new B.Tech fresher jobs from LinkedIn...
 [2026-03-26 09:43:49] No new jobs found. Total tracked: 63
 [2026-03-26 09:43:49] Single-run cycle complete. Exiting.
+[2026-03-26 10:36:02] ============================================================
+[2026-03-26 10:36:02]   B.Tech Jobs Fresher - Telegram Bot
+[2026-03-26 10:36:02]   TARGET: B.Tech Freshers | LOCATION: Hyderabad
+[2026-03-26 10:36:02]   CHECK INTERVAL: Every 10 minutes
+[2026-03-26 10:36:02] ============================================================
+[2026-03-26 10:36:02] Loaded 63 previously seen jobs.
+[2026-03-26 10:36:02] Checking for new B.Tech fresher jobs from LinkedIn...
+[2026-03-26 10:38:00] Found 1 new jobs! Sending to Telegram...
+[2026-03-26 10:38:03]   Sent: [LinkedIn] Intern @ TechnipFMC | Hyderabad, Telangana, India
+[2026-03-26 10:38:03] Done. Sent 1 new jobs. Total tracked: 64
+[2026-03-26 10:38:03] Single-run cycle complete. Exiting.
