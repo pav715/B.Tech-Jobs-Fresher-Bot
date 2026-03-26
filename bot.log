@@ -2942,3 +2942,14 @@
 [2026-03-26 13:57:59] Checking for new B.Tech fresher jobs from LinkedIn...
 [2026-03-26 13:59:23] No new jobs found. Total tracked: 64
 [2026-03-26 13:59:23] Single-run cycle complete. Exiting.
+[2026-03-26 15:07:09] ============================================================
+[2026-03-26 15:07:09]   B.Tech Jobs Fresher - Telegram Bot
+[2026-03-26 15:07:09]   TARGET: B.Tech Freshers | LOCATION: Hyderabad
+[2026-03-26 15:07:09]   CHECK INTERVAL: Every 10 minutes
+[2026-03-26 15:07:09] ============================================================
+[2026-03-26 15:07:09] Loaded 64 previously seen jobs.
+[2026-03-26 15:07:09] Checking for new B.Tech fresher jobs from LinkedIn...
+[2026-03-26 15:09:07] Found 1 new jobs! Sending to Telegram...
+[2026-03-26 15:09:10]   Sent: [LinkedIn] Graduate Engineer Trainee @ Regal Rexnord | Hyderabad, Telangana, India
+[2026-03-26 15:09:10] Done. Sent 1 new jobs. Total tracked: 65
+[2026-03-26 15:09:10] Single-run cycle complete. Exiting.
