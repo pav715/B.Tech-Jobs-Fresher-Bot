@@ -2863,3 +2863,15 @@
 [2026-03-26 05:49:15] Checking for new B.Tech fresher jobs from LinkedIn...
 [2026-03-26 05:50:55] No new jobs found. Total tracked: 60
 [2026-03-26 05:50:55] Single-run cycle complete. Exiting.
+[2026-03-26 06:51:32] ============================================================
+[2026-03-26 06:51:32]   B.Tech Jobs Fresher - Telegram Bot
+[2026-03-26 06:51:32]   TARGET: B.Tech Freshers | LOCATION: Hyderabad
+[2026-03-26 06:51:32]   CHECK INTERVAL: Every 10 minutes
+[2026-03-26 06:51:32] ============================================================
+[2026-03-26 06:51:32] Loaded 60 previously seen jobs.
+[2026-03-26 06:51:32] Checking for new B.Tech fresher jobs from LinkedIn...
+[2026-03-26 06:53:25] Found 2 new jobs! Sending to Telegram...
+[2026-03-26 06:53:28]   Sent: [LinkedIn] Technical Sales Associate @ Shubban Technologies Pvt Ltd | Greater Hyderabad Area
+[2026-03-26 06:53:31]   Sent: [LinkedIn] 3D Printing Intern @ Garuda3D | Hyderabad, Telangana, India
+[2026-03-26 06:53:31] Done. Sent 2 new jobs. Total tracked: 62
+[2026-03-26 06:53:31] Single-run cycle complete. Exiting.
