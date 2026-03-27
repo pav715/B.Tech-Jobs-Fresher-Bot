@@ -3170,3 +3170,14 @@
 [2026-03-27 14:15:34] Checking for new B.Tech fresher jobs from LinkedIn...
 [2026-03-27 14:17:10] No new jobs found. Total tracked: 71
 [2026-03-27 14:17:10] Single-run cycle complete. Exiting.
+[2026-03-27 15:10:27] ============================================================
+[2026-03-27 15:10:27]   B.Tech Jobs Fresher - Telegram Bot
+[2026-03-27 15:10:27]   TARGET: B.Tech Freshers | LOCATION: Hyderabad
+[2026-03-27 15:10:27]   CHECK INTERVAL: Every 10 minutes
+[2026-03-27 15:10:27] ============================================================
+[2026-03-27 15:10:27] Loaded 71 previously seen jobs.
+[2026-03-27 15:10:27] Checking for new B.Tech fresher jobs from LinkedIn...
+[2026-03-27 15:12:01] Found 1 new jobs! Sending to Telegram...
+[2026-03-27 15:12:04]   Sent: [LinkedIn] Intern AMTS @ griddable.io | Greater Hyderabad Area
+[2026-03-27 15:12:04] Done. Sent 1 new jobs. Total tracked: 72
+[2026-03-27 15:12:04] Single-run cycle complete. Exiting.
