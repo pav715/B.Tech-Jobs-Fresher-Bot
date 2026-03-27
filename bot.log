@@ -3208,3 +3208,14 @@
 [2026-03-27 18:00:36] Checking for new B.Tech fresher jobs from LinkedIn...
 [2026-03-27 18:02:43] No new jobs found. Total tracked: 72
 [2026-03-27 18:02:43] Single-run cycle complete. Exiting.
+[2026-03-27 19:06:52] ============================================================
+[2026-03-27 19:06:52]   B.Tech Jobs Fresher - Telegram Bot
+[2026-03-27 19:06:52]   TARGET: B.Tech Freshers | LOCATION: Hyderabad
+[2026-03-27 19:06:52]   CHECK INTERVAL: Every 10 minutes
+[2026-03-27 19:06:52] ============================================================
+[2026-03-27 19:06:52] Loaded 72 previously seen jobs.
+[2026-03-27 19:06:52] Checking for new B.Tech fresher jobs from LinkedIn...
+[2026-03-27 19:08:20] Found 1 new jobs! Sending to Telegram...
+[2026-03-27 19:08:23]   Sent: [LinkedIn] Immediate Need  US IT Recruiting for Fresher (Female) @ Kzen India Pvt Ltd | Hyderabad, Telangana, India
+[2026-03-27 19:08:23] Done. Sent 1 new jobs. Total tracked: 73
+[2026-03-27 19:08:23] Single-run cycle complete. Exiting.
