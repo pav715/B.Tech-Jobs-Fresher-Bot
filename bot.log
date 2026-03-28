@@ -3522,3 +3522,14 @@
 [2026-03-28 19:02:46] Checking for new B.Tech fresher jobs from LinkedIn...
 [2026-03-28 19:04:07] No new jobs found. Total tracked: 76
 [2026-03-28 19:04:07] Single-run cycle complete. Exiting.
+[2026-03-28 19:38:28] ============================================================
+[2026-03-28 19:38:28]   B.Tech Jobs Fresher - Telegram Bot
+[2026-03-28 19:38:28]   TARGET: B.Tech Freshers | LOCATION: Hyderabad
+[2026-03-28 19:38:28]   CHECK INTERVAL: Every 10 minutes
+[2026-03-28 19:38:28] ============================================================
+[2026-03-28 19:38:28] Loaded 76 previously seen jobs.
+[2026-03-28 19:38:28] Checking for new B.Tech fresher jobs from LinkedIn...
+[2026-03-28 19:39:49] Found 1 new jobs! Sending to Telegram...
+[2026-03-28 19:39:52]   Sent: [LinkedIn] Machine Learning Engineer Master's (Intern)- India Engineering/ Splunk / UHR @ Cisco | Hyderabad, Telangana, India
+[2026-03-28 19:39:52] Done. Sent 1 new jobs. Total tracked: 77
+[2026-03-28 19:39:52] Single-run cycle complete. Exiting.
