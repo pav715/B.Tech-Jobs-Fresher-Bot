@@ -3347,3 +3347,14 @@
 [2026-03-28 07:54:09] Checking for new B.Tech fresher jobs from LinkedIn...
 [2026-03-28 07:55:59] No new jobs found. Total tracked: 74
 [2026-03-28 07:55:59] Single-run cycle complete. Exiting.
+[2026-03-28 08:29:53] ============================================================
+[2026-03-28 08:29:53]   B.Tech Jobs Fresher - Telegram Bot
+[2026-03-28 08:29:53]   TARGET: B.Tech Freshers | LOCATION: Hyderabad
+[2026-03-28 08:29:53]   CHECK INTERVAL: Every 10 minutes
+[2026-03-28 08:29:53] ============================================================
+[2026-03-28 08:29:53] Loaded 74 previously seen jobs.
+[2026-03-28 08:29:53] Checking for new B.Tech fresher jobs from LinkedIn...
+[2026-03-28 08:31:41] Found 1 new jobs! Sending to Telegram...
+[2026-03-28 08:31:44]   Sent: [LinkedIn] Mechanical Design Engineer - PCB Manufacturing & Fabrication - Entry Level - Fresher @ Argus Systems - AESPL | Hyderabad, Telangana, India
+[2026-03-28 08:31:44] Done. Sent 1 new jobs. Total tracked: 75
+[2026-03-28 08:31:44] Single-run cycle complete. Exiting.
