@@ -3394,3 +3394,14 @@
 [2026-03-28 10:53:30] Checking for new B.Tech fresher jobs from LinkedIn...
 [2026-03-28 10:55:15] No new jobs found. Total tracked: 75
 [2026-03-28 10:55:15] Single-run cycle complete. Exiting.
+[2026-03-28 11:20:02] ============================================================
+[2026-03-28 11:20:02]   B.Tech Jobs Fresher - Telegram Bot
+[2026-03-28 11:20:02]   TARGET: B.Tech Freshers | LOCATION: Hyderabad
+[2026-03-28 11:20:02]   CHECK INTERVAL: Every 10 minutes
+[2026-03-28 11:20:02] ============================================================
+[2026-03-28 11:20:02] Loaded 75 previously seen jobs.
+[2026-03-28 11:20:02] Checking for new B.Tech fresher jobs from LinkedIn...
+[2026-03-28 11:21:57] Found 1 new jobs! Sending to Telegram...
+[2026-03-28 11:22:00]   Sent: [LinkedIn] Security Engineer, University Graduate, 2026 @ Google | Hyderabad, Telangana, India
+[2026-03-28 11:22:00] Done. Sent 1 new jobs. Total tracked: 76
+[2026-03-28 11:22:00] Single-run cycle complete. Exiting.
