@@ -3318,3 +3318,14 @@
 [2026-03-28 05:11:51] Checking for new B.Tech fresher jobs from LinkedIn...
 [2026-03-28 05:13:39] No new jobs found. Total tracked: 73
 [2026-03-28 05:13:39] Single-run cycle complete. Exiting.
+[2026-03-28 06:11:18] ============================================================
+[2026-03-28 06:11:18]   B.Tech Jobs Fresher - Telegram Bot
+[2026-03-28 06:11:18]   TARGET: B.Tech Freshers | LOCATION: Hyderabad
+[2026-03-28 06:11:18]   CHECK INTERVAL: Every 10 minutes
+[2026-03-28 06:11:18] ============================================================
+[2026-03-28 06:11:18] Loaded 73 previously seen jobs.
+[2026-03-28 06:11:18] Checking for new B.Tech fresher jobs from LinkedIn...
+[2026-03-28 06:13:01] Found 1 new jobs! Sending to Telegram...
+[2026-03-28 06:13:04]   Sent: [LinkedIn] QuantumRAiSE Intern @ igebra.ai | Hyderabad, Telangana, India
+[2026-03-28 06:13:04] Done. Sent 1 new jobs. Total tracked: 74
+[2026-03-28 06:13:04] Single-run cycle complete. Exiting.
