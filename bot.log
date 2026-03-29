@@ -3839,3 +3839,14 @@
 [2026-03-29 19:43:23] Checking for new B.Tech fresher jobs from LinkedIn...
 [2026-03-29 19:45:02] No new jobs found. Total tracked: 77
 [2026-03-29 19:45:02] Single-run cycle complete. Exiting.
+[2026-03-29 20:01:41] ============================================================
+[2026-03-29 20:01:41]   B.Tech Jobs Fresher - Telegram Bot
+[2026-03-29 20:01:41]   TARGET: B.Tech Freshers | LOCATION: Hyderabad
+[2026-03-29 20:01:41]   CHECK INTERVAL: Every 10 minutes
+[2026-03-29 20:01:41] ============================================================
+[2026-03-29 20:01:41] Loaded 77 previously seen jobs.
+[2026-03-29 20:01:41] Checking for new B.Tech fresher jobs from LinkedIn...
+[2026-03-29 20:03:23] Found 1 new jobs! Sending to Telegram...
+[2026-03-29 20:03:26]   Sent: [LinkedIn] Salesforce Administrator/Salesforce Business Analyst @ Haparz | Hyderabad, Telangana, India
+[2026-03-29 20:03:26] Done. Sent 1 new jobs. Total tracked: 78
+[2026-03-29 20:03:26] Single-run cycle complete. Exiting.
