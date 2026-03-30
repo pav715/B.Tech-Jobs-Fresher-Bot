@@ -3922,3 +3922,15 @@
 [2026-03-30 01:06:59] Checking for new B.Tech fresher jobs from LinkedIn...
 [2026-03-30 01:08:43] No new jobs found. Total tracked: 78
 [2026-03-30 01:08:43] Single-run cycle complete. Exiting.
+[2026-03-30 04:16:29] ============================================================
+[2026-03-30 04:16:29]   B.Tech Jobs Fresher - Telegram Bot
+[2026-03-30 04:16:29]   TARGET: B.Tech Freshers | LOCATION: Hyderabad
+[2026-03-30 04:16:29]   CHECK INTERVAL: Every 10 minutes
+[2026-03-30 04:16:29] ============================================================
+[2026-03-30 04:16:29] Loaded 78 previously seen jobs.
+[2026-03-30 04:16:29] Checking for new B.Tech fresher jobs from LinkedIn...
+[2026-03-30 04:18:19] Found 2 new jobs! Sending to Telegram...
+[2026-03-30 04:18:22]   Sent: [LinkedIn] We’re Hiring: Java Developer (Fresher) | Hyderabad (Onsite Interview) @ Belen IT Solutions | Hyderabad, Telangana, India
+[2026-03-30 04:18:25]   Sent: [LinkedIn] We’re Hiring: Angular Developer (Fresher) | Hyderabad (Onsite Interview) @ Belen IT Solutions | Hyderabad, Telangana, India
+[2026-03-30 04:18:25] Done. Sent 2 new jobs. Total tracked: 80
+[2026-03-30 04:18:25] Single-run cycle complete. Exiting.
