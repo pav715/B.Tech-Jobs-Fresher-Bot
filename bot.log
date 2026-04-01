@@ -4353,3 +4353,15 @@
 [2026-04-01 09:56:56] Checking for new B.Tech fresher jobs from LinkedIn...
 [2026-04-01 09:58:10] No new jobs found. Total tracked: 86
 [2026-04-01 09:58:10] Single-run cycle complete. Exiting.
+[2026-04-01 10:56:10] ============================================================
+[2026-04-01 10:56:10]   B.Tech Jobs Fresher - Telegram Bot
+[2026-04-01 10:56:10]   TARGET: B.Tech Freshers | LOCATION: Hyderabad
+[2026-04-01 10:56:10]   CHECK INTERVAL: Every 10 minutes
+[2026-04-01 10:56:10] ============================================================
+[2026-04-01 10:56:10] Loaded 86 previously seen jobs.
+[2026-04-01 10:56:10] Checking for new B.Tech fresher jobs from LinkedIn...
+[2026-04-01 10:58:09] Found 2 new jobs! Sending to Telegram...
+[2026-04-01 10:58:12]   Sent: [LinkedIn] Analyst @ HSBC | Hyderabad, Telangana, India
+[2026-04-01 10:58:15]   Sent: [LinkedIn] GNM staff Nurse @ Achievers Spot | Hyderabad, Telangana, India
+[2026-04-01 10:58:15] Done. Sent 2 new jobs. Total tracked: 88
+[2026-04-01 10:58:15] Single-run cycle complete. Exiting.
