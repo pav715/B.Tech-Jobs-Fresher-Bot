@@ -4488,3 +4488,14 @@
 [2026-04-01 23:48:47] Checking for new B.Tech fresher jobs from LinkedIn...
 [2026-04-01 23:50:35] No new jobs found. Total tracked: 88
 [2026-04-01 23:50:35] Single-run cycle complete. Exiting.
+[2026-04-02 00:59:37] ============================================================
+[2026-04-02 00:59:37]   B.Tech Jobs Fresher - Telegram Bot
+[2026-04-02 00:59:37]   TARGET: B.Tech Freshers | LOCATION: Hyderabad
+[2026-04-02 00:59:37]   CHECK INTERVAL: Every 10 minutes
+[2026-04-02 00:59:37] ============================================================
+[2026-04-02 00:59:37] Loaded 88 previously seen jobs.
+[2026-04-02 00:59:37] Checking for new B.Tech fresher jobs from LinkedIn...
+[2026-04-02 01:01:31] Found 1 new jobs! Sending to Telegram...
+[2026-04-02 01:01:34]   Sent: [LinkedIn] Content & Creative Executive @ Shreya Infra Group | Hyderabad, Telangana, India
+[2026-04-02 01:01:34] Done. Sent 1 new jobs. Total tracked: 89
+[2026-04-02 01:01:34] Single-run cycle complete. Exiting.
