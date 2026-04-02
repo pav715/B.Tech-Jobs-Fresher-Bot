@@ -4566,3 +4566,14 @@
 [2026-04-02 10:37:25] Checking for new B.Tech fresher jobs from LinkedIn...
 [2026-04-02 10:39:13] No new jobs found. Total tracked: 92
 [2026-04-02 10:39:13] Single-run cycle complete. Exiting.
+[2026-04-02 11:29:23] ============================================================
+[2026-04-02 11:29:23]   B.Tech Jobs Fresher - Telegram Bot
+[2026-04-02 11:29:23]   TARGET: B.Tech Freshers | LOCATION: Hyderabad
+[2026-04-02 11:29:23]   CHECK INTERVAL: Every 10 minutes
+[2026-04-02 11:29:23] ============================================================
+[2026-04-02 11:29:23] Loaded 92 previously seen jobs.
+[2026-04-02 11:29:23] Checking for new B.Tech fresher jobs from LinkedIn...
+[2026-04-02 11:31:22] Found 1 new jobs! Sending to Telegram...
+[2026-04-02 11:31:25]   Sent: [LinkedIn] Fresher GET( Mechanical Engineer - B.tech/Diploma) @ B&G Engineering Industries | Hyderabad, Telangana, India
+[2026-04-02 11:31:25] Done. Sent 1 new jobs. Total tracked: 93
+[2026-04-02 11:31:25] Single-run cycle complete. Exiting.
