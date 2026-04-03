@@ -4724,3 +4724,15 @@
 [2026-04-03 01:01:37] Checking for new B.Tech fresher jobs from LinkedIn...
 [2026-04-03 01:03:29] No new jobs found. Total tracked: 95
 [2026-04-03 01:03:29] Single-run cycle complete. Exiting.
+[2026-04-03 03:49:19] ============================================================
+[2026-04-03 03:49:19]   B.Tech Jobs Fresher - Telegram Bot
+[2026-04-03 03:49:19]   TARGET: B.Tech Freshers | LOCATION: Hyderabad
+[2026-04-03 03:49:19]   CHECK INTERVAL: Every 10 minutes
+[2026-04-03 03:49:19] ============================================================
+[2026-04-03 03:49:19] Loaded 95 previously seen jobs.
+[2026-04-03 03:49:19] Checking for new B.Tech fresher jobs from LinkedIn...
+[2026-04-03 03:51:12] Found 2 new jobs! Sending to Telegram...
+[2026-04-03 03:51:15]   Sent: [LinkedIn] Airport Ground Staff Career For Freshers @ Blue Spirit | Hyderabad, Telangana, India
+[2026-04-03 03:51:18]   Sent: [LinkedIn] Airport Ground Staff Hiring For Freshers @ Blue Spirit | Hyderabad, Telangana, India
+[2026-04-03 03:51:18] Done. Sent 2 new jobs. Total tracked: 97
+[2026-04-03 03:51:18] Single-run cycle complete. Exiting.
