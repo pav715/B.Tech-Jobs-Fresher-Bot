@@ -4783,3 +4783,14 @@
 [2026-04-03 09:34:45] Checking for new B.Tech fresher jobs from LinkedIn...
 [2026-04-03 09:36:17] No new jobs found. Total tracked: 98
 [2026-04-03 09:36:17] Single-run cycle complete. Exiting.
+[2026-04-03 10:23:43] ============================================================
+[2026-04-03 10:23:43]   B.Tech Jobs Fresher - Telegram Bot
+[2026-04-03 10:23:43]   TARGET: B.Tech Freshers | LOCATION: Hyderabad
+[2026-04-03 10:23:43]   CHECK INTERVAL: Every 10 minutes
+[2026-04-03 10:23:43] ============================================================
+[2026-04-03 10:23:43] Loaded 98 previously seen jobs.
+[2026-04-03 10:23:43] Checking for new B.Tech fresher jobs from LinkedIn...
+[2026-04-03 10:25:34] Found 1 new jobs! Sending to Telegram...
+[2026-04-03 10:25:37]   Sent: [LinkedIn] Associate Analyst / Analyst - Financial Planning & Analysis- Hyderabad @ Deloitte | Hyderabad, Telangana, India
+[2026-04-03 10:25:37] Done. Sent 1 new jobs. Total tracked: 99
+[2026-04-03 10:25:37] Single-run cycle complete. Exiting.
