@@ -5090,3 +5090,14 @@
 [2026-04-04 11:45:10] Checking for new B.Tech fresher jobs from LinkedIn...
 [2026-04-04 11:46:54] No new jobs found. Total tracked: 103
 [2026-04-04 11:46:54] Single-run cycle complete. Exiting.
+[2026-04-04 12:01:53] ============================================================
+[2026-04-04 12:01:53]   B.Tech Jobs Fresher - Telegram Bot
+[2026-04-04 12:01:53]   TARGET: B.Tech Freshers | LOCATION: Hyderabad
+[2026-04-04 12:01:53]   CHECK INTERVAL: Every 10 minutes
+[2026-04-04 12:01:53] ============================================================
+[2026-04-04 12:01:53] Loaded 103 previously seen jobs.
+[2026-04-04 12:01:53] Checking for new B.Tech fresher jobs from LinkedIn...
+[2026-04-04 12:03:31] Found 1 new jobs! Sending to Telegram...
+[2026-04-04 12:03:34]   Sent: [LinkedIn] Customer Support Associate @ TRANSFORMPLUS | Hyderabad, Telangana, India
+[2026-04-04 12:03:34] Done. Sent 1 new jobs. Total tracked: 104
+[2026-04-04 12:03:34] Single-run cycle complete. Exiting.
