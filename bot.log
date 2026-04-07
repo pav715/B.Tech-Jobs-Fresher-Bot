@@ -5884,3 +5884,14 @@
 [2026-04-07 15:43:55] Checking for new B.Tech fresher jobs from LinkedIn...
 [2026-04-07 15:45:36] No new jobs found. Total tracked: 113
 [2026-04-07 15:45:36] Single-run cycle complete. Exiting.
+[2026-04-07 16:39:25] ============================================================
+[2026-04-07 16:39:25]   B.Tech Jobs Fresher - Telegram Bot
+[2026-04-07 16:39:25]   TARGET: B.Tech Freshers | LOCATION: Hyderabad
+[2026-04-07 16:39:25]   CHECK INTERVAL: Every 10 minutes
+[2026-04-07 16:39:25] ============================================================
+[2026-04-07 16:39:25] Loaded 113 previously seen jobs.
+[2026-04-07 16:39:25] Checking for new B.Tech fresher jobs from LinkedIn...
+[2026-04-07 16:41:08] Found 1 new jobs! Sending to Telegram...
+[2026-04-07 16:41:11]   Sent: [LinkedIn] Freshers with Pyspark/Python, SQL knowledge (Hyderabad) @ s | Hyderabad, Telangana, India
+[2026-04-07 16:41:11] Done. Sent 1 new jobs. Total tracked: 114
+[2026-04-07 16:41:11] Single-run cycle complete. Exiting.
