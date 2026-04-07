@@ -5777,3 +5777,14 @@
 [2026-04-06 23:48:38] Checking for new B.Tech fresher jobs from LinkedIn...
 [2026-04-06 23:50:13] No new jobs found. Total tracked: 109
 [2026-04-06 23:50:13] Single-run cycle complete. Exiting.
+[2026-04-07 01:03:46] ============================================================
+[2026-04-07 01:03:46]   B.Tech Jobs Fresher - Telegram Bot
+[2026-04-07 01:03:46]   TARGET: B.Tech Freshers | LOCATION: Hyderabad
+[2026-04-07 01:03:46]   CHECK INTERVAL: Every 10 minutes
+[2026-04-07 01:03:46] ============================================================
+[2026-04-07 01:03:46] Loaded 109 previously seen jobs.
+[2026-04-07 01:03:46] Checking for new B.Tech fresher jobs from LinkedIn...
+[2026-04-07 01:05:21] Found 1 new jobs! Sending to Telegram...
+[2026-04-07 01:05:24]   Sent: [LinkedIn] WordPress Development Internship in Ahmedabad, Pune, Bangalore, Mumbai, Vadodara, Navi Mumbai, Hyderabad, Surat, Thane (Hybrid) @ iPolygon (Polygon Pixels) | Hyderabad, Telangana, India
+[2026-04-07 01:05:24] Done. Sent 1 new jobs. Total tracked: 110
+[2026-04-07 01:05:24] Single-run cycle complete. Exiting.
