@@ -6257,3 +6257,15 @@
 [2026-04-09 12:46:05] Checking for new B.Tech fresher jobs from LinkedIn...
 [2026-04-09 12:47:40] No new jobs found. Total tracked: 124
 [2026-04-09 12:47:40] Single-run cycle complete. Exiting.
+[2026-04-09 14:29:58] ============================================================
+[2026-04-09 14:29:58]   B.Tech Jobs Fresher - Telegram Bot
+[2026-04-09 14:29:58]   TARGET: B.Tech Freshers | LOCATION: Hyderabad
+[2026-04-09 14:29:58]   CHECK INTERVAL: Every 10 minutes
+[2026-04-09 14:29:58] ============================================================
+[2026-04-09 14:29:58] Loaded 124 previously seen jobs.
+[2026-04-09 14:29:58] Checking for new B.Tech fresher jobs from LinkedIn...
+[2026-04-09 14:31:49] Found 2 new jobs! Sending to Telegram...
+[2026-04-09 14:31:52]   Sent: [LinkedIn] Graduate Engineer Trainee @ Scoutit | Hyderabad, Telangana, India
+[2026-04-09 14:31:55]   Sent: [LinkedIn] Clinical Audiologist @ Hearzap - Smart Hearing Aids | Hyderabad, Telangana, India
+[2026-04-09 14:31:55] Done. Sent 2 new jobs. Total tracked: 126
+[2026-04-09 14:31:55] Single-run cycle complete. Exiting.
