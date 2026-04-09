@@ -6219,3 +6219,14 @@
 [2026-04-09 08:24:15] Checking for new B.Tech fresher jobs from LinkedIn...
 [2026-04-09 08:25:54] No new jobs found. Total tracked: 123
 [2026-04-09 08:25:54] Single-run cycle complete. Exiting.
+[2026-04-09 09:45:32] ============================================================
+[2026-04-09 09:45:32]   B.Tech Jobs Fresher - Telegram Bot
+[2026-04-09 09:45:32]   TARGET: B.Tech Freshers | LOCATION: Hyderabad
+[2026-04-09 09:45:32]   CHECK INTERVAL: Every 10 minutes
+[2026-04-09 09:45:32] ============================================================
+[2026-04-09 09:45:32] Loaded 123 previously seen jobs.
+[2026-04-09 09:45:32] Checking for new B.Tech fresher jobs from LinkedIn...
+[2026-04-09 09:47:07] Found 1 new jobs! Sending to Telegram...
+[2026-04-09 09:47:10]   Sent: [LinkedIn] MERN stack Intern @ OroGlee | Hyderabad, Telangana, India
+[2026-04-09 09:47:10] Done. Sent 1 new jobs. Total tracked: 124
+[2026-04-09 09:47:10] Single-run cycle complete. Exiting.
