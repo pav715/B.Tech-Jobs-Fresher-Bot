@@ -6466,3 +6466,14 @@
 [2026-04-10 15:36:59] Checking for new B.Tech fresher jobs from LinkedIn...
 [2026-04-10 15:38:42] No new jobs found. Total tracked: 130
 [2026-04-10 15:38:42] Single-run cycle complete. Exiting.
+[2026-04-10 16:32:07] ============================================================
+[2026-04-10 16:32:07]   B.Tech Jobs Fresher - Telegram Bot
+[2026-04-10 16:32:07]   TARGET: B.Tech Freshers | LOCATION: Hyderabad
+[2026-04-10 16:32:07]   CHECK INTERVAL: Every 10 minutes
+[2026-04-10 16:32:07] ============================================================
+[2026-04-10 16:32:07] Loaded 130 previously seen jobs.
+[2026-04-10 16:32:07] Checking for new B.Tech fresher jobs from LinkedIn...
+[2026-04-10 16:33:46] Found 1 new jobs! Sending to Telegram...
+[2026-04-10 16:33:49]   Sent: [LinkedIn] Junior Research Fellow @ BITS Pilani, Hyderabad Campus | Hyderabad, Telangana, India
+[2026-04-10 16:33:49] Done. Sent 1 new jobs. Total tracked: 131
+[2026-04-10 16:33:49] Single-run cycle complete. Exiting.
