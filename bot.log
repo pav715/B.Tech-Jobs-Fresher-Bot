@@ -6417,3 +6417,14 @@
 [2026-04-10 10:44:39] Checking for new B.Tech fresher jobs from LinkedIn...
 [2026-04-10 10:46:20] No new jobs found. Total tracked: 128
 [2026-04-10 10:46:20] Single-run cycle complete. Exiting.
+[2026-04-10 11:35:45] ============================================================
+[2026-04-10 11:35:45]   B.Tech Jobs Fresher - Telegram Bot
+[2026-04-10 11:35:45]   TARGET: B.Tech Freshers | LOCATION: Hyderabad
+[2026-04-10 11:35:45]   CHECK INTERVAL: Every 10 minutes
+[2026-04-10 11:35:45] ============================================================
+[2026-04-10 11:35:45] Loaded 128 previously seen jobs.
+[2026-04-10 11:35:45] Checking for new B.Tech fresher jobs from LinkedIn...
+[2026-04-10 11:37:24] Found 1 new jobs! Sending to Telegram...
+[2026-04-10 11:37:26]   Sent: [LinkedIn] Graduate Engineer Trainee @ Scoutit | Hyderabad, Telangana, India
+[2026-04-10 11:37:26] Done. Sent 1 new jobs. Total tracked: 129
+[2026-04-10 11:37:26] Single-run cycle complete. Exiting.
