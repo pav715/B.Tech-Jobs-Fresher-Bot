@@ -6661,3 +6661,14 @@
 [2026-04-11 10:53:36] Checking for new B.Tech fresher jobs from LinkedIn...
 [2026-04-11 10:55:10] No new jobs found. Total tracked: 133
 [2026-04-11 10:55:10] Single-run cycle complete. Exiting.
+[2026-04-11 11:22:56] ============================================================
+[2026-04-11 11:22:56]   B.Tech Jobs Fresher - Telegram Bot
+[2026-04-11 11:22:56]   TARGET: B.Tech Freshers | LOCATION: Hyderabad
+[2026-04-11 11:22:56]   CHECK INTERVAL: Every 10 minutes
+[2026-04-11 11:22:56] ============================================================
+[2026-04-11 11:22:56] Loaded 133 previously seen jobs.
+[2026-04-11 11:22:56] Checking for new B.Tech fresher jobs from LinkedIn...
+[2026-04-11 11:24:34] Found 1 new jobs! Sending to Telegram...
+[2026-04-11 11:24:37]   Sent: [LinkedIn] Project Intern @ Blackbucks Group🦌 | Hyderabad, Telangana, India
+[2026-04-11 11:24:37] Done. Sent 1 new jobs. Total tracked: 134
+[2026-04-11 11:24:37] Single-run cycle complete. Exiting.
