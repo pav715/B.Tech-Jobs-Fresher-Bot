@@ -6567,3 +6567,14 @@
 [2026-04-10 23:44:40] Checking for new B.Tech fresher jobs from LinkedIn...
 [2026-04-10 23:46:22] No new jobs found. Total tracked: 131
 [2026-04-10 23:46:22] Single-run cycle complete. Exiting.
+[2026-04-11 01:00:18] ============================================================
+[2026-04-11 01:00:18]   B.Tech Jobs Fresher - Telegram Bot
+[2026-04-11 01:00:18]   TARGET: B.Tech Freshers | LOCATION: Hyderabad
+[2026-04-11 01:00:18]   CHECK INTERVAL: Every 10 minutes
+[2026-04-11 01:00:18] ============================================================
+[2026-04-11 01:00:18] Loaded 131 previously seen jobs.
+[2026-04-11 01:00:18] Checking for new B.Tech fresher jobs from LinkedIn...
+[2026-04-11 01:01:58] Found 1 new jobs! Sending to Telegram...
+[2026-04-11 01:02:01]   Sent: [LinkedIn] Hotel Management (Food & Beverage Production) Internship in Chennai, German, Hyderabad, Orlando, Keralapuram, Delhi, Dubai, Mumbai (Hybrid) @ Velozity Global Solutions India Pvt. Ltd. | Hyderabad, Telangana, India
+[2026-04-11 01:02:01] Done. Sent 1 new jobs. Total tracked: 132
+[2026-04-11 01:02:01] Single-run cycle complete. Exiting.
