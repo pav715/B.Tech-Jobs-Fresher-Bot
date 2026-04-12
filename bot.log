@@ -7009,3 +7009,14 @@
 [2026-04-12 17:00:06] Checking for new B.Tech fresher jobs from LinkedIn...
 [2026-04-12 17:01:41] No new jobs found. Total tracked: 136
 [2026-04-12 17:01:41] Single-run cycle complete. Exiting.
+[2026-04-12 17:44:07] ============================================================
+[2026-04-12 17:44:07]   B.Tech Jobs Fresher - Telegram Bot
+[2026-04-12 17:44:07]   TARGET: B.Tech Freshers | LOCATION: Hyderabad
+[2026-04-12 17:44:07]   CHECK INTERVAL: Every 10 minutes
+[2026-04-12 17:44:07] ============================================================
+[2026-04-12 17:44:07] Loaded 136 previously seen jobs.
+[2026-04-12 17:44:07] Checking for new B.Tech fresher jobs from LinkedIn...
+[2026-04-12 17:45:42] Found 1 new jobs! Sending to Telegram...
+[2026-04-12 17:45:45]   Sent: [LinkedIn] MoE-funded PhD vacancy @ Indian Institute of Technology Hyderabad | Hyderabad, Telangana, India
+[2026-04-12 17:45:45] Done. Sent 1 new jobs. Total tracked: 137
+[2026-04-12 17:45:45] Single-run cycle complete. Exiting.
