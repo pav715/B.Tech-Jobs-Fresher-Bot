@@ -7170,3 +7170,15 @@
 [2026-04-13 12:03:45] Checking for new B.Tech fresher jobs from LinkedIn...
 [2026-04-13 12:05:36] No new jobs found. Total tracked: 140
 [2026-04-13 12:05:36] Single-run cycle complete. Exiting.
+[2026-04-13 14:03:52] ============================================================
+[2026-04-13 14:03:52]   B.Tech Jobs Fresher - Telegram Bot
+[2026-04-13 14:03:52]   TARGET: B.Tech Freshers | LOCATION: Hyderabad
+[2026-04-13 14:03:52]   CHECK INTERVAL: Every 10 minutes
+[2026-04-13 14:03:52] ============================================================
+[2026-04-13 14:03:52] Loaded 140 previously seen jobs.
+[2026-04-13 14:03:52] Checking for new B.Tech fresher jobs from LinkedIn...
+[2026-04-13 14:05:51] Found 2 new jobs! Sending to Telegram...
+[2026-04-13 14:05:53]   Sent: [LinkedIn] Silicon Engineering Intern, PhD, Summer 2026 @ Google | Hyderabad, Telangana, India
+[2026-04-13 14:05:56]   Sent: [LinkedIn] Flutter Intern (Work From Office) @ PUNYAKA | Hyderabad, Telangana, India
+[2026-04-13 14:05:56] Done. Sent 2 new jobs. Total tracked: 142
+[2026-04-13 14:05:56] Single-run cycle complete. Exiting.
