@@ -7351,3 +7351,14 @@
 [2026-04-14 14:09:57] Checking for new B.Tech fresher jobs from LinkedIn...
 [2026-04-14 14:11:51] No new jobs found. Total tracked: 146
 [2026-04-14 14:11:51] Single-run cycle complete. Exiting.
+[2026-04-14 15:37:48] ============================================================
+[2026-04-14 15:37:48]   B.Tech Jobs Fresher - Telegram Bot
+[2026-04-14 15:37:48]   TARGET: B.Tech Freshers | LOCATION: Hyderabad
+[2026-04-14 15:37:48]   CHECK INTERVAL: Every 10 minutes
+[2026-04-14 15:37:48] ============================================================
+[2026-04-14 15:37:48] Loaded 146 previously seen jobs.
+[2026-04-14 15:37:48] Checking for new B.Tech fresher jobs from LinkedIn...
+[2026-04-14 15:39:31] Found 1 new jobs! Sending to Telegram...
+[2026-04-14 15:39:34]   Sent: [LinkedIn] Project Executive (Junior / Intern) @ Theories Consulting | Hyderabad, Telangana, India
+[2026-04-14 15:39:34] Done. Sent 1 new jobs. Total tracked: 147
+[2026-04-14 15:39:34] Single-run cycle complete. Exiting.
