@@ -7331,3 +7331,14 @@
 [2026-04-14 11:15:48] Checking for new B.Tech fresher jobs from LinkedIn...
 [2026-04-14 11:17:29] No new jobs found. Total tracked: 145
 [2026-04-14 11:17:29] Single-run cycle complete. Exiting.
+[2026-04-14 12:09:23] ============================================================
+[2026-04-14 12:09:23]   B.Tech Jobs Fresher - Telegram Bot
+[2026-04-14 12:09:23]   TARGET: B.Tech Freshers | LOCATION: Hyderabad
+[2026-04-14 12:09:23]   CHECK INTERVAL: Every 10 minutes
+[2026-04-14 12:09:23] ============================================================
+[2026-04-14 12:09:23] Loaded 145 previously seen jobs.
+[2026-04-14 12:09:23] Checking for new B.Tech fresher jobs from LinkedIn...
+[2026-04-14 12:11:14] Found 1 new jobs! Sending to Telegram...
+[2026-04-14 12:11:17]   Sent: [LinkedIn] PPC engineer @ Salzgitter Lifts Pvt. Ltd. | Hyderabad, Telangana, India
+[2026-04-14 12:11:17] Done. Sent 1 new jobs. Total tracked: 146
+[2026-04-14 12:11:17] Single-run cycle complete. Exiting.
