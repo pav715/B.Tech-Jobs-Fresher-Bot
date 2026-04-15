@@ -7466,3 +7466,14 @@
 [2026-04-15 05:48:43] Checking for new B.Tech fresher jobs from LinkedIn...
 [2026-04-15 05:50:29] No new jobs found. Total tracked: 150
 [2026-04-15 05:50:29] Single-run cycle complete. Exiting.
+[2026-04-15 07:12:54] ============================================================
+[2026-04-15 07:12:54]   B.Tech Jobs Fresher - Telegram Bot
+[2026-04-15 07:12:54]   TARGET: B.Tech Freshers | LOCATION: Hyderabad
+[2026-04-15 07:12:54]   CHECK INTERVAL: Every 10 minutes
+[2026-04-15 07:12:54] ============================================================
+[2026-04-15 07:12:54] Loaded 150 previously seen jobs.
+[2026-04-15 07:12:54] Checking for new B.Tech fresher jobs from LinkedIn...
+[2026-04-15 07:14:35] Found 1 new jobs! Sending to Telegram...
+[2026-04-15 07:14:37]   Sent: [LinkedIn] Analog Layout Engineer @ Modernize Chip Solutions (MCS) | Hyderabad, Telangana, India
+[2026-04-15 07:14:37] Done. Sent 1 new jobs. Total tracked: 151
+[2026-04-15 07:14:37] Single-run cycle complete. Exiting.
