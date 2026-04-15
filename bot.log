@@ -7516,3 +7516,14 @@
 [2026-04-15 12:08:15] ============================================================
 [2026-04-15 12:08:15] Loaded 154 previously seen jobs.
 [2026-04-15 12:08:15] Checking for new B.Tech fresher jobs from LinkedIn...
+[2026-04-15 14:02:43] ============================================================
+[2026-04-15 14:02:43]   B.Tech Jobs Fresher - Telegram Bot
+[2026-04-15 14:02:43]   TARGET: B.Tech Freshers | LOCATION: Hyderabad
+[2026-04-15 14:02:43]   CHECK INTERVAL: Every 10 minutes
+[2026-04-15 14:02:43] ============================================================
+[2026-04-15 14:02:43] Loaded 154 previously seen jobs.
+[2026-04-15 14:02:43] Checking for new B.Tech fresher jobs from LinkedIn...
+[2026-04-15 14:04:42] Found 1 new jobs! Sending to Telegram...
+[2026-04-15 14:04:44]   Sent: [LinkedIn] Principal - CBSE School in Hyderabad @ Kamala Rani Sanghi School | Hyderabad, Telangana, India
+[2026-04-15 14:04:44] Done. Sent 1 new jobs. Total tracked: 155
+[2026-04-15 14:04:44] Single-run cycle complete. Exiting.
