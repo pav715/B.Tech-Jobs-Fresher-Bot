@@ -7434,3 +7434,15 @@
 [2026-04-14 23:27:44] Checking for new B.Tech fresher jobs from LinkedIn...
 [2026-04-14 23:29:21] No new jobs found. Total tracked: 147
 [2026-04-14 23:29:21] Single-run cycle complete. Exiting.
+[2026-04-15 00:06:56] ============================================================
+[2026-04-15 00:06:56]   B.Tech Jobs Fresher - Telegram Bot
+[2026-04-15 00:06:56]   TARGET: B.Tech Freshers | LOCATION: Hyderabad
+[2026-04-15 00:06:56]   CHECK INTERVAL: Every 10 minutes
+[2026-04-15 00:06:56] ============================================================
+[2026-04-15 00:06:56] Loaded 147 previously seen jobs.
+[2026-04-15 00:06:56] Checking for new B.Tech fresher jobs from LinkedIn...
+[2026-04-15 00:08:46] Found 2 new jobs! Sending to Telegram...
+[2026-04-15 00:08:48]   Sent: [LinkedIn] Trainee Engineer in Sangareddy, Mahbubnagar, Warangal, Greater Noida, Hyderabad, Faridabad, Noida, Gurgaon, Ghaziabad @ Impressico Business Solutions | Hyderabad, Telangana, India
+[2026-04-15 00:08:51]   Sent: [LinkedIn] WordPress Development Internship in Bangalore, Mumbai, Vadodara, Thane, Hyderabad, Navi Mumbai, Surat, Ahmedabad, Pune (Hybrid) @ iPolygon (Polygon Pixels) | Hyderabad, Telangana, India
+[2026-04-15 00:08:51] Done. Sent 2 new jobs. Total tracked: 149
+[2026-04-15 00:08:51] Single-run cycle complete. Exiting.
