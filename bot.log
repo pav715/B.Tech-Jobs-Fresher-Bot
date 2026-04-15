@@ -7581,3 +7581,14 @@
 [2026-04-15 20:34:50] Checking for new B.Tech fresher jobs from LinkedIn...
 [2026-04-15 20:36:55] No new jobs found. Total tracked: 155
 [2026-04-15 20:36:55] Single-run cycle complete. Exiting.
+[2026-04-15 21:32:36] ============================================================
+[2026-04-15 21:32:36]   B.Tech Jobs Fresher - Telegram Bot
+[2026-04-15 21:32:36]   TARGET: B.Tech Freshers | LOCATION: Hyderabad
+[2026-04-15 21:32:36]   CHECK INTERVAL: Every 10 minutes
+[2026-04-15 21:32:36] ============================================================
+[2026-04-15 21:32:36] Loaded 155 previously seen jobs.
+[2026-04-15 21:32:36] Checking for new B.Tech fresher jobs from LinkedIn...
+[2026-04-15 21:34:41] Found 1 new jobs! Sending to Telegram...
+[2026-04-15 21:34:44]   Sent: [LinkedIn] Trainee Test Engineer @ Side | Hyderabad, Telangana, India
+[2026-04-15 21:34:44] Done. Sent 1 new jobs. Total tracked: 156
+[2026-04-15 21:34:44] Single-run cycle complete. Exiting.
