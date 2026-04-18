@@ -7971,3 +7971,14 @@
 [2026-04-18 04:06:51] ============================================================
 [2026-04-18 04:06:51] Loaded 166 previously seen jobs.
 [2026-04-18 04:06:51] Checking for new B.Tech fresher jobs from LinkedIn...
+[2026-04-18 05:48:08] ============================================================
+[2026-04-18 05:48:08]   B.Tech Jobs Fresher - Telegram Bot
+[2026-04-18 05:48:08]   TARGET: B.Tech Freshers | LOCATION: Hyderabad
+[2026-04-18 05:48:08]   CHECK INTERVAL: Every 10 minutes
+[2026-04-18 05:48:08] ============================================================
+[2026-04-18 05:48:08] Loaded 166 previously seen jobs.
+[2026-04-18 05:48:08] Checking for new B.Tech fresher jobs from LinkedIn...
+[2026-04-18 05:50:19] Found 1 new jobs! Sending to Telegram...
+[2026-04-18 05:50:21]   Sent: [LinkedIn] Internship Opportunity | From Fresher to Future Leader @ NeoSales Consulting Pvt Ltd | Hyderabad, Telangana, India
+[2026-04-18 05:50:21] Done. Sent 1 new jobs. Total tracked: 167
+[2026-04-18 05:50:21] Single-run cycle complete. Exiting.
