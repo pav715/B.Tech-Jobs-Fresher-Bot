@@ -8123,3 +8123,14 @@
 [2026-04-18 19:06:45] Checking for new B.Tech fresher jobs from LinkedIn...
 [2026-04-18 19:08:45] No new jobs found. Total tracked: 167
 [2026-04-18 19:08:45] Single-run cycle complete. Exiting.
+[2026-04-18 19:50:18] ============================================================
+[2026-04-18 19:50:18]   B.Tech Jobs Fresher - Telegram Bot
+[2026-04-18 19:50:18]   TARGET: B.Tech Freshers | LOCATION: Hyderabad
+[2026-04-18 19:50:18]   CHECK INTERVAL: Every 10 minutes
+[2026-04-18 19:50:18] ============================================================
+[2026-04-18 19:50:18] Loaded 167 previously seen jobs.
+[2026-04-18 19:50:18] Checking for new B.Tech fresher jobs from LinkedIn...
+[2026-04-18 19:52:15] Found 1 new jobs! Sending to Telegram...
+[2026-04-18 19:52:17]   Sent: [LinkedIn] SDR  - Freshers(Sales) @ InSale Inc | Hyderabad, Telangana, India
+[2026-04-18 19:52:17] Done. Sent 1 new jobs. Total tracked: 168
+[2026-04-18 19:52:17] Single-run cycle complete. Exiting.
