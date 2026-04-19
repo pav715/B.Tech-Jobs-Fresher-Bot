@@ -8415,3 +8415,14 @@
 [2026-04-19 22:25:16] Checking for new B.Tech fresher jobs from LinkedIn...
 [2026-04-19 22:26:57] No new jobs found. Total tracked: 169
 [2026-04-19 22:26:57] Single-run cycle complete. Exiting.
+[2026-04-19 23:02:36] ============================================================
+[2026-04-19 23:02:36]   B.Tech Jobs Fresher - Telegram Bot
+[2026-04-19 23:02:36]   TARGET: B.Tech Freshers | LOCATION: Hyderabad
+[2026-04-19 23:02:36]   CHECK INTERVAL: Every 10 minutes
+[2026-04-19 23:02:36] ============================================================
+[2026-04-19 23:02:36] Loaded 169 previously seen jobs.
+[2026-04-19 23:02:36] Checking for new B.Tech fresher jobs from LinkedIn...
+[2026-04-19 23:04:19] Found 1 new jobs! Sending to Telegram...
+[2026-04-19 23:04:22]   Sent: [LinkedIn] Associate Desktop Administrator @ Samyutha Info Technologies Pvt Ltd | Hyderabad, Telangana, India
+[2026-04-19 23:04:22] Done. Sent 1 new jobs. Total tracked: 170
+[2026-04-19 23:04:22] Single-run cycle complete. Exiting.
