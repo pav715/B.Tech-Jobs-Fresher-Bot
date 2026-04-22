@@ -8858,3 +8858,14 @@
 [2026-04-22 16:43:56] Checking for new B.Tech fresher jobs from LinkedIn...
 [2026-04-22 16:45:27] No new jobs found. Total tracked: 171
 [2026-04-22 16:45:27] Single-run cycle complete. Exiting.
+[2026-04-22 17:43:31] ============================================================
+[2026-04-22 17:43:31]   B.Tech Jobs Fresher - Telegram Bot
+[2026-04-22 17:43:31]   TARGET: B.Tech Freshers | LOCATION: Hyderabad
+[2026-04-22 17:43:31]   CHECK INTERVAL: Every 10 minutes
+[2026-04-22 17:43:31] ============================================================
+[2026-04-22 17:43:31] Loaded 171 previously seen jobs.
+[2026-04-22 17:43:31] Checking for new B.Tech fresher jobs from LinkedIn...
+[2026-04-22 17:44:57] Found 1 new jobs! Sending to Telegram...
+[2026-04-22 17:44:59]   Sent: [LinkedIn] AI / ML Internship at Hyderabad @ Analytics101 | Greater Hyderabad Area
+[2026-04-22 17:44:59] Done. Sent 1 new jobs. Total tracked: 172
+[2026-04-22 17:44:59] Single-run cycle complete. Exiting.
