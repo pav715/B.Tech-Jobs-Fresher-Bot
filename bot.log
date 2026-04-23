@@ -8941,3 +8941,15 @@
 [2026-04-23 03:44:51] ============================================================
 [2026-04-23 03:44:51] Loaded 173 previously seen jobs.
 [2026-04-23 03:44:51] Checking for new B.Tech fresher jobs from LinkedIn...
+[2026-04-23 05:54:53] ============================================================
+[2026-04-23 05:54:53]   B.Tech Jobs Fresher - Telegram Bot
+[2026-04-23 05:54:53]   TARGET: B.Tech Freshers | LOCATION: Hyderabad
+[2026-04-23 05:54:53]   CHECK INTERVAL: Every 10 minutes
+[2026-04-23 05:54:53] ============================================================
+[2026-04-23 05:54:53] Loaded 173 previously seen jobs.
+[2026-04-23 05:54:53] Checking for new B.Tech fresher jobs from LinkedIn...
+[2026-04-23 05:56:24] Found 2 new jobs! Sending to Telegram...
+[2026-04-23 05:56:27]   Sent: [LinkedIn] Frontend Developer (ReactJS) @ GVR Infosystems Private Limited | Greater Hyderabad Area
+[2026-04-23 05:56:30]   Sent: [LinkedIn] Internship Opportunities at Thoughtiv @ Thoughtiv | Hyderabad, Telangana, India
+[2026-04-23 05:56:30] Done. Sent 2 new jobs. Total tracked: 175
+[2026-04-23 05:56:30] Single-run cycle complete. Exiting.
