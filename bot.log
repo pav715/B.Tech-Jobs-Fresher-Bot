@@ -8973,3 +8973,14 @@
 [2026-04-23 09:11:10] Checking for new B.Tech fresher jobs from LinkedIn...
 [2026-04-23 09:12:51] No new jobs found. Total tracked: 176
 [2026-04-23 09:12:51] Single-run cycle complete. Exiting.
+[2026-04-23 10:47:01] ============================================================
+[2026-04-23 10:47:01]   B.Tech Jobs Fresher - Telegram Bot
+[2026-04-23 10:47:01]   TARGET: B.Tech Freshers | LOCATION: Hyderabad
+[2026-04-23 10:47:01]   CHECK INTERVAL: Every 10 minutes
+[2026-04-23 10:47:01] ============================================================
+[2026-04-23 10:47:01] Loaded 176 previously seen jobs.
+[2026-04-23 10:47:01] Checking for new B.Tech fresher jobs from LinkedIn...
+[2026-04-23 10:48:42] Found 1 new jobs! Sending to Telegram...
+[2026-04-23 10:48:45]   Sent: [LinkedIn] Pay Per Click (PPC) Intern @ Social Matters | Hyderabad, Telangana, India
+[2026-04-23 10:48:45] Done. Sent 1 new jobs. Total tracked: 177
+[2026-04-23 10:48:45] Single-run cycle complete. Exiting.
