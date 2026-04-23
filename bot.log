@@ -9023,3 +9023,14 @@
 [2026-04-23 16:48:17] Checking for new B.Tech fresher jobs from LinkedIn...
 [2026-04-23 16:49:57] No new jobs found. Total tracked: 179
 [2026-04-23 16:49:57] Single-run cycle complete. Exiting.
+[2026-04-23 17:59:24] ============================================================
+[2026-04-23 17:59:24]   B.Tech Jobs Fresher - Telegram Bot
+[2026-04-23 17:59:24]   TARGET: B.Tech Freshers | LOCATION: Hyderabad
+[2026-04-23 17:59:24]   CHECK INTERVAL: Every 10 minutes
+[2026-04-23 17:59:24] ============================================================
+[2026-04-23 17:59:24] Loaded 179 previously seen jobs.
+[2026-04-23 17:59:24] Checking for new B.Tech fresher jobs from LinkedIn...
+[2026-04-23 18:00:54] Found 1 new jobs! Sending to Telegram...
+[2026-04-23 18:00:57]   Sent: [LinkedIn] Senior Analyst @ Firstsource | Hyderabad, Telangana, India
+[2026-04-23 18:00:57] Done. Sent 1 new jobs. Total tracked: 180
+[2026-04-23 18:00:57] Single-run cycle complete. Exiting.
