@@ -9151,3 +9151,17 @@
 [2026-04-24 12:10:32] Checking for new B.Tech fresher jobs from LinkedIn...
 [2026-04-24 12:12:05] No new jobs found. Total tracked: 180
 [2026-04-24 12:12:05] Single-run cycle complete. Exiting.
+[2026-04-24 14:05:38] ============================================================
+[2026-04-24 14:05:38]   B.Tech Jobs Fresher - Telegram Bot
+[2026-04-24 14:05:38]   TARGET: B.Tech Freshers | LOCATION: Hyderabad
+[2026-04-24 14:05:38]   CHECK INTERVAL: Every 10 minutes
+[2026-04-24 14:05:38] ============================================================
+[2026-04-24 14:05:38] Loaded 180 previously seen jobs.
+[2026-04-24 14:05:38] Checking for new B.Tech fresher jobs from LinkedIn...
+[2026-04-24 14:07:29] Found 4 new jobs! Sending to Telegram...
+[2026-04-24 14:07:32]   Sent: [LinkedIn] US IT, US Non IT ,Healthcare Recruiter's(Fresher's apply) @ MSRcosmos LLC | Hyderabad, Telangana, India
+[2026-04-24 14:07:35]   Sent: [LinkedIn] Intern @ Milestone Technologies, Inc. | Hyderabad, Telangana, India
+[2026-04-24 14:07:38]   Sent: [LinkedIn] Intern @ Milestone Technologies, Inc. | Hyderabad, Telangana, India
+[2026-04-24 14:07:41]   Sent: [LinkedIn] Summer Projects @ MG Fintech Software Solutions Pvt Ltd | Hyderabad, Telangana, India
+[2026-04-24 14:07:41] Done. Sent 4 new jobs. Total tracked: 184
+[2026-04-24 14:07:41] Single-run cycle complete. Exiting.
