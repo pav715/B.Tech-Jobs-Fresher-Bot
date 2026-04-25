@@ -9398,3 +9398,15 @@
 [2026-04-25 15:55:02] Checking for new B.Tech fresher jobs from LinkedIn...
 [2026-04-25 15:56:52] No new jobs found. Total tracked: 190
 [2026-04-25 15:56:52] Single-run cycle complete. Exiting.
+[2026-04-25 16:35:02] ============================================================
+[2026-04-25 16:35:02]   B.Tech Jobs Fresher - Telegram Bot
+[2026-04-25 16:35:02]   TARGET: B.Tech Freshers | LOCATION: Hyderabad
+[2026-04-25 16:35:02]   CHECK INTERVAL: Every 10 minutes
+[2026-04-25 16:35:02] ============================================================
+[2026-04-25 16:35:02] Loaded 190 previously seen jobs.
+[2026-04-25 16:35:02] Checking for new B.Tech fresher jobs from LinkedIn...
+[2026-04-25 16:36:32] Found 2 new jobs! Sending to Telegram...
+[2026-04-25 16:36:35]   Sent: [LinkedIn] AwOps- Intern @ Novartis India | Greater Hyderabad Area
+[2026-04-25 16:36:37]   Sent: [LinkedIn] AwOps - Intern @ Novartis India | Greater Hyderabad Area
+[2026-04-25 16:36:37] Done. Sent 2 new jobs. Total tracked: 192
+[2026-04-25 16:36:37] Single-run cycle complete. Exiting.
