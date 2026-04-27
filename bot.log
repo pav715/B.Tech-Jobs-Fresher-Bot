@@ -9744,3 +9744,14 @@
 [2026-04-27 09:03:55] ============================================================
 [2026-04-27 09:03:55] Loaded 195 previously seen jobs.
 [2026-04-27 09:03:55] Checking for new B.Tech fresher jobs from LinkedIn...
+[2026-04-27 11:11:58] ============================================================
+[2026-04-27 11:11:58]   B.Tech Jobs Fresher - Telegram Bot
+[2026-04-27 11:11:58]   TARGET: B.Tech Freshers | LOCATION: Hyderabad
+[2026-04-27 11:11:58]   CHECK INTERVAL: Every 10 minutes
+[2026-04-27 11:11:58] ============================================================
+[2026-04-27 11:11:58] Loaded 195 previously seen jobs.
+[2026-04-27 11:11:58] Checking for new B.Tech fresher jobs from LinkedIn...
+[2026-04-27 11:13:45] Found 1 new jobs! Sending to Telegram...
+[2026-04-27 11:13:48]   Sent: [LinkedIn] GNM staff Nurse @ Achievers Spot | Hyderabad, Telangana, India
+[2026-04-27 11:13:48] Done. Sent 1 new jobs. Total tracked: 196
+[2026-04-27 11:13:48] Single-run cycle complete. Exiting.
