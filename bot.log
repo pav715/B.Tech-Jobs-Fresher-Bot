@@ -9762,3 +9762,14 @@
 [2026-04-27 12:52:48] ============================================================
 [2026-04-27 12:52:48] Loaded 196 previously seen jobs.
 [2026-04-27 12:52:48] Checking for new B.Tech fresher jobs from LinkedIn...
+[2026-04-27 14:54:31] ============================================================
+[2026-04-27 14:54:31]   B.Tech Jobs Fresher - Telegram Bot
+[2026-04-27 14:54:31]   TARGET: B.Tech Freshers | LOCATION: Hyderabad
+[2026-04-27 14:54:31]   CHECK INTERVAL: Every 10 minutes
+[2026-04-27 14:54:31] ============================================================
+[2026-04-27 14:54:31] Loaded 196 previously seen jobs.
+[2026-04-27 14:54:31] Checking for new B.Tech fresher jobs from LinkedIn...
+[2026-04-27 14:56:11] Found 1 new jobs! Sending to Telegram...
+[2026-04-27 14:56:14]   Sent: [LinkedIn] Junior Engineer @ Cornerstone OnDemand | Hyderabad, Telangana, India
+[2026-04-27 14:56:14] Done. Sent 1 new jobs. Total tracked: 197
+[2026-04-27 14:56:14] Single-run cycle complete. Exiting.
