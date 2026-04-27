@@ -9782,3 +9782,14 @@
 [2026-04-27 16:21:19] Checking for new B.Tech fresher jobs from LinkedIn...
 [2026-04-27 16:23:05] No new jobs found. Total tracked: 197
 [2026-04-27 16:23:05] Single-run cycle complete. Exiting.
+[2026-04-27 17:45:39] ============================================================
+[2026-04-27 17:45:39]   B.Tech Jobs Fresher - Telegram Bot
+[2026-04-27 17:45:39]   TARGET: B.Tech Freshers | LOCATION: Hyderabad
+[2026-04-27 17:45:39]   CHECK INTERVAL: Every 10 minutes
+[2026-04-27 17:45:39] ============================================================
+[2026-04-27 17:45:39] Loaded 197 previously seen jobs.
+[2026-04-27 17:45:39] Checking for new B.Tech fresher jobs from LinkedIn...
+[2026-04-27 17:47:21] Found 1 new jobs! Sending to Telegram...
+[2026-04-27 17:47:24]   Sent: [LinkedIn] Branding Intern @ Oishibruu by ZIIPPOCO INC | Hyderabad, Telangana, India
+[2026-04-27 17:47:24] Done. Sent 1 new jobs. Total tracked: 198
+[2026-04-27 17:47:24] Single-run cycle complete. Exiting.
