@@ -10082,3 +10082,14 @@
 [2026-04-30 01:18:17] Checking for new B.Tech fresher jobs from LinkedIn...
 [2026-04-30 01:20:08] No new jobs found. Total tracked: 199
 [2026-04-30 01:20:08] Single-run cycle complete. Exiting.
+[2026-04-30 04:45:28] ============================================================
+[2026-04-30 04:45:28]   B.Tech Jobs Fresher - Telegram Bot
+[2026-04-30 04:45:28]   TARGET: B.Tech Freshers | LOCATION: Hyderabad
+[2026-04-30 04:45:28]   CHECK INTERVAL: Every 10 minutes
+[2026-04-30 04:45:28] ============================================================
+[2026-04-30 04:45:28] Loaded 199 previously seen jobs.
+[2026-04-30 04:45:28] Checking for new B.Tech fresher jobs from LinkedIn...
+[2026-04-30 04:47:13] Found 1 new jobs! Sending to Telegram...
+[2026-04-30 04:47:16]   Sent: [LinkedIn] Agriculture Freshers @ Sri BioAesthetics Pvt.Ltd | Hyderabad, Telangana, India
+[2026-04-30 04:47:16] Done. Sent 1 new jobs. Total tracked: 200
+[2026-04-30 04:47:16] Single-run cycle complete. Exiting.
