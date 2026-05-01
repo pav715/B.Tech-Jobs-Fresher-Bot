@@ -10241,3 +10241,14 @@
 [2026-05-01 09:16:03] Checking for new B.Tech fresher jobs from LinkedIn...
 [2026-05-01 09:17:13] No new jobs found. Total tracked: 202
 [2026-05-01 09:17:13] Single-run cycle complete. Exiting.
+[2026-05-01 10:45:18] ============================================================
+[2026-05-01 10:45:18]   B.Tech Jobs Fresher - Telegram Bot
+[2026-05-01 10:45:18]   TARGET: B.Tech Freshers | LOCATION: Hyderabad
+[2026-05-01 10:45:18]   CHECK INTERVAL: Every 10 minutes
+[2026-05-01 10:45:18] ============================================================
+[2026-05-01 10:45:18] Loaded 202 previously seen jobs.
+[2026-05-01 10:45:18] Checking for new B.Tech fresher jobs from LinkedIn...
+[2026-05-01 10:46:56] Found 1 new jobs! Sending to Telegram...
+[2026-05-01 10:46:59]   Sent: [LinkedIn] Backend Intern – Data Engineering (Prometheus & Telemetry) @ Ninternet | Hyderabad, Telangana, India
+[2026-05-01 10:46:59] Done. Sent 1 new jobs. Total tracked: 203
+[2026-05-01 10:46:59] Single-run cycle complete. Exiting.
