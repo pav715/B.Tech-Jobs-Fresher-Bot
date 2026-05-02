@@ -10504,3 +10504,14 @@
 [2026-05-02 19:07:16] Checking for new B.Tech fresher jobs from LinkedIn...
 [2026-05-02 19:08:53] No new jobs found. Total tracked: 203
 [2026-05-02 19:08:53] Single-run cycle complete. Exiting.
+[2026-05-02 19:57:11] ============================================================
+[2026-05-02 19:57:11]   B.Tech Jobs Fresher - Telegram Bot
+[2026-05-02 19:57:11]   TARGET: B.Tech Freshers | LOCATION: Hyderabad
+[2026-05-02 19:57:11]   CHECK INTERVAL: Every 10 minutes
+[2026-05-02 19:57:11] ============================================================
+[2026-05-02 19:57:11] Loaded 203 previously seen jobs.
+[2026-05-02 19:57:11] Checking for new B.Tech fresher jobs from LinkedIn...
+[2026-05-02 19:58:39] Found 1 new jobs! Sending to Telegram...
+[2026-05-02 19:58:42]   Sent: [LinkedIn] 🎓 Gradvue Student Support Guidance 2026 @ Gradvue | Hyderabad, Telangana, India
+[2026-05-02 19:58:42] Done. Sent 1 new jobs. Total tracked: 204
+[2026-05-02 19:58:42] Single-run cycle complete. Exiting.
