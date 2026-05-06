@@ -11008,3 +11008,14 @@
 [2026-05-06 04:43:28] Checking for new B.Tech fresher jobs from LinkedIn...
 [2026-05-06 04:44:51] No new jobs found. Total tracked: 212
 [2026-05-06 04:44:51] Single-run cycle complete. Exiting.
+[2026-05-06 07:22:58] ============================================================
+[2026-05-06 07:22:58]   B.Tech Jobs Fresher - Telegram Bot
+[2026-05-06 07:22:58]   TARGET: B.Tech Freshers | LOCATION: Hyderabad
+[2026-05-06 07:22:58]   CHECK INTERVAL: Every 10 minutes
+[2026-05-06 07:22:58] ============================================================
+[2026-05-06 07:22:58] Loaded 212 previously seen jobs.
+[2026-05-06 07:22:58] Checking for new B.Tech fresher jobs from LinkedIn...
+[2026-05-06 07:24:42] Found 1 new jobs! Sending to Telegram...
+[2026-05-06 07:24:45]   Sent: [LinkedIn] Game Development Internship in Hyderabad @ SR Edu Technologies Pvt Ltd | Hyderabad, Telangana, India
+[2026-05-06 07:24:45] Done. Sent 1 new jobs. Total tracked: 213
+[2026-05-06 07:24:45] Single-run cycle complete. Exiting.
