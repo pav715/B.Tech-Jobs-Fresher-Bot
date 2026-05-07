@@ -11149,3 +11149,14 @@
 [2026-05-07 13:13:58]   Failed: Volunteer Internship in Srinagar, Nashik, Visakhapatnam, Hyderabad, Bhopal, Mumbai, Jaipur, Raipur, Agra, Chandigarh, Coimbatore, Jodhpur, Kota, Meerut (Hybrid)
 [2026-05-07 13:13:58] Done. Sent 0 new jobs. Total tracked: 214
 [2026-05-07 13:13:58] Single-run cycle complete. Exiting.
+[2026-05-07 15:36:17] ============================================================
+[2026-05-07 15:36:17]   B.Tech Jobs Fresher - Telegram Bot
+[2026-05-07 15:36:17]   TARGET: B.Tech Freshers | LOCATION: Hyderabad
+[2026-05-07 15:36:17]   CHECK INTERVAL: Every 10 minutes
+[2026-05-07 15:36:17] ============================================================
+[2026-05-07 15:36:17] Loaded 214 previously seen jobs.
+[2026-05-07 15:36:17] Checking for new B.Tech fresher jobs from LinkedIn...
+[2026-05-07 15:38:38] Found 1 new jobs! Sending to Telegram...
+[2026-05-07 15:38:39]   Failed: Volunteer Internship in Srinagar, Nashik, Visakhapatnam, Hyderabad, Bhopal, Mumbai, Jaipur, Raipur, Agra, Chandigarh, Coimbatore, Jodhpur, Kota, Meerut (Hybrid)
+[2026-05-07 15:38:39] Done. Sent 0 new jobs. Total tracked: 214
+[2026-05-07 15:38:39] Single-run cycle complete. Exiting.
