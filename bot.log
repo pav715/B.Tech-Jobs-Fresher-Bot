@@ -11338,3 +11338,15 @@
 [2026-05-08 21:40:21] ============================================================
 [2026-05-08 21:40:21] Loaded 214 previously seen jobs.
 [2026-05-08 21:40:21] Checking for new B.Tech fresher jobs from LinkedIn...
+[2026-05-08 22:36:36] ============================================================
+[2026-05-08 22:36:36]   B.Tech Jobs Fresher - Telegram Bot
+[2026-05-08 22:36:36]   TARGET: B.Tech Freshers | LOCATION: Hyderabad
+[2026-05-08 22:36:36]   CHECK INTERVAL: Every 10 minutes
+[2026-05-08 22:36:36] ============================================================
+[2026-05-08 22:36:36] Loaded 214 previously seen jobs.
+[2026-05-08 22:36:36] Checking for new B.Tech fresher jobs from LinkedIn...
+[2026-05-08 22:38:35] Found 5 new jobs! Sending to Telegram...
+[2026-05-08 22:38:36]   Failed: Workplace Operations Executive
+[2026-05-08 22:38:37]   Failed: Java Developer
+[2026-05-08 22:38:39]   Failed: Java Developer
+[2026-05-08 22:38:40]   Failed: Developer
