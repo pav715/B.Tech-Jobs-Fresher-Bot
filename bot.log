@@ -11901,3 +11901,18 @@
 [2026-05-12 19:16:54]   Failed: Associate Tech Svc Desk
 [2026-05-12 19:16:54] Done. Sent 0 new jobs. Total tracked: 214
 [2026-05-12 19:16:54] Single-run cycle complete. Exiting.
+[2026-05-12 20:51:06] ============================================================
+[2026-05-12 20:51:06]   B.Tech Jobs Fresher - Telegram Bot
+[2026-05-12 20:51:06]   TARGET: B.Tech Freshers | LOCATION: Hyderabad
+[2026-05-12 20:51:06]   CHECK INTERVAL: Every 10 minutes
+[2026-05-12 20:51:06] ============================================================
+[2026-05-12 20:51:06] Loaded 214 previously seen jobs.
+[2026-05-12 20:51:06] Checking for new B.Tech fresher jobs from LinkedIn...
+[2026-05-12 20:52:44] Found 5 new jobs! Sending to Telegram...
+[2026-05-12 20:52:45]   Failed: US IT Recruiter (Freshers)
+[2026-05-12 20:52:46]   Failed: Draftsman
+[2026-05-12 20:52:48]   Failed: Business Development Associate (Freshers)
+[2026-05-12 20:52:49]   Failed: Business Development Intern
+[2026-05-12 20:52:50]   Failed: Inside Sales Executive (Fresher)
+[2026-05-12 20:52:50] Done. Sent 0 new jobs. Total tracked: 214
+[2026-05-12 20:52:50] Single-run cycle complete. Exiting.
