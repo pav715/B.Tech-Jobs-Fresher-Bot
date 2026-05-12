@@ -11797,3 +11797,26 @@
 [2026-05-12 07:39:13]   Failed: Full Stack Engineer Intern
 [2026-05-12 07:39:13] Done. Sent 0 new jobs. Total tracked: 214
 [2026-05-12 07:39:13] Single-run cycle complete. Exiting.
+[2026-05-12 10:12:34] ============================================================
+[2026-05-12 10:12:34]   B.Tech Jobs Fresher - Telegram Bot
+[2026-05-12 10:12:34]   TARGET: B.Tech Freshers | LOCATION: Hyderabad
+[2026-05-12 10:12:34]   CHECK INTERVAL: Every 10 minutes
+[2026-05-12 10:12:34] ============================================================
+[2026-05-12 10:12:34] Loaded 214 previously seen jobs.
+[2026-05-12 10:12:34] Checking for new B.Tech fresher jobs from LinkedIn...
+[2026-05-12 10:14:39] Found 13 new jobs! Sending to Telegram...
+[2026-05-12 10:14:40]   Failed: US IT Recruiter (Freshers)
+[2026-05-12 10:14:41]   Failed: Design Engineer
+[2026-05-12 10:14:42]   Failed: Design Engineer
+[2026-05-12 10:14:44]   Failed: DevOps Engineer
+[2026-05-12 10:14:45]   Failed: DevOps (OpenShift, SRE, Kubernetes, CI/CD) 16th May 26 Walkin Hyderabad
+[2026-05-12 10:14:45]   Failed: B.Tech Internship
+[2026-05-12 10:14:46]   Failed: Business Development Associate (Freshers)
+[2026-05-12 10:14:47]   Failed: Cost Out VAVE - Engineers
+[2026-05-12 10:14:48]   Failed: DevOps Engineer I
+[2026-05-12 10:14:49]   Failed: Business Development Intern
+[2026-05-12 10:14:50]   Failed: Inside Sales Executive (Fresher)
+[2026-05-12 10:14:51]   Failed: Engineer, Mechanical Simulation
+[2026-05-12 10:14:52]   Failed: Devops Engineer
+[2026-05-12 10:14:52] Done. Sent 0 new jobs. Total tracked: 214
+[2026-05-12 10:14:52] Single-run cycle complete. Exiting.
