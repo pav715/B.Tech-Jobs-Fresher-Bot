@@ -11762,3 +11762,15 @@
 [2026-05-11 23:41:50]   Failed: Volunteer Internship in Nashik, Agra, Chandigarh, Hyderabad, Bhopal, Mumbai, Jaipur, Raipur, Srinagar, Coimbatore, Jodhpur, Kota, Meerut, Visakhapatnam (Hybrid)
 [2026-05-11 23:41:50] Done. Sent 0 new jobs. Total tracked: 214
 [2026-05-11 23:41:50] Single-run cycle complete. Exiting.
+[2026-05-12 01:23:24] ============================================================
+[2026-05-12 01:23:24]   B.Tech Jobs Fresher - Telegram Bot
+[2026-05-12 01:23:24]   TARGET: B.Tech Freshers | LOCATION: Hyderabad
+[2026-05-12 01:23:24]   CHECK INTERVAL: Every 10 minutes
+[2026-05-12 01:23:24] ============================================================
+[2026-05-12 01:23:24] Loaded 214 previously seen jobs.
+[2026-05-12 01:23:24] Checking for new B.Tech fresher jobs from LinkedIn...
+[2026-05-12 01:25:07] Found 2 new jobs! Sending to Telegram...
+[2026-05-12 01:25:09]   Failed: Business Development Associate (Freshers)
+[2026-05-12 01:25:10]   Failed: Immediate Hiring!!!!
+[2026-05-12 01:25:10] Done. Sent 0 new jobs. Total tracked: 214
+[2026-05-12 01:25:10] Single-run cycle complete. Exiting.
