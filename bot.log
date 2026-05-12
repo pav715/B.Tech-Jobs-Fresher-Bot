@@ -11875,3 +11875,29 @@
 [2026-05-12 17:22:45] Checking for new B.Tech fresher jobs from LinkedIn...
 [2026-05-12 17:23:56] No new jobs found. Total tracked: 214
 [2026-05-12 17:23:56] Single-run cycle complete. Exiting.
+[2026-05-12 19:14:26] ============================================================
+[2026-05-12 19:14:26]   B.Tech Jobs Fresher - Telegram Bot
+[2026-05-12 19:14:26]   TARGET: B.Tech Freshers | LOCATION: Hyderabad
+[2026-05-12 19:14:26]   CHECK INTERVAL: Every 10 minutes
+[2026-05-12 19:14:26] ============================================================
+[2026-05-12 19:14:26] Loaded 214 previously seen jobs.
+[2026-05-12 19:14:26] Checking for new B.Tech fresher jobs from LinkedIn...
+[2026-05-12 19:16:39] Found 16 new jobs! Sending to Telegram...
+[2026-05-12 19:16:40]   Failed: US IT Recruiter (Freshers)
+[2026-05-12 19:16:41]   Failed: Draftsman
+[2026-05-12 19:16:42]   Failed: Engineer - RF SW
+[2026-05-12 19:16:43]   Failed: GRC Engg(66443)
+[2026-05-12 19:16:44]   Failed: WLAN
+[2026-05-12 19:16:45]   Failed: Business Development Associate (Freshers)
+[2026-05-12 19:16:46]   Failed: Immediate Hiring!!!!
+[2026-05-12 19:16:47]   Failed: Service Desk Engineers
+[2026-05-12 19:16:48]   Failed: DevOps Engineer I
+[2026-05-12 19:16:49]   Failed: Data Center Technician
+[2026-05-12 19:16:50]   Failed: US IT RECRUITERS - FRESHERS
+[2026-05-12 19:16:51]   Failed: Production Support - ITIL, Distributed
+[2026-05-12 19:16:52]   Failed: AWS Administrator (Claude APIs,EC2, Lambda, and DynamoDB)
+[2026-05-12 19:16:52]   Failed: MS Engineer - L2
+[2026-05-12 19:16:53]   Failed: Associate Engineer
+[2026-05-12 19:16:54]   Failed: Associate Tech Svc Desk
+[2026-05-12 19:16:54] Done. Sent 0 new jobs. Total tracked: 214
+[2026-05-12 19:16:54] Single-run cycle complete. Exiting.
