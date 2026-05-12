@@ -11820,3 +11820,20 @@
 [2026-05-12 10:14:52]   Failed: Devops Engineer
 [2026-05-12 10:14:52] Done. Sent 0 new jobs. Total tracked: 214
 [2026-05-12 10:14:52] Single-run cycle complete. Exiting.
+[2026-05-12 12:17:44] ============================================================
+[2026-05-12 12:17:44]   B.Tech Jobs Fresher - Telegram Bot
+[2026-05-12 12:17:44]   TARGET: B.Tech Freshers | LOCATION: Hyderabad
+[2026-05-12 12:17:44]   CHECK INTERVAL: Every 10 minutes
+[2026-05-12 12:17:44] ============================================================
+[2026-05-12 12:17:44] Loaded 214 previously seen jobs.
+[2026-05-12 12:17:44] Checking for new B.Tech fresher jobs from LinkedIn...
+[2026-05-12 12:19:37] Found 7 new jobs! Sending to Telegram...
+[2026-05-12 12:19:38]   Failed: US IT Recruiter (Freshers)
+[2026-05-12 12:19:39]   Failed: Resource Person School Acquisition Partner Incentive-Based People Combine Business Initiatives
+[2026-05-12 12:19:40]   Failed: Customer Service Representative
+[2026-05-12 12:19:41]   Failed: Business Development Associate (Freshers)
+[2026-05-12 12:19:42]   Failed: Business Development Intern
+[2026-05-12 12:19:43]   Failed: Inside Sales Executive (Fresher)
+[2026-05-12 12:19:44]   Failed: Developer
+[2026-05-12 12:19:44] Done. Sent 0 new jobs. Total tracked: 214
+[2026-05-12 12:19:44] Single-run cycle complete. Exiting.
