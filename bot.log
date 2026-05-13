@@ -11959,3 +11959,24 @@
 [2026-05-12 23:05:50]   Failed: MS Engineer - L2
 [2026-05-12 23:05:50] Done. Sent 0 new jobs. Total tracked: 214
 [2026-05-12 23:05:50] Single-run cycle complete. Exiting.
+[2026-05-13 00:11:05] ============================================================
+[2026-05-13 00:11:05]   B.Tech Jobs Fresher - Telegram Bot
+[2026-05-13 00:11:05]   TARGET: B.Tech Freshers | LOCATION: Hyderabad
+[2026-05-13 00:11:05]   CHECK INTERVAL: Every 10 minutes
+[2026-05-13 00:11:05] ============================================================
+[2026-05-13 00:11:05] Loaded 214 previously seen jobs.
+[2026-05-13 00:11:05] Checking for new B.Tech fresher jobs from LinkedIn...
+[2026-05-13 00:13:08] Found 11 new jobs! Sending to Telegram...
+[2026-05-13 00:13:09]   Failed: Trainee Engineer in Noida, Sangareddy, Hyderabad, Greater Noida, Mahbubnagar, Ghaziabad, Faridabad, Warangal, Gurgaon
+[2026-05-13 00:13:10]   Failed: US IT Recruiter (Freshers)
+[2026-05-13 00:13:11]   Failed: Draftsman
+[2026-05-13 00:13:11]   Failed: Resource Person School Acquisition Partner Incentive-Based People Combine Business Initiatives
+[2026-05-13 00:13:12]   Failed: Developer
+[2026-05-13 00:13:13]   Failed: Business Development Associate (Freshers)
+[2026-05-13 00:13:14]   Failed: Quality Assurance Engineer
+[2026-05-13 00:13:15]   Failed: Software Testing Internship in Hyderabad
+[2026-05-13 00:13:16]   Failed: Business Development Intern
+[2026-05-13 00:13:17]   Failed: Inside Sales Executive (Fresher)
+[2026-05-13 00:13:18]   Failed: Volunteer Internship in Hyderabad, Varanasi, Kochi, Nagpur, Kanpur, Gwalior West, Chennai, Delhi, Guwahati, Indore, Madurai, Lucknow, Pune, Ranchi, Surat (Hybrid)
+[2026-05-13 00:13:18] Done. Sent 0 new jobs. Total tracked: 214
+[2026-05-13 00:13:18] Single-run cycle complete. Exiting.
