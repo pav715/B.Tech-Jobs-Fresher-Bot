@@ -12028,3 +12028,22 @@
 [2026-05-13 12:17:50] ============================================================
 [2026-05-13 12:17:50] Loaded 214 previously seen jobs.
 [2026-05-13 12:17:50] Checking for new B.Tech fresher jobs from LinkedIn...
+[2026-05-13 15:16:28] ============================================================
+[2026-05-13 15:16:28]   B.Tech Jobs Fresher - Telegram Bot
+[2026-05-13 15:16:28]   TARGET: B.Tech Freshers | LOCATION: Hyderabad
+[2026-05-13 15:16:28]   CHECK INTERVAL: Every 10 minutes
+[2026-05-13 15:16:28] ============================================================
+[2026-05-13 15:16:28] Loaded 214 previously seen jobs.
+[2026-05-13 15:16:28] Checking for new B.Tech fresher jobs from LinkedIn...
+[2026-05-13 15:18:17] Found 9 new jobs! Sending to Telegram...
+[2026-05-13 15:18:18]   Failed: AI Video Creator
+[2026-05-13 15:18:19]   Failed: Intern
+[2026-05-13 15:18:20]   Failed: Trainee Engineer in Noida, Sangareddy, Hyderabad, Greater Noida, Mahbubnagar, Ghaziabad, Faridabad, Warangal, Gurgaon
+[2026-05-13 15:18:21]   Failed: GRC Engg(66443)
+[2026-05-13 15:18:22]   Failed: Fresher - Software Development Engineer
+[2026-05-13 15:18:23]   Failed: Business Development Associate (Freshers)
+[2026-05-13 15:18:24]   Failed: Business Development Intern
+[2026-05-13 15:18:25]   Failed: Inside Sales Executive (Fresher)
+[2026-05-13 15:18:26]   Failed: MS Engineer - L2
+[2026-05-13 15:18:26] Done. Sent 0 new jobs. Total tracked: 214
+[2026-05-13 15:18:26] Single-run cycle complete. Exiting.
