@@ -12187,3 +12187,19 @@
 [2026-05-14 10:03:09]   Failed: Inside Sales Executive (Fresher)
 [2026-05-14 10:03:09] Done. Sent 0 new jobs. Total tracked: 214
 [2026-05-14 10:03:09] Single-run cycle complete. Exiting.
+[2026-05-14 11:59:51] ============================================================
+[2026-05-14 11:59:51]   B.Tech Jobs Fresher - Telegram Bot
+[2026-05-14 11:59:51]   TARGET: B.Tech Freshers | LOCATION: Hyderabad
+[2026-05-14 11:59:51]   CHECK INTERVAL: Every 10 minutes
+[2026-05-14 11:59:51] ============================================================
+[2026-05-14 11:59:51] Loaded 214 previously seen jobs.
+[2026-05-14 11:59:51] Checking for new B.Tech fresher jobs from LinkedIn...
+[2026-05-14 12:01:34] Found 6 new jobs! Sending to Telegram...
+[2026-05-14 12:01:35]   Failed: Fresher - Front End Developer
+[2026-05-14 12:01:35]   Failed: AI Video Creator
+[2026-05-14 12:01:36]   Failed: Fresher - Software Development Engineer
+[2026-05-14 12:01:37]   Failed: Draftsman
+[2026-05-14 12:01:38]   Failed: Business Development Intern
+[2026-05-14 12:01:39]   Failed: Inside Sales Executive (Fresher)
+[2026-05-14 12:01:39] Done. Sent 0 new jobs. Total tracked: 214
+[2026-05-14 12:01:39] Single-run cycle complete. Exiting.
