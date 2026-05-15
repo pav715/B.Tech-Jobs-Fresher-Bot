@@ -12365,3 +12365,12 @@
 [2026-05-15 16:28:19]   Failed: Business Development Associate (Freshers)
 [2026-05-15 16:28:19] Done. Sent 0 new jobs. Total tracked: 214
 [2026-05-15 16:28:19] Single-run cycle complete. Exiting.
+[2026-05-15 18:05:15] ============================================================
+[2026-05-15 18:05:15]   B.Tech Jobs Fresher - Telegram Bot
+[2026-05-15 18:05:15]   TARGET: B.Tech Freshers | LOCATION: Hyderabad
+[2026-05-15 18:05:15]   CHECK INTERVAL: Every 10 minutes
+[2026-05-15 18:05:15] ============================================================
+[2026-05-15 18:05:15] Loaded 214 previously seen jobs.
+[2026-05-15 18:05:15] Checking for new B.Tech fresher jobs from LinkedIn...
+[2026-05-15 18:07:22] Found 11 new jobs! Sending to Telegram...
+[2026-05-15 18:07:23]   Failed: Trainee Order Processing & Design Engineer – Internship (Civil / Mechanical)
