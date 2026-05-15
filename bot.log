@@ -12350,3 +12350,18 @@
 [2026-05-15 14:44:49]   Failed: GRC Engg(66443)
 [2026-05-15 14:44:51]   Failed: Business Development Associate (Freshers)
 [2026-05-15 14:44:52]   Failed: Cost Out VAVE - Engineers
+[2026-05-15 16:26:54] ============================================================
+[2026-05-15 16:26:54]   B.Tech Jobs Fresher - Telegram Bot
+[2026-05-15 16:26:54]   TARGET: B.Tech Freshers | LOCATION: Hyderabad
+[2026-05-15 16:26:54]   CHECK INTERVAL: Every 10 minutes
+[2026-05-15 16:26:54] ============================================================
+[2026-05-15 16:26:54] Loaded 214 previously seen jobs.
+[2026-05-15 16:26:54] Checking for new B.Tech fresher jobs from LinkedIn...
+[2026-05-15 16:28:12] Found 5 new jobs! Sending to Telegram...
+[2026-05-15 16:28:14]   Failed: Trainee Order Processing & Design Engineer – Internship (Civil / Mechanical)
+[2026-05-15 16:28:15]   Failed: Fresher - Front End Developer
+[2026-05-15 16:28:16]   Failed: Trainee Engineer in Telangana, Hyderabad, Greater Noida, Noida, Sangareddy, Warangal, Gurgaon, Ghaziabad, Mahbubnagar, Faridabad
+[2026-05-15 16:28:18]   Failed: Fresher - Software Development Engineer
+[2026-05-15 16:28:19]   Failed: Business Development Associate (Freshers)
+[2026-05-15 16:28:19] Done. Sent 0 new jobs. Total tracked: 214
+[2026-05-15 16:28:19] Single-run cycle complete. Exiting.
