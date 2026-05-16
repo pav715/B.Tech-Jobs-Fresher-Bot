@@ -12425,3 +12425,14 @@
 [2026-05-15 23:37:16]   Failed: Trainee Order Processing & Design Engineer – Internship (Civil / Mechanical)
 [2026-05-15 23:37:17]   Failed: Fresher - Front End Developer
 [2026-05-15 23:37:18]   Failed: AI Video Creator
+[2026-05-16 01:20:30] ============================================================
+[2026-05-16 01:20:30]   B.Tech Jobs Fresher - Telegram Bot
+[2026-05-16 01:20:30]   TARGET: B.Tech Freshers | LOCATION: Hyderabad
+[2026-05-16 01:20:30]   CHECK INTERVAL: Every 10 minutes
+[2026-05-16 01:20:30] ============================================================
+[2026-05-16 01:20:30] Loaded 214 previously seen jobs.
+[2026-05-16 01:20:30] Checking for new B.Tech fresher jobs from LinkedIn...
+[2026-05-16 01:21:40] Found 1 new jobs! Sending to Telegram...
+[2026-05-16 01:21:41]   Failed: Fresher - Front End Developer
+[2026-05-16 01:21:41] Done. Sent 0 new jobs. Total tracked: 214
+[2026-05-16 01:21:41] Single-run cycle complete. Exiting.
