@@ -12791,3 +12791,12 @@
 [2026-05-17 23:32:43]   Failed: AI Video Creator
 [2026-05-17 23:32:44]   Failed: Fresher - Software Development Engineer
 [2026-05-17 23:32:46]   Failed: Draftsman
+[2026-05-18 01:29:38] ============================================================
+[2026-05-18 01:29:38]   B.Tech Jobs Fresher - Telegram Bot
+[2026-05-18 01:29:38]   TARGET: B.Tech Freshers | LOCATION: Hyderabad
+[2026-05-18 01:29:38]   CHECK INTERVAL: Every 10 minutes
+[2026-05-18 01:29:38] ============================================================
+[2026-05-18 01:29:38] Loaded 214 previously seen jobs.
+[2026-05-18 01:29:38] Checking for new B.Tech fresher jobs from LinkedIn...
+[2026-05-18 01:31:42] Found 12 new jobs! Sending to Telegram...
+[2026-05-18 01:31:43]   Failed: Dynamic Fresher or Experienced Individual with Expertise In Textile.
