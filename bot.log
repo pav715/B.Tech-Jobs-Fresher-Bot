@@ -12991,3 +12991,17 @@
 [2026-05-19 11:49:34]   Failed: Draftsman
 [2026-05-19 11:49:34] Done. Sent 0 new jobs. Total tracked: 214
 [2026-05-19 11:49:34] Single-run cycle complete. Exiting.
+[2026-05-19 14:18:57] ============================================================
+[2026-05-19 14:18:57]   B.Tech Jobs Fresher - Telegram Bot
+[2026-05-19 14:18:57]   TARGET: B.Tech Freshers | LOCATION: Hyderabad
+[2026-05-19 14:18:57]   CHECK INTERVAL: Every 10 minutes
+[2026-05-19 14:18:57] ============================================================
+[2026-05-19 14:18:57] Loaded 214 previously seen jobs.
+[2026-05-19 14:18:57] Checking for new B.Tech fresher jobs from LinkedIn...
+[2026-05-19 14:21:30] Found 13 new jobs! Sending to Telegram...
+[2026-05-19 14:21:31]   Failed: ABM Associate - Freshers - (Sales)
+[2026-05-19 14:21:32]   Failed: Junior Research Fellowship
+[2026-05-19 14:21:33]   Failed: Software Development Engineer I
+[2026-05-19 14:21:34]   Failed: Autocad Designer
+[2026-05-19 14:21:35]   Failed: Intern
+[2026-05-19 14:21:36]   Failed: Payments Analyst Intern
