@@ -13030,3 +13030,27 @@
 [2026-05-19 17:23:24]   Failed: Fresher - Software Development Engineer
 [2026-05-19 17:23:24] Done. Sent 0 new jobs. Total tracked: 214
 [2026-05-19 17:23:24] Single-run cycle complete. Exiting.
+[2026-05-19 19:21:18] ============================================================
+[2026-05-19 19:21:18]   B.Tech Jobs Fresher - Telegram Bot
+[2026-05-19 19:21:18]   TARGET: B.Tech Freshers | LOCATION: Hyderabad
+[2026-05-19 19:21:18]   CHECK INTERVAL: Every 10 minutes
+[2026-05-19 19:21:18] ============================================================
+[2026-05-19 19:21:18] Loaded 214 previously seen jobs.
+[2026-05-19 19:21:18] Checking for new B.Tech fresher jobs from LinkedIn...
+[2026-05-19 19:23:43] Found 14 new jobs! Sending to Telegram...
+[2026-05-19 19:23:44]   Failed: Junior Research Fellowship
+[2026-05-19 19:23:45]   Failed: Research Quality Specialist (Material science) - 78723
+[2026-05-19 19:23:46]   Failed: Autocad Designer
+[2026-05-19 19:23:47]   Failed: Kafka, Gitlab Pipelines, Terraform/Ansible
+[2026-05-19 19:23:48]   Failed: Intern
+[2026-05-19 19:23:48]   Failed: Payments Analyst Intern
+[2026-05-19 19:23:49]   Failed: Fresher -  Cloud DevOps Engineer
+[2026-05-19 19:23:51]   Failed: BHMS Fresher Jobs
+[2026-05-19 19:23:52]   Failed: Doctoral Student
+[2026-05-19 19:23:53]   Failed: Fresher - Front End Developer
+[2026-05-19 19:23:54]   Failed: Checker
+[2026-05-19 19:23:55]   Failed: DevOps Engineer
+[2026-05-19 19:23:55]   Failed: DevOps Engineer – Test Infra
+[2026-05-19 19:23:56]   Failed: Trainee Engineer in Telangana, Sangareddy, Noida, Hyderabad, Mahbubnagar, Warangal, Greater Noida, Gurgaon, Ghaziabad, Faridabad
+[2026-05-19 19:23:56] Done. Sent 0 new jobs. Total tracked: 214
+[2026-05-19 19:23:56] Single-run cycle complete. Exiting.
