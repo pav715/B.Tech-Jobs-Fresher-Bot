@@ -12926,3 +12926,21 @@
 [2026-05-18 23:33:57]   Failed: Payments Analyst Intern
 [2026-05-18 23:33:58]   Failed: Fresher -  Cloud DevOps Engineer
 [2026-05-18 23:33:59]   Failed: BHMS Fresher Jobs
+[2026-05-19 01:31:27] ============================================================
+[2026-05-19 01:31:27]   B.Tech Jobs Fresher - Telegram Bot
+[2026-05-19 01:31:27]   TARGET: B.Tech Freshers | LOCATION: Hyderabad
+[2026-05-19 01:31:27]   CHECK INTERVAL: Every 10 minutes
+[2026-05-19 01:31:27] ============================================================
+[2026-05-19 01:31:27] Loaded 214 previously seen jobs.
+[2026-05-19 01:31:27] Checking for new B.Tech fresher jobs from LinkedIn...
+[2026-05-19 01:33:19] Found 8 new jobs! Sending to Telegram...
+[2026-05-19 01:33:20]   Failed: Autocad Designer
+[2026-05-19 01:33:21]   Failed: Intern
+[2026-05-19 01:33:23]   Failed: Payments Analyst Intern
+[2026-05-19 01:33:24]   Failed: Fresher -  Cloud DevOps Engineer
+[2026-05-19 01:33:25]   Failed: BHMS Fresher Jobs
+[2026-05-19 01:33:26]   Failed: Fresher - Front End Developer
+[2026-05-19 01:33:27]   Failed: Trainee Engineer in Telangana, Sangareddy, Noida, Hyderabad, Mahbubnagar, Warangal, Greater Noida, Gurgaon, Ghaziabad, Faridabad
+[2026-05-19 01:33:28]   Failed: Fresher - Software Development Engineer
+[2026-05-19 01:33:28] Done. Sent 0 new jobs. Total tracked: 214
+[2026-05-19 01:33:28] Single-run cycle complete. Exiting.
