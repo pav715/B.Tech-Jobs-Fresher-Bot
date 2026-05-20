@@ -13198,3 +13198,16 @@
 [2026-05-20 11:37:29]   Failed: Fresher - Front End Developer
 [2026-05-20 11:37:29] Done. Sent 0 new jobs. Total tracked: 214
 [2026-05-20 11:37:29] Single-run cycle complete. Exiting.
+[2026-05-20 14:11:26] ============================================================
+[2026-05-20 14:11:26]   B.Tech Jobs Fresher - Telegram Bot
+[2026-05-20 14:11:26]   TARGET: B.Tech Freshers | LOCATION: Hyderabad
+[2026-05-20 14:11:26]   CHECK INTERVAL: Every 10 minutes
+[2026-05-20 14:11:26] ============================================================
+[2026-05-20 14:11:26] Loaded 214 previously seen jobs.
+[2026-05-20 14:11:26] Checking for new B.Tech fresher jobs from LinkedIn...
+[2026-05-20 14:14:00] Found 23 new jobs! Sending to Telegram...
+[2026-05-20 14:14:02]   Failed: Engineer
+[2026-05-20 14:14:03]   Failed: High-Rise Buildings G12
+[2026-05-20 14:14:03]   Failed: Research Quality Specialist (Material science) - 78723
+[2026-05-20 14:14:04]   Failed: Apprentice
+[2026-05-20 14:14:05]   Failed: Junior Full Stack Engineer
