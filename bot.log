@@ -13271,3 +13271,23 @@
 [2026-05-20 22:50:24]   Failed: Associate Automation Platform Engineer
 [2026-05-20 22:50:24] Done. Sent 0 new jobs. Total tracked: 214
 [2026-05-20 22:50:24] Single-run cycle complete. Exiting.
+[2026-05-20 23:57:00] ============================================================
+[2026-05-20 23:57:00]   B.Tech Jobs Fresher - Telegram Bot
+[2026-05-20 23:57:00]   TARGET: B.Tech Freshers | LOCATION: Hyderabad
+[2026-05-20 23:57:00]   CHECK INTERVAL: Every 10 minutes
+[2026-05-20 23:57:00] ============================================================
+[2026-05-20 23:57:00] Loaded 214 previously seen jobs.
+[2026-05-20 23:57:00] Checking for new B.Tech fresher jobs from LinkedIn...
+[2026-05-20 23:58:55] Found 10 new jobs! Sending to Telegram...
+[2026-05-20 23:58:56]   Failed: Data Engineer - Delivery0
+[2026-05-20 23:58:57]   Failed: Engineer
+[2026-05-20 23:58:58]   Failed: Research Quality Specialist (Material science) - 78723
+[2026-05-20 23:58:59]   Failed: Apprentice
+[2026-05-20 23:59:00]   Failed: MS Engineer
+[2026-05-20 23:59:01]   Failed: Payments Analyst Intern
+[2026-05-20 23:59:02]   Failed: Fresher -  Cloud DevOps Engineer
+[2026-05-20 23:59:03]   Failed: BHMS Fresher Jobs
+[2026-05-20 23:59:04]   Failed: Doctoral Student
+[2026-05-20 23:59:05]   Failed: Data Centre Linux & HW Engineer, Data Center Operations
+[2026-05-20 23:59:05] Done. Sent 0 new jobs. Total tracked: 214
+[2026-05-20 23:59:05] Single-run cycle complete. Exiting.
