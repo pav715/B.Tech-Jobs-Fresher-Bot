@@ -13140,3 +13140,32 @@
 [2026-05-20 01:30:43]   Failed: AI Agent Engineering Intern
 [2026-05-20 01:30:44]   Failed: AI Agent Engineering Intern
 [2026-05-20 01:30:45]   Failed: AI Agent Engineering Intern
+[2026-05-20 05:43:19] ============================================================
+[2026-05-20 05:43:19]   B.Tech Jobs Fresher - Telegram Bot
+[2026-05-20 05:43:19]   TARGET: B.Tech Freshers | LOCATION: Hyderabad
+[2026-05-20 05:43:19]   CHECK INTERVAL: Every 10 minutes
+[2026-05-20 05:43:19] ============================================================
+[2026-05-20 05:43:19] Loaded 214 previously seen jobs.
+[2026-05-20 05:43:19] Checking for new B.Tech fresher jobs from LinkedIn...
+[2026-05-20 05:45:23] Found 19 new jobs! Sending to Telegram...
+[2026-05-20 05:45:24]   Failed: Product Support Engineer*
+[2026-05-20 05:45:25]   Failed: Apprentice
+[2026-05-20 05:45:26]   Failed: Research Quality Specialist (Material science) - 78723
+[2026-05-20 05:45:27]   Failed: AI Agent Engineering Intern
+[2026-05-20 05:45:28]   Failed: AI Agent Engineering Intern
+[2026-05-20 05:45:28]   Failed: AI Agent Engineering Intern
+[2026-05-20 05:45:29]   Failed: AI Agent Engineering Intern
+[2026-05-20 05:45:30]   Failed: AI Agent Engineering Intern
+[2026-05-20 05:45:31]   Failed: AI Agent Engineering Intern
+[2026-05-20 05:45:32]   Failed: Associate Engineer - Compiler Development
+[2026-05-20 05:45:33]   Failed: Autocad Designer
+[2026-05-20 05:45:34]   Failed: Intern
+[2026-05-20 05:45:35]   Failed: Payments Analyst Intern
+[2026-05-20 05:45:36]   Failed: Fresher -  Cloud DevOps Engineer
+[2026-05-20 05:45:37]   Failed: BHMS Fresher Jobs
+[2026-05-20 05:45:38]   Failed: IT Delivery
+[2026-05-20 05:45:39]   Failed: Network Services
+[2026-05-20 05:45:40]   Failed: Doctoral Student
+[2026-05-20 05:45:41]   Failed: Fresher - Front End Developer
+[2026-05-20 05:45:41] Done. Sent 0 new jobs. Total tracked: 214
+[2026-05-20 05:45:41] Single-run cycle complete. Exiting.
