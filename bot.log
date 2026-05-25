@@ -13822,3 +13822,20 @@
 [2026-05-25 17:57:17] ============================================================
 [2026-05-25 17:57:17] Loaded 214 previously seen jobs.
 [2026-05-25 17:57:17] Checking for new B.Tech fresher jobs from LinkedIn...
+[2026-05-25 19:40:13] ============================================================
+[2026-05-25 19:40:13]   B.Tech Jobs Fresher - Telegram Bot
+[2026-05-25 19:40:13]   TARGET: B.Tech Freshers | LOCATION: Hyderabad
+[2026-05-25 19:40:13]   CHECK INTERVAL: Every 10 minutes
+[2026-05-25 19:40:13] ============================================================
+[2026-05-25 19:40:13] Loaded 214 previously seen jobs.
+[2026-05-25 19:40:13] Checking for new B.Tech fresher jobs from LinkedIn...
+[2026-05-25 19:41:41] Found 7 new jobs! Sending to Telegram...
+[2026-05-25 19:41:43]   Failed: Project Engineer
+[2026-05-25 19:41:44]   Failed: Data Engineer - Delivery0
+[2026-05-25 19:41:45]   Failed: Engineer
+[2026-05-25 19:41:47]   Failed: Research Quality Specialist (Material science) - 78723
+[2026-05-25 19:41:48]   Failed: IT Technician
+[2026-05-25 19:41:49]   Failed: Assoc Tech Svc Desk
+[2026-05-25 19:41:51]   Failed: QA Automation Engineer
+[2026-05-25 19:41:51] Done. Sent 0 new jobs. Total tracked: 214
+[2026-05-25 19:41:51] Single-run cycle complete. Exiting.
