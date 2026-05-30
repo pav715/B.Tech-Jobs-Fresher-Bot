@@ -14219,3 +14219,19 @@
 [2026-05-30 11:00:52]   Failed: Associate Analyst IRC295443
 [2026-05-30 11:00:52] Done. Sent 0 new jobs. Total tracked: 214
 [2026-05-30 11:00:52] Single-run cycle complete. Exiting.
+[2026-05-30 12:05:48] ============================================================
+[2026-05-30 12:05:48]   B.Tech Jobs Fresher - Telegram Bot
+[2026-05-30 12:05:48]   TARGET: B.Tech Freshers | LOCATION: Hyderabad
+[2026-05-30 12:05:48]   CHECK INTERVAL: Every 10 minutes
+[2026-05-30 12:05:48] ============================================================
+[2026-05-30 12:05:48] Loaded 214 previously seen jobs.
+[2026-05-30 12:05:48] Checking for new B.Tech fresher jobs from LinkedIn...
+[2026-05-30 12:07:42] Found 11 new jobs! Sending to Telegram...
+[2026-05-30 12:07:44]   Failed: Remote Tech Opportunities Global and APAC Region (Freshers and Experienced)
+[2026-05-30 12:07:45]   Failed: Engineer
+[2026-05-30 12:07:46]   Failed: Engineer
+[2026-05-30 12:07:48]   Failed: Engineer- QSWAT
+[2026-05-30 12:07:49]   Failed: Software Engineer-Runtime
+[2026-05-30 12:07:50]   Failed: Camera Firmware Engineer
+[2026-05-30 12:07:51]   Failed: PLC Programmer (1-2 Years Exp)
+[2026-05-30 12:07:53]   Failed: Software Engineer I
