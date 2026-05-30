@@ -14303,3 +14303,19 @@
 [2026-05-30 21:44:32] ============================================================
 [2026-05-30 21:44:32] Loaded 214 previously seen jobs.
 [2026-05-30 21:44:32] Checking for new B.Tech fresher jobs from LinkedIn...
+[2026-05-30 22:40:10] ============================================================
+[2026-05-30 22:40:10]   B.Tech Jobs Fresher - Telegram Bot
+[2026-05-30 22:40:10]   TARGET: B.Tech Freshers | LOCATION: Hyderabad
+[2026-05-30 22:40:10]   CHECK INTERVAL: Every 10 minutes
+[2026-05-30 22:40:10] ============================================================
+[2026-05-30 22:40:10] Loaded 214 previously seen jobs.
+[2026-05-30 22:40:10] Checking for new B.Tech fresher jobs from LinkedIn...
+[2026-05-30 22:41:49] Found 6 new jobs! Sending to Telegram...
+[2026-05-30 22:41:50]   Failed: 🚀 Hiring Freshers – QA Engineer (Manual & Automation Testing)
+[2026-05-30 22:41:51]   Failed: Remote Tech Opportunities Global and APAC Region (Freshers and Experienced)
+[2026-05-30 22:41:52]   Failed: Engineer
+[2026-05-30 22:41:52]   Failed: ITS Cloud & Infrastructure Engineer- Analyst- Hyderabad
+[2026-05-30 22:41:53]   Failed: AWS Cloud Developer
+[2026-05-30 22:41:54]   Failed: DEVELOPER L1
+[2026-05-30 22:41:54] Done. Sent 0 new jobs. Total tracked: 214
+[2026-05-30 22:41:54] Single-run cycle complete. Exiting.
