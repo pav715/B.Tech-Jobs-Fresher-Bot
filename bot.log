@@ -16174,3 +16174,17 @@
 [2026-06-26 20:49:25] ============================================================
 [2026-06-26 20:49:25] Loaded 214 previously seen jobs.
 [2026-06-26 20:49:25] Checking for new B.Tech fresher jobs from LinkedIn...
+[2026-06-26 21:56:47] ============================================================
+[2026-06-26 21:56:47]   B.Tech Jobs Fresher - Telegram Bot
+[2026-06-26 21:56:47]   TARGET: B.Tech Freshers | LOCATION: Hyderabad
+[2026-06-26 21:56:47]   CHECK INTERVAL: Every 10 minutes
+[2026-06-26 21:56:47] ============================================================
+[2026-06-26 21:56:47] Loaded 214 previously seen jobs.
+[2026-06-26 21:56:47] Checking for new B.Tech fresher jobs from LinkedIn...
+[2026-06-26 21:58:48] Found 21 new jobs! Sending to Telegram...
+[2026-06-26 21:58:52]   Failed: Incident Operations Engineer
+[2026-06-26 21:58:53]   Failed: Associate Engineer
+[2026-06-26 21:58:54]   Failed: AI Engineer (LangGraph)
+[2026-06-26 21:58:54]   Failed: Associate Engineer, Masktech Systems
+[2026-06-26 21:58:55]   Failed: DevOps Engineer
+[2026-06-26 21:58:55]   Failed: Service Engineer 1
