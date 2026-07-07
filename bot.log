@@ -122,3 +122,13 @@
 [2026-07-07 06:33:01]   Sent: [LinkedIn] TEST ENGINEER L2 @ Wipro | Hyderabad, Telangana, India
 [2026-07-07 06:33:01] Done. Sent 1 new jobs. Total tracked: 41
 [2026-07-07 06:33:01] Single-run cycle complete. Exiting.
+[2026-07-07 10:07:46] ============================================================
+[2026-07-07 10:07:46]   B.Tech Jobs Fresher - Telegram Bot
+[2026-07-07 10:07:46]   TARGET: B.Tech Freshers | LOCATION: Hyderabad
+[2026-07-07 10:07:46]   CHECK INTERVAL: Every 10 minutes
+[2026-07-07 10:07:46] ============================================================
+[2026-07-07 10:07:46] Loaded 41 previously seen jobs.
+[2026-07-07 10:07:46] Window: sending jobs posted after 2026-07-07T06:29:17.100268
+[2026-07-07 10:07:46] Checking for new B.Tech fresher jobs from LinkedIn...
+[2026-07-07 10:11:59] No new jobs found. Total tracked: 41
+[2026-07-07 10:11:59] Single-run cycle complete. Exiting.
