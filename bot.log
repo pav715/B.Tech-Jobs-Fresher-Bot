@@ -152,3 +152,16 @@
 [2026-07-07 16:56:33] Checking for new B.Tech fresher jobs from LinkedIn...
 [2026-07-07 17:00:27] No new jobs found. Total tracked: 41
 [2026-07-07 17:00:27] Single-run cycle complete. Exiting.
+[2026-07-08 05:36:24] ============================================================
+[2026-07-08 05:36:24]   B.Tech Jobs Fresher - Telegram Bot
+[2026-07-08 05:36:24]   TARGET: B.Tech Freshers | LOCATION: Hyderabad
+[2026-07-08 05:36:24]   CHECK INTERVAL: Every 10 minutes
+[2026-07-08 05:36:24] ============================================================
+[2026-07-08 05:36:24] Loaded 41 previously seen jobs.
+[2026-07-08 05:36:24] Window: sending jobs posted after 2026-07-07T16:56:33.676602
+[2026-07-08 05:36:24] Checking for new B.Tech fresher jobs from LinkedIn...
+[2026-07-08 05:40:12] Found 2 new jobs! Sending to Telegram...
+[2026-07-08 05:40:15]   Sent: [LinkedIn] Mechanical Engineer II @ Thermo Fisher Scientific | Hyderabad, Telangana, India
+[2026-07-08 05:40:17]   Sent: [LinkedIn] Software Test Engineer I @ Thermo Fisher Scientific | Hyderabad, Telangana, India
+[2026-07-08 05:40:17] Done. Sent 2 new jobs. Total tracked: 43
+[2026-07-08 05:40:17] Single-run cycle complete. Exiting.
