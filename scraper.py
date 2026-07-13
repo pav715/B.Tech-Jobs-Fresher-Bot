@@ -199,56 +199,71 @@ def scrape_linkedin(keyword, location):
     return jobs
 
 
-# ── NAUKRI ────────────────────────────────────────────────────────
+# ── NAUKRI (v2 API — v3 blocked by recaptcha) ─────────────────────
+NAUKRI_HEADERS = {**HEADERS, "appid": "109", "systemid": "109", "Accept": "application/json"}
+
+
+def _naukri_job_detail(job_id_str):
+    try:
+        r = requests.get(
+            f"https://www.naukri.com/jobapi/v2/job/{job_id_str}",
+            headers=NAUKRI_HEADERS,
+            timeout=12,
+        )
+        if r.status_code != 200:
+            return None
+        j = r.json().get("job") or {}
+        title = (j.get("post") or "").strip()
+        company = (j.get("companyName") or j.get("CONTCOM") or "").strip()
+        path = (j.get("job_static_url") or "").strip()
+        if not title or not path:
+            return None
+        jurl = path if path.startswith("http") else f"https://www.naukri.com{path}"
+        desc = BeautifulSoup(str(j.get("jobDesc") or ""), "html.parser").get_text(" ", strip=True)
+        exp = f"{j.get('minExp', '')}-{j.get('maxExp', '')} yrs"
+        desc = f"{desc} {exp} {j.get('educationText', '')}"
+        return title, company, jurl, desc
+    except Exception:
+        return None
+
+
 def scrape_naukri(keyword, location):
     jobs = []
     try:
-        kw  = keyword.replace(" ", "%20")
-        loc = location.replace(" ", "%20")
+        from urllib.parse import quote
         url = (
-            f"https://www.naukri.com/jobapi/v3/search?"
+            f"https://www.naukri.com/jobapi/v2/search?"
             f"noOfResults=20&urlType=search_by_keyword&searchType=adv"
-            f"&keyword={kw}&location={loc}&experience=0"
-            f"&jobAge=7&src=jobsearchDesk&latLong="
+            f"&keyword={quote(keyword)}&location={quote(location)}"
+            f"&experience=0&jobAge=7&src=jobsearchDesk&latLong="
         )
-        r    = requests.get(url, headers={**HEADERS, "appid": "109", "systemid": "109"}, timeout=10)
-        data = r.json()
-        for j in data.get("jobDetails", []):
-            title   = j.get("title", "").strip()
-            company = j.get("companyName", "").strip()
-            loc_str = location
-            jurl    = f"https://www.naukri.com{j.get('jdURL', '')}"
-            posted  = j.get("footerPlaceholderLabel", "")
-
-            # Use all available description fields
-            desc_parts = [
-                j.get("jobDesc", ""),
-                j.get("jobHighlight", ""),
-                " ".join(j.get("tagsAndHighlights", {}).get("highlights", [])),
-                j.get("experienceText", ""),
-                j.get("educationText", ""),
-            ]
-            desc = " ".join(str(p) for p in desc_parts if p)
-
-            if not title or not jurl:
+        r = requests.get(url, headers=NAUKRI_HEADERS, timeout=12)
+        if r.status_code != 200:
+            print(f"  [Naukri] HTTP {r.status_code} — '{keyword}' / {location}")
+            return jobs
+        for jid in (r.json().get("srpJobIds") or [])[:10]:
+            detail = _naukri_job_detail(jid)
+            if not detail:
                 continue
-            if not _has_location(loc_str):
+            title, company, jurl, desc = detail
+            if not _has_location(location):
                 continue
             if not _is_fresher_desc(desc):
                 continue
-
             jobs.append({
-                "id":       job_id(jurl, title, company),
-                "title":    title,
-                "company":  company,
-                "location": loc_str,
-                "url":      jurl,
-                "posted":   posted,
-                "source":   "Naukri",
+                "id": job_id(jurl, title, company),
+                "title": title,
+                "company": company,
+                "location": location,
+                "url": jurl,
+                "posted": "",
+                "source": "Naukri",
                 "fetched_at": datetime.now().isoformat(),
             })
+            time.sleep(0.3)
     except Exception as e:
         print(f"  [Naukri] Error ({keyword}/{location}): {e}")
+    print(f"  [Naukri] '{keyword}' / {location} — {len(jobs)} jobs")
     return jobs
 
 
@@ -259,7 +274,10 @@ def scrape_indeed(keyword, location):
         kw  = keyword.replace(" ", "+")
         loc = location.replace(" ", "+")
         url = f"https://in.indeed.com/rss?q={kw}&l={loc}&sort=date&fromage=7"
-        r   = requests.get(url, headers=HEADERS, timeout=10)
+        r   = requests.get(url, headers={**HEADERS, "Accept": "application/rss+xml, */*"}, timeout=12)
+        if r.status_code != 200 or "<rss" not in r.text[:500].lower():
+            print(f"  [Indeed] HTTP {r.status_code} (blocked) — '{keyword}' / {location}")
+            return jobs
         soup = BeautifulSoup(r.content, "xml")
         for item in soup.find_all("item")[:15]:
             title   = item.find("title").get_text(strip=True) if item.find("title") else ""
