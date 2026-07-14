@@ -510,3 +510,12 @@
 [2026-07-14 05:22:30]   Failed: Success Coach
 [2026-07-14 05:22:32]   Failed: Student Success Associate
 [2026-07-14 08:44:57]   Failed: Customer Support Executive
+[2026-07-14 11:55:06] ============================================================
+[2026-07-14 11:55:06]   B.Tech Jobs Fresher - Telegram Bot
+[2026-07-14 11:55:06]   TARGET: B.Tech Freshers | LOCATION: Hyderabad
+[2026-07-14 11:55:06]   CHECK INTERVAL: Every 10 minutes
+[2026-07-14 11:55:06] ============================================================
+[2026-07-14 11:55:06] Loaded 47 previously seen jobs.
+[2026-07-14 11:55:06] Window: sending jobs posted after 2026-07-13T05:52:30.721911
+[2026-07-14 11:55:06] Checking for new B.Tech fresher jobs from LinkedIn...
+[2026-07-14 12:03:13] Found 81 new jobs! Sending to Telegram...
