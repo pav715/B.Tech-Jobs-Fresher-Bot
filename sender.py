@@ -118,15 +118,15 @@ def format_job(job):
     safe_source = _escape(source)
 
     lines = [
-        f"🔥 *B.Tech Job at {safe_company}*",
+        f"🔥 B.Tech Job at *{safe_company}*",
         "",
-        f"💼 *Role:* {safe_title}",
-        f"📍 *Location:* {safe_location}",
+        f"💼 Role: *{safe_title}*",
+        f"📍 Location: *{safe_location}*",
     ]
 
     posted_str = _format_posted(posted, job.get("fetched_at", ""))
     if posted_str:
-        lines.append(f"⏰ *Posted:* {_escape(posted_str)}")
+        lines.append(f"⏰ Posted: *{_escape(posted_str)}*")
 
     lines += [
         "",

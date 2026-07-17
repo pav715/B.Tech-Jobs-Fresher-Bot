@@ -131,21 +131,32 @@ def _location_allowed(loc_str):
     return any(a in loc for a in allowed)
 
 
+IST = timedelta(hours=5, minutes=30)
+
+
+def _ist_today():
+    return (datetime.utcnow() + IST).date()
+
+
 def _posted_on_today(job):
-    """True only when job POSTED date is today (not fetched_at — avoids week-old Naukri jobs)."""
-    today = datetime.now().date()
+    """True only when job POSTED date is today IST (not fetched_at)."""
+    today = _ist_today()
     posted = (job.get("posted") or "").strip()
     if not posted:
         return False
     iso = posted.replace("Z", "").split("+")[0]
     try:
         if re.match(r"\d{4}-\d{2}-\d{2}", iso):
-            return datetime.fromisoformat(iso[:19]).date() == today
+            dt_ist = datetime.fromisoformat(iso[:19]) + IST
+            return dt_ist.date() == today
     except Exception:
         pass
     try:
-        from email.utils import parsedate_to_datetime
-        return parsedate_to_datetime(posted).date() == today
+        dt = parsedate_to_datetime(posted)
+        if dt.tzinfo:
+            dt = dt.utctimetuple()
+            dt = datetime(*dt[:6])
+        return (dt + IST).date() == today
     except Exception:
         pass
     return False
