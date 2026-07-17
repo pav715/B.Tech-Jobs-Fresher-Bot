@@ -5,6 +5,7 @@ Sends only new jobs — no duplicates, no backlog on first run.
 """
 import json
 import os
+import re
 import time
 import sys
 import requests
@@ -130,6 +131,26 @@ def _location_allowed(loc_str):
     return any(a in loc for a in allowed)
 
 
+def _posted_on_today(job):
+    """True only when job POSTED date is today (not fetched_at — avoids week-old Naukri jobs)."""
+    today = datetime.now().date()
+    posted = (job.get("posted") or "").strip()
+    if not posted:
+        return False
+    iso = posted.replace("Z", "").split("+")[0]
+    try:
+        if re.match(r"\d{4}-\d{2}-\d{2}", iso):
+            return datetime.fromisoformat(iso[:19]).date() == today
+    except Exception:
+        pass
+    try:
+        from email.utils import parsedate_to_datetime
+        return parsedate_to_datetime(posted).date() == today
+    except Exception:
+        pass
+    return False
+
+
 def _job_datetime(job):
     """Best-effort datetime for when a job was posted/fetched. Returns None if unknown."""
     posted  = job.get("posted") or ""
@@ -189,9 +210,12 @@ def run_cycle(seen, cutoff_dt):
     # unknown timestamp fall back to the dedup check so nothing is lost silently.
     fresh = []
     for j in located:
+        if not _posted_on_today(j):
+            continue
         dt = _job_datetime(j)
-        if dt is None or dt >= cutoff_dt:
-            fresh.append(j)
+        if dt and dt < cutoff_dt:
+            continue
+        fresh.append(j)
 
     # Dedup by TITLE+COMPANY, not by URL/id — same job never posts twice,
     # even when it stays live on LinkedIn all week with a new URL each scrape.

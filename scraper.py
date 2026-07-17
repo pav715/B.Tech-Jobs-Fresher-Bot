@@ -155,7 +155,7 @@ def scrape_linkedin(keyword, location):
         loc = location.replace(" ", "%20")
         url = (
             f"https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?"
-            f"keywords={kw}&location={loc}&f_TPR=r604800"
+            f"keywords={kw}&location={loc}&f_TPR=r86400"
             f"&sortBy=DD&start=0"
         )
         r    = requests.get(url, headers=HEADERS, timeout=10)
@@ -222,7 +222,8 @@ def _naukri_job_detail(job_id_str):
         desc = BeautifulSoup(str(j.get("jobDesc") or ""), "html.parser").get_text(" ", strip=True)
         exp = f"{j.get('minExp', '')}-{j.get('maxExp', '')} yrs"
         desc = f"{desc} {exp} {j.get('educationText', '')}"
-        return title, company, jurl, desc
+        posted = (j.get("createdDate") or j.get("postDate") or j.get("footerPlaceholderLabel") or "").strip()
+        return title, company, jurl, desc, posted
     except Exception:
         return None
 
@@ -235,7 +236,7 @@ def scrape_naukri(keyword, location):
             f"https://www.naukri.com/jobapi/v2/search?"
             f"noOfResults=20&urlType=search_by_keyword&searchType=adv"
             f"&keyword={quote(keyword)}&location={quote(location)}"
-            f"&experience=0&jobAge=7&src=jobsearchDesk&latLong="
+            f"&experience=0&jobAge=1&src=jobsearchDesk&latLong="
         )
         r = requests.get(url, headers=NAUKRI_HEADERS, timeout=12)
         if r.status_code != 200:
@@ -245,7 +246,7 @@ def scrape_naukri(keyword, location):
             detail = _naukri_job_detail(jid)
             if not detail:
                 continue
-            title, company, jurl, desc = detail
+            title, company, jurl, desc, posted = detail
             if not _has_location(location):
                 continue
             if not _is_fresher_desc(desc):
@@ -256,7 +257,7 @@ def scrape_naukri(keyword, location):
                 "company": company,
                 "location": location,
                 "url": jurl,
-                "posted": "",
+                "posted": posted,
                 "source": "Naukri",
                 "fetched_at": datetime.now().isoformat(),
             })
@@ -273,7 +274,7 @@ def scrape_indeed(keyword, location):
     try:
         kw  = keyword.replace(" ", "+")
         loc = location.replace(" ", "+")
-        url = f"https://in.indeed.com/rss?q={kw}&l={loc}&sort=date&fromage=7"
+        url = f"https://in.indeed.com/rss?q={kw}&l={loc}&sort=date&fromage=1"
         r   = requests.get(url, headers={**HEADERS, "Accept": "application/rss+xml, */*"}, timeout=12)
         if r.status_code != 200 or "<rss" not in r.text[:500].lower():
             print(f"  [Indeed] HTTP {r.status_code} (blocked) — '{keyword}' / {location}")
