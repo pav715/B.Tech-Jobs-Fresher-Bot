@@ -1,8 +1,8 @@
 import os
 
 # ── Telegram ─────────────────────────────────────────────────────────
-BOT_TOKEN = os.environ.get("BOT_TOKEN", "8714105853:AAEBU3JWHAV8mk17MjSLTYh8W2QO2I-1cts")
-CHAT_ID   = os.environ.get("CHAT_ID", "-1003539101161")
+BOT_TOKEN = os.environ.get("BOT_TOKEN", "")
+CHAT_ID   = os.environ.get("CHAT_ID", "")
 
 # ── Search keywords (B.Tech fresher — IT + core engineering) ─────────
 # 16 keywords x 7 locations = 112 combinations (kept under ~120 so the
