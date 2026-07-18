@@ -1092,3 +1092,13 @@
 [2026-07-18 05:15:44]   Sent: [LinkedIn] Kafka Admin @ Infosys | Hyderabad, Telangana, India
 [2026-07-18 05:15:44] Done. Sent 3 new jobs. Total tracked: 159
 [2026-07-18 05:15:44] Single-run cycle complete. Exiting.
+[2026-07-18 08:20:52] ============================================================
+[2026-07-18 08:20:52]   B.Tech Jobs Fresher - Telegram Bot
+[2026-07-18 08:20:52]   TARGET: B.Tech Freshers | LOCATION: Hyderabad
+[2026-07-18 08:20:52]   CHECK INTERVAL: Every 10 minutes
+[2026-07-18 08:20:52] ============================================================
+[2026-07-18 08:20:52] Loaded 159 previously seen jobs.
+[2026-07-18 08:20:52] Window: sending jobs posted after 2026-07-18T05:09:07.244234
+[2026-07-18 08:20:52] Checking for new B.Tech fresher jobs from LinkedIn...
+[2026-07-18 08:27:51] No new jobs found. Total tracked: 159
+[2026-07-18 08:27:51] Single-run cycle complete. Exiting.
