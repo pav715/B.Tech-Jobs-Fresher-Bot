@@ -1122,3 +1122,22 @@
 [2026-07-18 15:29:37] Checking for new B.Tech fresher jobs from LinkedIn...
 [2026-07-18 15:35:22] No new jobs found. Total tracked: 159
 [2026-07-18 15:35:22] Single-run cycle complete. Exiting.
+[2026-07-19 05:36:59] ============================================================
+[2026-07-19 05:36:59]   B.Tech Jobs Fresher - Telegram Bot
+[2026-07-19 05:36:59]   TARGET: B.Tech Freshers | LOCATION: Hyderabad
+[2026-07-19 05:36:59]   CHECK INTERVAL: Every 10 minutes
+[2026-07-19 05:36:59] ============================================================
+[2026-07-19 05:36:59] Loaded 159 previously seen jobs.
+[2026-07-19 05:36:59] Window: sending jobs posted after 2026-07-18T15:29:37.888929
+[2026-07-19 05:36:59] Checking for new B.Tech fresher jobs from LinkedIn...
+[2026-07-19 05:43:20] Found 8 new jobs! Sending to Telegram...
+[2026-07-19 05:43:23]   Sent: [LinkedIn] Associate Engineer @ Jobgenix | Hyderabad, Telangana, India
+[2026-07-19 05:43:25]   Sent: [LinkedIn] Engineer Associate @ Jobgenix | Hyderabad, Telangana, India
+[2026-07-19 05:43:28]   Sent: [LinkedIn] Software developer @ Jobgenix | Hyderabad, Telangana, India
+[2026-07-19 05:43:31]   Sent: [LinkedIn] Software Engineer @ Jobgenix | Hyderabad, Telangana, India
+[2026-07-19 05:43:34]   Sent: [LinkedIn] QA Automation Engineer @ Techdome | Hyderabad, Telangana, India
+[2026-07-19 05:43:36]   Sent: [LinkedIn] Data Associate @ Jobgenix | Hyderabad, Telangana, India
+[2026-07-19 05:43:39]   Sent: [LinkedIn] Associate System Engineer @ Jobgenix | Hyderabad, Telangana, India
+[2026-07-19 05:43:42]   Sent: [LinkedIn] Associate Analyst @ Jobgenix | Hyderabad, Telangana, India
+[2026-07-19 05:43:42] Done. Sent 8 new jobs. Total tracked: 167
+[2026-07-19 05:43:42] Single-run cycle complete. Exiting.
