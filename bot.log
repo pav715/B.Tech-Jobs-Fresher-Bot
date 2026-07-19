@@ -1161,3 +1161,13 @@
 [2026-07-19 11:36:46] Checking for new B.Tech fresher jobs from LinkedIn...
 [2026-07-19 11:42:30] No new jobs found. Total tracked: 167
 [2026-07-19 11:42:30] Single-run cycle complete. Exiting.
+[2026-07-19 15:31:38] ============================================================
+[2026-07-19 15:31:38]   B.Tech Jobs Fresher - Telegram Bot
+[2026-07-19 15:31:38]   TARGET: B.Tech Freshers | LOCATION: Hyderabad
+[2026-07-19 15:31:38]   CHECK INTERVAL: Every 10 minutes
+[2026-07-19 15:31:38] ============================================================
+[2026-07-19 15:31:38] Loaded 167 previously seen jobs.
+[2026-07-19 15:31:38] Window: sending jobs posted after 2026-07-19T11:36:46.927374
+[2026-07-19 15:31:38] Checking for new B.Tech fresher jobs from LinkedIn...
+[2026-07-19 15:37:08] No new jobs found. Total tracked: 167
+[2026-07-19 15:37:08] Single-run cycle complete. Exiting.
