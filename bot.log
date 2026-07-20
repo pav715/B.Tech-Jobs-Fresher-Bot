@@ -1171,3 +1171,21 @@
 [2026-07-19 15:31:38] Checking for new B.Tech fresher jobs from LinkedIn...
 [2026-07-19 15:37:08] No new jobs found. Total tracked: 167
 [2026-07-19 15:37:08] Single-run cycle complete. Exiting.
+[2026-07-20 05:53:39] ============================================================
+[2026-07-20 05:53:39]   B.Tech Jobs Fresher - Telegram Bot
+[2026-07-20 05:53:39]   TARGET: B.Tech Freshers | LOCATION: Hyderabad
+[2026-07-20 05:53:39]   CHECK INTERVAL: Every 10 minutes
+[2026-07-20 05:53:39] ============================================================
+[2026-07-20 05:53:39] Loaded 167 previously seen jobs.
+[2026-07-20 05:53:39] Window: sending jobs posted after 2026-07-19T15:31:38.081961
+[2026-07-20 05:53:39] Checking for new B.Tech fresher jobs from LinkedIn...
+[2026-07-20 05:59:00] Found 7 new jobs! Sending to Telegram...
+[2026-07-20 05:59:03]   Sent: [LinkedIn] Software Engineer @ AI Vidya | Hyderabad, Telangana, India
+[2026-07-20 05:59:05]   Sent: [LinkedIn] Artificial Intelligence Engineer @ NxtWave (Hiring for a Client) | Hyderabad, Telangana, India
+[2026-07-20 05:59:08]   Sent: [LinkedIn] Software Engineer @ RiVirtual Academy | Hyderabad, Telangana, India
+[2026-07-20 05:59:11]   Sent: [LinkedIn] IaC & automation, Nutanix @ Infosys | Hyderabad, Telangana, India
+[2026-07-20 05:59:13]   Sent: [LinkedIn] DEVELOPER L3 @ Wipro | Hyderabad, Telangana, India
+[2026-07-20 05:59:16]   Sent: [LinkedIn] Data Engineer @ Cloventis Technologies | Hyderabad, Telangana, India
+[2026-07-20 05:59:19]   Sent: [LinkedIn] Terraform, Ansible, Python/PowerShell & Infrastructure Automation @ Infosys | Hyderabad, Telangana, India
+[2026-07-20 05:59:19] Done. Sent 7 new jobs. Total tracked: 174
+[2026-07-20 05:59:19] Single-run cycle complete. Exiting.
