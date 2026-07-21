@@ -1219,3 +1219,29 @@
 [2026-07-20 16:09:16] Checking for new B.Tech fresher jobs from LinkedIn...
 [2026-07-20 16:14:34] No new jobs found. Total tracked: 174
 [2026-07-20 16:14:34] Single-run cycle complete. Exiting.
+[2026-07-21 05:35:44] ============================================================
+[2026-07-21 05:35:44]   B.Tech Jobs Fresher - Telegram Bot
+[2026-07-21 05:35:44]   TARGET: B.Tech Freshers | LOCATION: Hyderabad
+[2026-07-21 05:35:44]   CHECK INTERVAL: Every 10 minutes
+[2026-07-21 05:35:44] ============================================================
+[2026-07-21 05:35:44] Loaded 174 previously seen jobs.
+[2026-07-21 05:35:44] Window: sending jobs posted after 2026-07-20T16:09:16.192857
+[2026-07-21 05:35:44] Checking for new B.Tech fresher jobs from LinkedIn...
+[2026-07-21 05:42:28] Found 15 new jobs! Sending to Telegram...
+[2026-07-21 05:42:30]   Sent: [LinkedIn] SDE - II @ Amazon | Hyderabad, Telangana, India
+[2026-07-21 05:42:33]   Sent: [LinkedIn] Software Development Engineer I, Amazon Payments @ Amazon | Hyderabad, Telangana, India
+[2026-07-21 05:42:36]   Sent: [LinkedIn] Junior Data Analyst @ Brillius Technologies | Hyderabad, Telangana, India
+[2026-07-21 05:42:38]   Sent: [LinkedIn] Cae Engineer @ Actalent | Hyderabad, Telangana, India
+[2026-07-21 05:42:41]   Sent: [LinkedIn] RME Coordinator, RME @ Amazon | Hyderabad, Telangana, India
+[2026-07-21 05:42:44]   Sent: [LinkedIn] RME Coordinator, RME @ Amazon | Greater Hyderabad Area
+[2026-07-21 05:42:47]   Sent: [LinkedIn] Data Center Engineering Operations Engineer, HYD-Infinity - DCEO @ Amazon Web Services (AWS) | Hyderabad, Telangana, India
+[2026-07-21 05:42:50]   Sent: [LinkedIn] Quality Control Engineer (Real Estate Or Construction Field) @ JYOTI PLACEMENTS SERVCE | Hyderabad, Telangana, India
+[2026-07-21 05:42:53]   Sent: [LinkedIn] Quantity Surveyor ( Real Estate Industry ) @ JYOTI PLACEMENTS SERVCE | Hyderabad, Telangana, India
+[2026-07-21 05:42:56]   Sent: [LinkedIn] Software Development Engineer, Amazon Customer Service - Associate Experience @ Amazon | Hyderabad, Telangana, India
+[2026-07-21 05:42:59]   Sent: [LinkedIn] Software Dev Engineer II @ Amazon | Hyderabad, Telangana, India
+[2026-07-21 05:43:01]   Sent: [LinkedIn] SDE II, Time & Pay Innovation @ Amazon | Hyderabad, Telangana, India
+[2026-07-21 05:43:04]   Sent: [LinkedIn] Quality Assurance Engineer I, Selling Partner Experience @ Amazon | Hyderabad, Telangana, India
+[2026-07-21 05:43:07]   Sent: [LinkedIn] Controls Engineer, Controls Deployment & Service India @ Amazon Web Services (AWS) | Hyderabad, Telangana, India
+[2026-07-21 05:43:10]   Sent: [LinkedIn] Operations and Maintenance Engineer @ Favored Tech | Greater Hyderabad Area
+[2026-07-21 05:43:10] Done. Sent 15 new jobs. Total tracked: 188
+[2026-07-21 05:43:10] Single-run cycle complete. Exiting.
