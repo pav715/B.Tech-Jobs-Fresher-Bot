@@ -1275,3 +1275,21 @@
 [2026-07-21 16:01:44] Checking for new B.Tech fresher jobs from LinkedIn...
 [2026-07-21 16:08:49] No new jobs found. Total tracked: 188
 [2026-07-21 16:08:49] Single-run cycle complete. Exiting.
+[2026-07-22 05:34:16] ============================================================
+[2026-07-22 05:34:16]   B.Tech Jobs Fresher - Telegram Bot
+[2026-07-22 05:34:16]   TARGET: B.Tech Freshers | LOCATION: Hyderabad
+[2026-07-22 05:34:16]   CHECK INTERVAL: Every 10 minutes
+[2026-07-22 05:34:16] ============================================================
+[2026-07-22 05:34:16] Loaded 188 previously seen jobs.
+[2026-07-22 05:34:16] Window: sending jobs posted after 2026-07-21T16:01:44.648757
+[2026-07-22 05:34:16] Checking for new B.Tech fresher jobs from LinkedIn...
+[2026-07-22 05:41:17] Found 7 new jobs! Sending to Telegram...
+[2026-07-22 05:41:20]   Sent: [LinkedIn] Associate L1 @ Talentd | Greater Hyderabad Area
+[2026-07-22 05:41:23]   Sent: [LinkedIn] Software Engineer-Wi-Fi ( 1 to3 yrs) Preferably IIT/NIT/BITS @ Silicon Labs | Hyderabad, Telangana, India
+[2026-07-22 05:41:26]   Sent: [LinkedIn] Application Support, System Administration & Monitoring Tools @ Infosys | Hyderabad, Telangana, India
+[2026-07-22 05:41:29]   Sent: [LinkedIn] Network Administrator @ Tata Consultancy Services | Hyderabad, Telangana, India
+[2026-07-22 05:41:31]   Sent: [LinkedIn] Mechanical Design @ ApexPlus Technologies | Hyderabad, Telangana, India
+[2026-07-22 05:41:34]   Sent: [LinkedIn] Associate Python Developer in Hyderabad @ Megaminds IT Services | Hyderabad, Telangana, India
+[2026-07-22 05:41:37]   Sent: [LinkedIn] ECE/EDA Engineer, AI Design Integration @ SoftAge Information Technology Limited | Hyderabad, Telangana, India
+[2026-07-22 05:41:37] Done. Sent 7 new jobs. Total tracked: 195
+[2026-07-22 05:41:37] Single-run cycle complete. Exiting.
