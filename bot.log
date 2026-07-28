@@ -1540,3 +1540,22 @@
 [2026-07-27 16:38:45] Checking for new B.Tech fresher jobs from LinkedIn...
 [2026-07-27 16:44:23] No new jobs found. Total tracked: 207
 [2026-07-27 16:44:23] Single-run cycle complete. Exiting.
+[2026-07-28 05:31:01] ============================================================
+[2026-07-28 05:31:01]   B.Tech Jobs Fresher - Telegram Bot
+[2026-07-28 05:31:01]   TARGET: B.Tech Freshers | LOCATION: Hyderabad
+[2026-07-28 05:31:01]   CHECK INTERVAL: Every 10 minutes
+[2026-07-28 05:31:01] ============================================================
+[2026-07-28 05:31:01] Loaded 207 previously seen jobs.
+[2026-07-28 05:31:01] Window: sending jobs posted after 2026-07-27T16:38:45.016401
+[2026-07-28 05:31:01] Checking for new B.Tech fresher jobs from LinkedIn...
+[2026-07-28 05:37:10] Found 8 new jobs! Sending to Telegram...
+[2026-07-28 05:37:13]   Sent: [LinkedIn] IT Engineer I @ Honeywell Technologies | Hyderabad, Telangana, India
+[2026-07-28 05:37:16]   Sent: [LinkedIn] IT Support Engineer @ Power Bridge | Hyderabad, Telangana, India
+[2026-07-28 05:37:18]   Sent: [LinkedIn] IT Engineer I @ Honeywell Technologies | Hyderabad, Telangana, India
+[2026-07-28 05:37:21]   Sent: [LinkedIn] Software Developer @ Independentproject | Hyderabad, Telangana, India
+[2026-07-28 05:37:24]   Sent: [LinkedIn] Civil Quality Control Engineer @ JYOTI PLACEMENTS SERVCE | Hyderabad, Telangana, India
+[2026-07-28 05:37:26]   Sent: [LinkedIn] Node.js Backend Developer @ AiLogic Neural Network Pvt Ltd | Hyderabad, Telangana, India
+[2026-07-28 05:37:29]   Sent: [LinkedIn] Physical Design Engineer @ Sevya Multimedia | Hyderabad, Telangana, India
+[2026-07-28 05:37:32]   Sent: [LinkedIn] Quality Assurance Engineer I, ShipTech QA @ Amazon | Hyderabad, Telangana, India
+[2026-07-28 05:37:32] Done. Sent 8 new jobs. Total tracked: 214
+[2026-07-28 05:37:32] Single-run cycle complete. Exiting.
