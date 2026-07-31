@@ -1679,3 +1679,17 @@
 [2026-07-30 16:06:32] Checking for new B.Tech fresher jobs from LinkedIn...
 [2026-07-30 16:11:44] No new jobs found. Total tracked: 222
 [2026-07-30 16:11:44] Single-run cycle complete. Exiting.
+[2026-07-31 05:50:17] ============================================================
+[2026-07-31 05:50:17]   B.Tech Jobs Fresher - Telegram Bot
+[2026-07-31 05:50:17]   TARGET: B.Tech Freshers | LOCATION: Hyderabad
+[2026-07-31 05:50:17]   CHECK INTERVAL: Every 10 minutes
+[2026-07-31 05:50:17] ============================================================
+[2026-07-31 05:50:17] Loaded 222 previously seen jobs.
+[2026-07-31 05:50:17] Window: sending jobs posted after 2026-07-30T16:06:32.405495
+[2026-07-31 05:50:17] Checking for new B.Tech fresher jobs from LinkedIn...
+[2026-07-31 05:55:25] Found 3 new jobs! Sending to Telegram...
+[2026-07-31 05:55:28]   Sent: [LinkedIn] Application Specialist | Study Abroad @ GyanDhan | Hyderabad, Telangana, India
+[2026-07-31 05:55:31]   Sent: [LinkedIn] AI Analyst @ WPP Production Chennai | Hyderabad, Telangana, India
+[2026-07-31 05:55:34]   Sent: [LinkedIn] Hiring - Linux Device Driver Development Engineers , Location- HYderabad _ Company: Mirafra Technologies Experience: 3+yrs onwards Reach me: kishoresamala@mirafra.com @ Mirafra Technologies | Greater Hyderabad Area
+[2026-07-31 05:55:34] Done. Sent 3 new jobs. Total tracked: 225
+[2026-07-31 05:55:34] Single-run cycle complete. Exiting.
