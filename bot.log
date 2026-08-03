@@ -1808,3 +1808,22 @@
 [2026-08-02 15:38:48] Checking for new B.Tech fresher jobs from LinkedIn...
 [2026-08-02 15:43:58] No new jobs found. Total tracked: 229
 [2026-08-02 15:43:58] Single-run cycle complete. Exiting.
+[2026-08-03 05:57:18] ============================================================
+[2026-08-03 05:57:18]   B.Tech Jobs Fresher - Telegram Bot
+[2026-08-03 05:57:18]   TARGET: B.Tech Freshers | LOCATION: Hyderabad
+[2026-08-03 05:57:18]   CHECK INTERVAL: Every 10 minutes
+[2026-08-03 05:57:18] ============================================================
+[2026-08-03 05:57:18] Loaded 229 previously seen jobs.
+[2026-08-03 05:57:18] Window: sending jobs posted after 2026-08-02T15:38:48.124096
+[2026-08-03 05:57:18] Checking for new B.Tech fresher jobs from LinkedIn...
+[2026-08-03 06:03:52] Found 8 new jobs! Sending to Telegram...
+[2026-08-03 06:03:55]   Sent: [LinkedIn] Vendor Integrations and Support @ QuikBoys 24 L | Hyderabad, Telangana, India
+[2026-08-03 06:03:58]   Sent: [LinkedIn] Research And Development Engineer @ Alphastra Tekno | Hyderabad, Telangana, India
+[2026-08-03 06:04:00]   Sent: [LinkedIn] Design Engineer Mechanical @ EKSPER TECHNOLOGIES LIMITED | Hyderabad, Telangana, India
+[2026-08-03 06:04:03]   Sent: [LinkedIn] Junior Developer (TypeScript / JavaScript) @ Inscape Modern Private Limited | Hyderabad, Telangana, India
+[2026-08-03 06:04:06]   Sent: [LinkedIn] Java Full Stack Developer @ Infosys | Hyderabad, Telangana, India
+[2026-08-03 06:04:09]   Sent: [LinkedIn] Native / Desktop Engineer @ TTEC Digital | Hyderabad, Telangana, India
+[2026-08-03 06:04:12]   Sent: [LinkedIn] Senior QA / SDET Engineer @ TTEC Digital | Hyderabad, Telangana, India
+[2026-08-03 06:04:15]   Sent: [LinkedIn] ML Data Associate, Artificial General Intelligence @ Amazon | Hyderabad, Telangana, India
+[2026-08-03 06:04:15] Done. Sent 8 new jobs. Total tracked: 237
+[2026-08-03 06:04:15] Single-run cycle complete. Exiting.
