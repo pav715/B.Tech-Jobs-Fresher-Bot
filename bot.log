@@ -1916,3 +1916,25 @@
 [2026-08-04 16:27:16] Checking for new B.Tech fresher jobs from LinkedIn...
 [2026-08-04 16:31:02] No new jobs found. Total tracked: 255
 [2026-08-04 16:31:02] Single-run cycle complete. Exiting.
+[2026-08-05 05:30:28] ============================================================
+[2026-08-05 05:30:28]   B.Tech Jobs Fresher - Telegram Bot
+[2026-08-05 05:30:28]   TARGET: B.Tech Freshers | LOCATION: Hyderabad
+[2026-08-05 05:30:28]   CHECK INTERVAL: Every 10 minutes
+[2026-08-05 05:30:28] ============================================================
+[2026-08-05 05:30:28] Loaded 255 previously seen jobs.
+[2026-08-05 05:30:28] Window: sending jobs posted after 2026-08-04T16:27:16.047286
+[2026-08-05 05:30:28] Checking for new B.Tech fresher jobs from LinkedIn...
+[2026-08-05 05:34:34] Found 11 new jobs! Sending to Telegram...
+[2026-08-05 05:34:37]   Sent: [LinkedIn] Invesco Off Campus Hiring | Trainee – Fresher @ Fresher Jobs | Hyderabad, Telangana, India
+[2026-08-05 05:34:40]   Sent: [LinkedIn] Thomson Reuters Off Campus Hiring | Software – Fresher @ Fresher Jobs | Hyderabad, Telangana, India
+[2026-08-05 05:34:42]   Sent: [LinkedIn] Oracle Off Campus Hiring | Software Developer – Fresher / Experienced @ Fresher Jobs | Hyderabad, Telangana, India
+[2026-08-05 05:34:45]   Sent: [LinkedIn] Amazon Recruitment Drive | Programmer Analyst – Fresher / Experienced @ Fresher Jobs | Hyderabad, Telangana, India
+[2026-08-05 05:34:47]   Sent: [LinkedIn] Deloitte Off Campus Hiring | Analyst – Fresher / Experienced @ Fresher Jobs | Hyderabad, Telangana, India
+[2026-08-05 05:34:50]   Sent: [LinkedIn] Deloitte Off Campus Hiring | Trainee – Fresher | 4 Lakhs PA @ Fresher Jobs | Hyderabad, Telangana, India
+[2026-08-05 05:34:52]   Sent: [LinkedIn] Tech Mahindra Off Campus Hiring | Associate @ Fresher Jobs | Hyderabad, Telangana, India
+[2026-08-05 05:34:55]   Sent: [LinkedIn] Safran Engineering Off Campus Walk-In Drive | Graduate Trainee – Fresher @ Fresher Jobs | Hyderabad, Telangana, India
+[2026-08-05 05:34:58]   Sent: [LinkedIn] Tech Operations @ Globalco | Hyderabad, Telangana, India
+[2026-08-05 05:35:00]   Sent: [LinkedIn] Hexagon Off Campus Hiring | Software – Analyst @ Fresher Jobs | Hyderabad, Telangana, India
+[2026-08-05 05:35:03]   Sent: [LinkedIn] Sify Technologies Recruitment Drive | Engineer – Trainee @ Fresher Jobs | Hyderabad, Telangana, India
+[2026-08-05 05:35:03] Done. Sent 11 new jobs. Total tracked: 266
+[2026-08-05 05:35:03] Single-run cycle complete. Exiting.
