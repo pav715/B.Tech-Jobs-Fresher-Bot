@@ -2086,3 +2086,17 @@
 [2026-08-08 14:58:45] Checking for new B.Tech fresher jobs from LinkedIn...
 [2026-08-08 15:04:18] No new jobs found. Total tracked: 271
 [2026-08-08 15:04:18] Single-run cycle complete. Exiting.
+[2026-08-09 03:58:43] ============================================================
+[2026-08-09 03:58:43]   B.Tech Jobs Fresher - Telegram Bot
+[2026-08-09 03:58:43]   TARGET: B.Tech Freshers | LOCATION: Hyderabad
+[2026-08-09 03:58:43]   CHECK INTERVAL: Every 10 minutes
+[2026-08-09 03:58:43] ============================================================
+[2026-08-09 03:58:43] Loaded 271 previously seen jobs.
+[2026-08-09 03:58:43] Window: sending jobs posted after 2026-08-08T14:58:45.626206
+[2026-08-09 03:58:43] Checking for new B.Tech fresher jobs from LinkedIn...
+[2026-08-09 04:04:07] Found 3 new jobs! Sending to Telegram...
+[2026-08-09 04:04:10]   Sent: [LinkedIn] TECHNOLOGY ARCHITECT L1 @ Wipro | Hyderabad, Telangana, India
+[2026-08-09 04:04:13]   Sent: [LinkedIn] ADMINISTRATOR L3 @ Wipro | Hyderabad, Telangana, India
+[2026-08-09 04:04:16]   Sent: [LinkedIn] Civil Project Engineer @ ANPCPMC | Hyderabad, Telangana, India
+[2026-08-09 04:04:16] Done. Sent 3 new jobs. Total tracked: 274
+[2026-08-09 04:04:16] Single-run cycle complete. Exiting.
