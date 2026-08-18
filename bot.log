@@ -2474,3 +2474,18 @@
 [2026-08-17 14:54:16] Checking for new B.Tech fresher jobs from LinkedIn...
 [2026-08-17 14:59:04] No new jobs found. Total tracked: 291
 [2026-08-17 14:59:04] Single-run cycle complete. Exiting.
+[2026-08-18 03:22:56] ============================================================
+[2026-08-18 03:22:56]   B.Tech Jobs Fresher - Telegram Bot
+[2026-08-18 03:22:56]   TARGET: B.Tech Freshers | LOCATION: Hyderabad
+[2026-08-18 03:22:56]   CHECK INTERVAL: Every 10 minutes
+[2026-08-18 03:22:56] ============================================================
+[2026-08-18 03:22:56] Loaded 291 previously seen jobs.
+[2026-08-18 03:22:56] Window: sending jobs posted after 2026-08-17T14:54:16.612667
+[2026-08-18 03:22:56] Checking for new B.Tech fresher jobs from LinkedIn...
+[2026-08-18 03:29:02] Found 4 new jobs! Sending to Telegram...
+[2026-08-18 03:29:05]   Sent: [LinkedIn] TOOLS CONSULTANT L1 @ Wipro | Hyderabad, Telangana, India
+[2026-08-18 03:29:08]   Sent: [LinkedIn] Network Development Engineer, Capacity Restoration Team @ Amazon Web Services (AWS) | Hyderabad, Telangana, India
+[2026-08-18 03:29:11]   Sent: [LinkedIn] Technical Operations Engineer, Data Center Engineering Ope @ Amazon Web Services (AWS) | Hyderabad, Telangana, India
+[2026-08-18 03:29:14]   Sent: [LinkedIn] Application Engineer - I @ Vanguard | Hyderabad, Telangana, India
+[2026-08-18 03:29:14] Done. Sent 4 new jobs. Total tracked: 295
+[2026-08-18 03:29:14] Single-run cycle complete. Exiting.
