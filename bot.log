@@ -2537,3 +2537,13 @@
 [2026-08-19 03:31:20]   Sent: [LinkedIn] ADMINISTRATOR L2 @ Wipro | Hyderabad, Telangana, India
 [2026-08-19 03:31:20] Done. Sent 7 new jobs. Total tracked: 300
 [2026-08-19 03:31:20] Single-run cycle complete. Exiting.
+[2026-08-19 07:21:10] ============================================================
+[2026-08-19 07:21:10]   B.Tech Jobs Fresher - Telegram Bot
+[2026-08-19 07:21:10]   TARGET: B.Tech Freshers | LOCATION: Hyderabad
+[2026-08-19 07:21:10]   CHECK INTERVAL: Every 10 minutes
+[2026-08-19 07:21:10] ============================================================
+[2026-08-19 07:21:10] Loaded 300 previously seen jobs.
+[2026-08-19 07:21:10] Window: sending jobs posted after 2026-08-19T03:25:22.183278
+[2026-08-19 07:21:10] Checking for new B.Tech fresher jobs from LinkedIn...
+[2026-08-19 07:26:46] No new jobs found. Total tracked: 300
+[2026-08-19 07:26:46] Single-run cycle complete. Exiting.
