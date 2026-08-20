@@ -2567,3 +2567,15 @@
 [2026-08-19 15:02:24] Checking for new B.Tech fresher jobs from LinkedIn...
 [2026-08-19 15:08:22] No new jobs found. Total tracked: 300
 [2026-08-19 15:08:22] Single-run cycle complete. Exiting.
+[2026-08-20 03:24:43] ============================================================
+[2026-08-20 03:24:43]   B.Tech Jobs Fresher - Telegram Bot
+[2026-08-20 03:24:43]   TARGET: B.Tech Freshers | LOCATION: Hyderabad
+[2026-08-20 03:24:43]   CHECK INTERVAL: Every 10 minutes
+[2026-08-20 03:24:43] ============================================================
+[2026-08-20 03:24:43] Loaded 300 previously seen jobs.
+[2026-08-20 03:24:43] Window: sending jobs posted after 2026-08-19T15:02:24.881672
+[2026-08-20 03:24:43] Checking for new B.Tech fresher jobs from LinkedIn...
+[2026-08-20 03:30:12] Found 1 new jobs! Sending to Telegram...
+[2026-08-20 03:30:15]   Sent: [LinkedIn] Software Engineer II, Full Stack @ Google | Hyderabad, Telangana, India
+[2026-08-20 03:30:15] Done. Sent 1 new jobs. Total tracked: 301
+[2026-08-20 03:30:15] Single-run cycle complete. Exiting.
