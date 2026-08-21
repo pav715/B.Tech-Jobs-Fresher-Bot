@@ -2609,3 +2609,16 @@
 [2026-08-20 15:05:36] Checking for new B.Tech fresher jobs from LinkedIn...
 [2026-08-20 15:11:31] No new jobs found. Total tracked: 301
 [2026-08-20 15:11:31] Single-run cycle complete. Exiting.
+[2026-08-21 03:29:43] ============================================================
+[2026-08-21 03:29:43]   B.Tech Jobs Fresher - Telegram Bot
+[2026-08-21 03:29:43]   TARGET: B.Tech Freshers | LOCATION: Hyderabad
+[2026-08-21 03:29:43]   CHECK INTERVAL: Every 10 minutes
+[2026-08-21 03:29:43] ============================================================
+[2026-08-21 03:29:43] Loaded 301 previously seen jobs.
+[2026-08-21 03:29:43] Window: sending jobs posted after 2026-08-20T15:05:36.434210
+[2026-08-21 03:29:43] Checking for new B.Tech fresher jobs from LinkedIn...
+[2026-08-21 03:34:44] Found 2 new jobs! Sending to Telegram...
+[2026-08-21 03:34:47]   Sent: [LinkedIn] Urgent Hiring For Python Developer @ GIRI CONSULTANCY | Hyderabad, Telangana, India
+[2026-08-21 03:34:50]   Sent: [LinkedIn] Revalsys Technologies - Angular &amp; Next.js Engineer @ Revalsys Technologies | Hyderabad, Telangana, India
+[2026-08-21 03:34:50] Done. Sent 2 new jobs. Total tracked: 303
+[2026-08-21 03:34:50] Single-run cycle complete. Exiting.
