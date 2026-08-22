@@ -2652,3 +2652,16 @@
 [2026-08-21 15:04:14] Checking for new B.Tech fresher jobs from LinkedIn...
 [2026-08-21 15:10:16] No new jobs found. Total tracked: 303
 [2026-08-21 15:10:16] Single-run cycle complete. Exiting.
+[2026-08-22 03:21:17] ============================================================
+[2026-08-22 03:21:17]   B.Tech Jobs Fresher - Telegram Bot
+[2026-08-22 03:21:17]   TARGET: B.Tech Freshers | LOCATION: Hyderabad
+[2026-08-22 03:21:17]   CHECK INTERVAL: Every 10 minutes
+[2026-08-22 03:21:17] ============================================================
+[2026-08-22 03:21:17] Loaded 303 previously seen jobs.
+[2026-08-22 03:21:17] Window: sending jobs posted after 2026-08-21T15:04:14.377782
+[2026-08-22 03:21:17] Checking for new B.Tech fresher jobs from LinkedIn...
+[2026-08-22 03:26:46] Found 2 new jobs! Sending to Telegram...
+[2026-08-22 03:26:49]   Sent: [LinkedIn] ASIC Methodology, Flow and Integration Engineer @ NVIDIA | Hyderabad, Telangana, India
+[2026-08-22 03:26:51]   Sent: [LinkedIn] Developer Interns @ Horizon Digital Core Management Associates | Hyderabad, Telangana, India
+[2026-08-22 03:26:51] Done. Sent 2 new jobs. Total tracked: 305
+[2026-08-22 03:26:51] Single-run cycle complete. Exiting.
