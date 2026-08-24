@@ -2735,3 +2735,16 @@
 [2026-08-23 14:50:29] Checking for new B.Tech fresher jobs from LinkedIn...
 [2026-08-23 14:55:46] No new jobs found. Total tracked: 305
 [2026-08-23 14:55:46] Single-run cycle complete. Exiting.
+[2026-08-24 03:31:30] ============================================================
+[2026-08-24 03:31:30]   B.Tech Jobs Fresher - Telegram Bot
+[2026-08-24 03:31:30]   TARGET: B.Tech Freshers | LOCATION: Hyderabad
+[2026-08-24 03:31:30]   CHECK INTERVAL: Every 10 minutes
+[2026-08-24 03:31:30] ============================================================
+[2026-08-24 03:31:30] Loaded 305 previously seen jobs.
+[2026-08-24 03:31:30] Window: sending jobs posted after 2026-08-23T14:50:29.370986
+[2026-08-24 03:31:30] Checking for new B.Tech fresher jobs from LinkedIn...
+[2026-08-24 03:37:40] Found 2 new jobs! Sending to Telegram...
+[2026-08-24 03:37:43]   Sent: [LinkedIn] Android Developer @ RiDiK (a Subsidiary of CLPS. Nasdaq: CLPS) | Hyderabad, Telangana, India
+[2026-08-24 03:37:46]   Sent: [LinkedIn] TEST ENGINEER L4 @ Wipro | Hyderabad, Telangana, India
+[2026-08-24 03:37:46] Done. Sent 2 new jobs. Total tracked: 307
+[2026-08-24 03:37:46] Single-run cycle complete. Exiting.
