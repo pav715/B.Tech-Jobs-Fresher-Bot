@@ -2820,3 +2820,15 @@
 [2026-08-25 15:21:51] Checking for new B.Tech fresher jobs from LinkedIn...
 [2026-08-25 15:27:52] No new jobs found. Total tracked: 308
 [2026-08-25 15:27:52] Single-run cycle complete. Exiting.
+[2026-08-26 03:33:05] ============================================================
+[2026-08-26 03:33:05]   B.Tech Jobs Fresher - Telegram Bot
+[2026-08-26 03:33:05]   TARGET: B.Tech Freshers | LOCATION: Hyderabad
+[2026-08-26 03:33:05]   CHECK INTERVAL: Every 10 minutes
+[2026-08-26 03:33:05] ============================================================
+[2026-08-26 03:33:05] Loaded 308 previously seen jobs.
+[2026-08-26 03:33:05] Window: sending jobs posted after 2026-08-25T15:21:51.286301
+[2026-08-26 03:33:05] Checking for new B.Tech fresher jobs from LinkedIn...
+[2026-08-26 03:38:43] Found 1 new jobs! Sending to Telegram...
+[2026-08-26 03:38:46]   Sent: [LinkedIn] QA Engineer @ WPP Production | Hyderabad, Telangana, India
+[2026-08-26 03:38:46] Done. Sent 1 new jobs. Total tracked: 309
+[2026-08-26 03:38:46] Single-run cycle complete. Exiting.
