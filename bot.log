@@ -2862,3 +2862,47 @@
 [2026-08-26 16:00:18] Checking for new B.Tech fresher jobs from LinkedIn...
 [2026-08-26 16:06:06] No new jobs found. Total tracked: 309
 [2026-08-26 16:06:06] Single-run cycle complete. Exiting.
+[2026-08-27 12:59:59] ============================================================
+[2026-08-27 12:59:59]   B.Tech Jobs Fresher - Telegram Bot
+[2026-08-27 12:59:59]   TARGET: B.Tech Freshers | LOCATION: Hyderabad
+[2026-08-27 12:59:59]   CHECK INTERVAL: Every 10 minutes
+[2026-08-27 12:59:59] ============================================================
+[2026-08-27 12:59:59] Loaded 309 previously seen jobs.
+[2026-08-27 12:59:59] Window: sending jobs posted after 2026-08-26T16:00:18.610643
+[2026-08-27 12:59:59] Checking for new B.Tech fresher jobs from LinkedIn...
+[2026-08-27 13:06:00] Found 33 new jobs! Sending to Telegram...
+[2026-08-27 13:06:03]   Sent: [LinkedIn] Video Editor @ Student Tribe | Hyderabad, Telangana, India
+[2026-08-27 13:06:05]   Sent: [LinkedIn] VIDEOGRAPHER × VIDEO EDITOR @ Theories Consulting | Hyderabad, Telangana, India
+[2026-08-27 13:06:08]   Sent: [LinkedIn] New Age Video Editor & Graphic Designer (Entry Level) @ Ecomous | Hyderabad, Telangana, India
+[2026-08-27 13:06:11]   Sent: [LinkedIn] Jr.Java Developer @ ASTIKA SOFTWARE TECHNOLOGIES PRIVATE LIMITED | Hyderabad, Telangana, India
+[2026-08-27 13:06:13]   Sent: [LinkedIn] Service Engineer @ SMen Private Limited | Hyderabad, Telangana, India
+[2026-08-27 13:06:16]   Sent: [LinkedIn] Hardware Validation Engineers @ ACL Digital | Hyderabad, Telangana, India
+[2026-08-27 13:06:19]   Sent: [LinkedIn] IT Customer Service Associate @ Accenture in India | Hyderabad, Telangana, India
+[2026-08-27 13:06:22]   Sent: [LinkedIn] IT Customer Service Analyst @ Accenture in India | Hyderabad, Telangana, India
+[2026-08-27 13:06:25]   Sent: [LinkedIn] Platform Admin @ Capgemini | Hyderabad, Telangana, India
+[2026-08-27 13:06:28]   Sent: [LinkedIn] Shift Engineer – Mechanical (Autoclave & Oven Operations) @ Hydro Pneumatic Engineers (Hyd) Pvt. Ltd. | Hyderabad, Telangana, India
+[2026-08-27 13:06:30]   Sent: [LinkedIn] Procurement Engineer @ Azista Composites Private Limited | Hyderabad, Telangana, India
+[2026-08-27 13:06:33]   Sent: [LinkedIn] Project Engineer @ Cushman & Wakefield | Greater Hyderabad Area
+[2026-08-27 13:06:36]   Sent: [LinkedIn] Planning & Q.S Civil Engineer @ Aurean Eskar Ventures LLP, Hyderabad | Hyderabad, Telangana, India
+[2026-08-27 13:06:39]   Sent: [LinkedIn] Site Supervisor - Commercial Interior Fit Out @ SRIAN INFRASTRUCTURES PVT LTD | Hyderabad, Telangana, India
+[2026-08-27 13:06:42]   Sent: [LinkedIn] Site Supervisor @ Triple M Infrastructure Developer | Hyderabad, Telangana, India
+[2026-08-27 13:06:45]   Sent: [LinkedIn] Architect @ Pranavikainfra Pvt.Ltd | Hyderabad, Telangana, India
+[2026-08-27 13:06:48]   Sent: [LinkedIn] Full Stack Developer @ EBG Group | Hyderabad, Telangana, India
+[2026-08-27 13:06:50]   Sent: [LinkedIn] Python Developer @ Saven Technologies | Hyderabad, Telangana, India
+[2026-08-27 13:06:53]   Sent: [LinkedIn] Java Developer @ ASTIKA SOFTWARE TECHNOLOGIES PRIVATE LIMITED | Hyderabad, Telangana, India
+[2026-08-27 13:06:56]   Sent: [LinkedIn] Software Developer Intern (Problem Solving & Full-Stack Focus) @ Creyente Infotech | Hyderabad, Telangana, India
+[2026-08-27 13:07:03]   Sent: [LinkedIn] Application Developer-AWS Cloud FullStack @ IBM | Hyderabad, Telangana, India
+[2026-08-27 13:07:05]   Sent: [LinkedIn] Creative Designer and Developer @ ADScholars | Hyderabad, Telangana, India
+[2026-08-27 13:07:08]   Sent: [LinkedIn] Data Analyst @ S&P Global | Hyderabad, Telangana, India
+[2026-08-27 13:07:11]   Sent: [LinkedIn] Network Wireless Engineer (Cisco)L2 @ Tata Consultancy Services | Hyderabad, Telangana, India
+[2026-08-27 13:07:14]   Sent: [LinkedIn] Network Operations Technician @ ASTIKA SOFTWARE TECHNOLOGIES PRIVATE LIMITED | Hyderabad, Telangana, India
+[2026-08-27 13:07:17]   Sent: [LinkedIn] Engineer - Service Delivery @ Black Box | Hyderabad, Telangana, India
+[2026-08-27 13:07:20]   Sent: [LinkedIn] Technical Specialist – Advanced Engineering @ Kidde Global Solutions | Hyderabad, Telangana, India
+[2026-08-27 13:07:22]   Sent: [LinkedIn] Application Developer-AWS Cloud FullStack @ IBM | Hyderabad, Telangana, India
+[2026-08-27 13:07:25]   Sent: [LinkedIn] Consultant Radiologist @ LEADING EDGE MEDICAL DIAGNOSTIC, PC | Hyderabad, Telangana, India
+[2026-08-27 13:07:28]   Sent: [LinkedIn] Lead Software / Platform Engineer I @ MetLife | Hyderabad, Telangana, India
+[2026-08-27 13:07:31]   Sent: [LinkedIn] Domestic Recruiter @ Panzer Technologies Pvt Ltd | Hyderabad, Telangana, India
+[2026-08-27 13:07:33]   Sent: [LinkedIn] Talent Acquisition Specialist @ upGrad | Hyderabad, Telangana, India
+[2026-08-27 13:07:36]   Sent: [LinkedIn] Receptionist @ FABEX Steel Structures | Greater Hyderabad Area
+[2026-08-27 13:07:36] Done. Sent 33 new jobs. Total tracked: 341
+[2026-08-27 13:07:36] Single-run cycle complete. Exiting.
