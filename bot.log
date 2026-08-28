@@ -2916,3 +2916,40 @@
 [2026-08-27 23:52:17] Checking for new B.Tech fresher jobs from LinkedIn...
 [2026-08-27 23:58:00] No new jobs found. Total tracked: 341
 [2026-08-27 23:58:00] Single-run cycle complete. Exiting.
+[2026-08-28 14:30:54] ============================================================
+[2026-08-28 14:30:54]   B.Tech Jobs Fresher - Telegram Bot
+[2026-08-28 14:30:54]   TARGET: B.Tech Freshers | LOCATION: Hyderabad
+[2026-08-28 14:30:54]   CHECK INTERVAL: Every 10 minutes
+[2026-08-28 14:30:54] ============================================================
+[2026-08-28 14:30:54] Loaded 341 previously seen jobs.
+[2026-08-28 14:30:54] Window: sending jobs posted after 2026-08-27T23:52:17.894980
+[2026-08-28 14:30:54] Checking for new B.Tech fresher jobs from LinkedIn...
+[2026-08-28 14:35:58] Found 26 new jobs! Sending to Telegram...
+[2026-08-28 14:36:01]   Sent: [LinkedIn] Guidewire Developer Fresher @ Artmac | Hyderabad, Telangana, India
+[2026-08-28 14:36:04]   Sent: [LinkedIn] Hiring Freshers-Medical Billing, EVBV and Authorization @ Practolytics | Greater Hyderabad Area
+[2026-08-28 14:36:06]   Sent: [LinkedIn] Sales executive @ Lighthouse Properties | Hyderabad, Telangana, India
+[2026-08-28 14:36:09]   Sent: [LinkedIn] Analyst I, Systems Operations @ ICE | Hyderabad, Telangana, India
+[2026-08-28 14:36:11]   Sent: [LinkedIn] Assoc Tech Svc Desk @ Unisys | Hyderabad, Telangana, India
+[2026-08-28 14:36:14]   Sent: [LinkedIn] New ADN-Consultant @ EY | Hyderabad, Telangana, India
+[2026-08-28 14:36:17]   Sent: [LinkedIn] Software Engineer - Automation Platform @ Veeva Systems | Hyderabad, Telangana, India
+[2026-08-28 14:36:19]   Sent: [LinkedIn] Data Engineer (Azure, Snowflake, Databricks) @ HYrEzy Tech Solutions | Hyderabad, Telangana, India
+[2026-08-28 14:36:22]   Sent: [LinkedIn] Engineer, Firmware Design @ Micron Technology | Hyderabad, Telangana, India
+[2026-08-28 14:36:25]   Sent: [LinkedIn] Hardware QA Engineer @ Skyroot Aerospace | Hyderabad, Telangana, India
+[2026-08-28 14:36:27]   Sent: [LinkedIn] LabVIEW Engineer @ Skyroot Aerospace | Hyderabad, Telangana, India
+[2026-08-28 14:36:30]   Sent: [LinkedIn] Electrical Engineer @ NovintiX | Hyderabad, Telangana, India
+[2026-08-28 14:36:33]   Sent: [LinkedIn] Assistant Engineer I - Field Service @ Vertiv | Hyderabad, Telangana, India
+[2026-08-28 14:36:36]   Sent: [LinkedIn] Engineer/Associate Engineer – AI & Automation Engineer @ Micron Technology | Hyderabad, Telangana, India
+[2026-08-28 14:36:38]   Sent: [LinkedIn] Software Developer - Python, Hyderabad @ Schrödinger | Hyderabad, Telangana, India
+[2026-08-28 14:36:41]   Sent: [LinkedIn] Consultant - Forensics - National - ASU - Forensics - Discovery - Hyderabad @ EY | Hyderabad, Telangana, India
+[2026-08-28 14:36:44]   Sent: [LinkedIn] React Native Developer @ Infosys | Hyderabad, Telangana, India
+[2026-08-28 14:36:47]   Sent: [LinkedIn] Information Technology Administrator @ Prudent Technologies and Consulting, Inc. | Hyderabad, Telangana, India
+[2026-08-28 14:36:50]   Sent: [LinkedIn] DCO Tech 3, HYD-Infinity - DCO @ Amazon Web Services (AWS) | Hyderabad, Telangana, India
+[2026-08-28 14:36:52]   Sent: [LinkedIn] Cyber Security Analyst II @ FedEx | Greater Hyderabad Area
+[2026-08-28 14:37:01]   Sent: [LinkedIn] Test Solutions Engineer @ Micron Technology | Hyderabad, Telangana, India
+[2026-08-28 14:37:04]   Sent: [LinkedIn] Server and Cloud Administrator @ Quess Corp Limited | Hyderabad, Telangana, India
+[2026-08-28 14:37:07]   Sent: [LinkedIn] AWS+ Devops @ Tata Consultancy Services | Hyderabad, Telangana, India
+[2026-08-28 14:37:10]   Sent: [LinkedIn] Services Engineer @ GE Vernova | Greater Hyderabad Area
+[2026-08-28 14:37:13]   Sent: [LinkedIn] Associate Engineer - Compiler Development @ Qualcomm | Greater Hyderabad Area
+[2026-08-28 14:37:15]   Sent: [LinkedIn] Trainee @ Movate | Hyderabad, Telangana, India
+[2026-08-28 14:37:15] Done. Sent 26 new jobs. Total tracked: 367
+[2026-08-28 14:37:15] Single-run cycle complete. Exiting.
