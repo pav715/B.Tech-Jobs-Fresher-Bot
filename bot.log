@@ -3006,3 +3006,42 @@
 [2026-08-30 14:55:25] Checking for new B.Tech fresher jobs from LinkedIn...
 [2026-08-30 15:01:10] No new jobs found. Total tracked: 378
 [2026-08-30 15:01:10] Single-run cycle complete. Exiting.
+[2026-08-31 08:49:52] ============================================================
+[2026-08-31 08:49:52]   B.Tech Jobs Fresher - Telegram Bot
+[2026-08-31 08:49:52]   TARGET: B.Tech Freshers | LOCATION: Hyderabad
+[2026-08-31 08:49:52]   CHECK INTERVAL: Every 10 minutes
+[2026-08-31 08:49:52] ============================================================
+[2026-08-31 08:49:52] Loaded 378 previously seen jobs.
+[2026-08-31 08:49:52] Window: sending jobs posted after 2026-08-30T14:55:25.839824
+[2026-08-31 08:49:52] Checking for new B.Tech fresher jobs from LinkedIn...
+[2026-08-31 08:56:01] Found 28 new jobs! Sending to Telegram...
+[2026-08-31 08:56:04]   Sent: [LinkedIn] Laboratory Technician @ Tata Consultancy Services | Hyderabad, Telangana, India
+[2026-08-31 08:56:06]   Sent: [LinkedIn] Fresher - Service Desk @ Genpact | Hyderabad, Telangana, India
+[2026-08-31 08:56:09]   Sent: [LinkedIn] Walk in - SharePoint - Hyderabad @ Tata Consultancy Services | Hyderabad, Telangana, India
+[2026-08-31 08:56:12]   Sent: [LinkedIn] Unity Digital Twin Developer @ Prudent Technologies and Consulting, Inc. | Hyderabad, Telangana, India
+[2026-08-31 08:56:15]   Sent: [LinkedIn] Engineer/Associate Engineer – AI & Automation Engineer @ Top Gen AI Jobs | Hyderabad, Telangana, India
+[2026-08-31 08:56:17]   Sent: [LinkedIn] Engineer — Electronics / Mechatronics (Product Development) @ BharatVijay Nexgen Innovation Pvt Ltd | Hyderabad, Telangana, India
+[2026-08-31 08:56:20]   Sent: [LinkedIn] ZBRUSH & CAD @ Shree Ji Jewellery Manufacturers Pvt Ltd | Hyderabad, Telangana, India
+[2026-08-31 08:56:23]   Sent: [LinkedIn] Flight test Engineer Fixed wing Drones @ Exodrone Systems | Hyderabad, Telangana, India
+[2026-08-31 08:56:26]   Sent: [LinkedIn] Artificial Intelligence Engineer @ AI Vidya | Hyderabad, Telangana, India
+[2026-08-31 08:56:29]   Sent: [LinkedIn] Service Desk L1 Technician @ Milestone Technologies, Inc. | Greater Hyderabad Area
+[2026-08-31 08:56:32]   Sent: [LinkedIn] Service Desk Analyst @ Genpact | Hyderabad, Telangana, India
+[2026-08-31 08:56:34]   Sent: [LinkedIn] MECHANICAL REFRIGERATION DESIGN ENGINEER @ Vilas Business Solutions | Hyderabad, Telangana, India
+[2026-08-31 08:56:37]   Sent: [LinkedIn] Print Management Engineer @ Tata Consultancy Services | Hyderabad, Telangana, India
+[2026-08-31 08:56:40]   Sent: [LinkedIn] Software Engineer III - Python @ FactSet | Hyderabad, Telangana, India
+[2026-08-31 08:56:43]   Sent: [LinkedIn] Walk in - GEN AI Engineer - Hyderabad @ Tata Consultancy Services | Hyderabad, Telangana, India
+[2026-08-31 08:56:46]   Sent: [LinkedIn] Automation Engineer @ Alphastra Tekno | Hyderabad, Telangana, India
+[2026-08-31 08:56:48]   Sent: [LinkedIn] Full Stack Developer Intern (6-Month Tenure) @ Ira Hospitality | Hyderabad, Telangana, India
+[2026-08-31 08:56:51]   Sent: [LinkedIn] Azure Java Developer @ Tata Consultancy Services | Hyderabad, Telangana, India
+[2026-08-31 08:56:54]   Sent: [LinkedIn] DATA ANALYST L4 @ Wipro | Hyderabad, Telangana, India
+[2026-08-31 08:56:57]   Sent: [LinkedIn] Planning & Reporting CoE Analyst @ Reckitt | Hyderabad, Telangana, India
+[2026-08-31 08:57:07]   Sent: [LinkedIn] NOC Engineer @ Cyara | Hyderabad, Telangana, India
+[2026-08-31 08:57:10]   Sent: [LinkedIn] Software Test Engineer Part-time - Rs101-15K per month @ iTester Inc | Hyderabad, Telangana, India
+[2026-08-31 08:57:12]   Sent: [LinkedIn] Software Test Engineer @ RiVirtual Inc | Hyderabad, Telangana, India
+[2026-08-31 08:57:15]   Sent: [LinkedIn] AWS Engineer @ SourcingXPress | Hyderabad, Telangana, India
+[2026-08-31 08:57:18]   Sent: [LinkedIn] Software Engineer II - (AI Enablement) @ FactSet | Hyderabad, Telangana, India
+[2026-08-31 08:57:21]   Sent: [LinkedIn] Pega Developer @ Tata Consultancy Services | Hyderabad, Telangana, India
+[2026-08-31 08:57:23]   Sent: [LinkedIn] Oracle & PostgreSQL Database Admin @ Genpact | Hyderabad, Telangana, India
+[2026-08-31 08:57:26]   Sent: [LinkedIn] Customer Success Executive (Hyderabad) @ FretBox | Hyderabad, Telangana, India
+[2026-08-31 08:57:26] Done. Sent 28 new jobs. Total tracked: 406
+[2026-08-31 08:57:26] Single-run cycle complete. Exiting.
