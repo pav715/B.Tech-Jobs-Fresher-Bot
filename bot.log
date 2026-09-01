@@ -3055,3 +3055,32 @@
 [2026-08-31 17:40:56] Checking for new B.Tech fresher jobs from LinkedIn...
 [2026-08-31 17:47:03] No new jobs found. Total tracked: 406
 [2026-08-31 17:47:03] Single-run cycle complete. Exiting.
+[2026-09-01 07:56:16] ============================================================
+[2026-09-01 07:56:16]   B.Tech Jobs Fresher - Telegram Bot
+[2026-09-01 07:56:16]   TARGET: B.Tech Freshers | LOCATION: Hyderabad
+[2026-09-01 07:56:16]   CHECK INTERVAL: Every 10 minutes
+[2026-09-01 07:56:16] ============================================================
+[2026-09-01 07:56:16] Loaded 406 previously seen jobs.
+[2026-09-01 07:56:16] Window: sending jobs posted after 2026-08-31T17:40:56.264428
+[2026-09-01 07:56:16] Checking for new B.Tech fresher jobs from LinkedIn...
+[2026-09-01 08:02:14] Found 18 new jobs! Sending to Telegram...
+[2026-09-01 08:02:17]   Sent: [LinkedIn] Inside Sales Executive (Fresher) @ Algonox Technologies | Hyderabad, Telangana, India
+[2026-09-01 08:02:19]   Sent: [LinkedIn] Social Media Executive @ WebAnatomy | Hyderabad, Telangana, India
+[2026-09-01 08:02:22]   Sent: [LinkedIn] DEVELOPER L2 @ Wipro | Hyderabad, Telangana, India
+[2026-09-01 08:02:25]   Sent: [LinkedIn] IBM Datapower & APIGEE @ Tata Consultancy Services | Hyderabad, Telangana, India
+[2026-09-01 08:02:28]   Sent: [LinkedIn] AI Developer Trainee – Agentic Systems & AI Applications @ Innomax IT Solutions | Greater Hyderabad Area
+[2026-09-01 08:02:30]   Sent: [LinkedIn] Associate java full stack @ HTPLT | Greater Hyderabad Area
+[2026-09-01 08:02:33]   Sent: [LinkedIn] Trainee Consultant - SAP Process Integration/Process Orchestration (PI/PO) Job @ YASH Technologies | Hyderabad, Telangana, India
+[2026-09-01 08:02:36]   Sent: [LinkedIn] ID-LB Cabling Infrastructure Tech, Data Center Operations @ Amazon Web Services (AWS) | Hyderabad, Telangana, India
+[2026-09-01 08:02:39]   Sent: [LinkedIn] Staff Engineer - DFT @ Cyient | Greater Hyderabad Area
+[2026-09-01 08:02:42]   Sent: [LinkedIn] Mechanical Design Engineer Intern @ OralVis | Hyderabad, Telangana, India
+[2026-09-01 08:02:45]   Sent: [LinkedIn] Quantity Surveyor (Civil Industry) @ JYOTI PLACEMENTS SERVCE | Hyderabad, Telangana, India
+[2026-09-01 08:02:48]   Sent: [LinkedIn] Python Odoo Developer @ TekGenio | Hyderabad, Telangana, India
+[2026-09-01 08:02:51]   Sent: [LinkedIn] Business Intelligence Engineer, Worldwide Customer Service Finance @ Amazon | Hyderabad, Telangana, India
+[2026-09-01 08:02:53]   Sent: [LinkedIn] Capital Market @ Artech L.L.C. | Hyderabad, Telangana, India
+[2026-09-01 08:02:57]   Sent: [LinkedIn] ID-LB Cabling Infrastructure Tech, Data Center Operations @ Amazon Web Services (AWS) | Hyderabad, Telangana, India
+[2026-09-01 08:03:00]   Sent: [LinkedIn] Linux Device Driver Developer @ Sapphire Stream Technology | Hyderabad, Telangana, India
+[2026-09-01 08:03:03]   Sent: [LinkedIn] Senior Engineer - STA @ Cyient | Greater Hyderabad Area
+[2026-09-01 08:03:06]   Sent: [LinkedIn] Data Analyst @ Wipro | Hyderabad, Telangana, India
+[2026-09-01 08:03:06] Done. Sent 18 new jobs. Total tracked: 423
+[2026-09-01 08:03:06] Single-run cycle complete. Exiting.
