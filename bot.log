@@ -3094,3 +3094,23 @@
 [2026-09-01 15:05:38] Checking for new B.Tech fresher jobs from LinkedIn...
 [2026-09-01 15:11:32] No new jobs found. Total tracked: 423
 [2026-09-01 15:11:32] Single-run cycle complete. Exiting.
+[2026-09-02 07:15:59] ============================================================
+[2026-09-02 07:15:59]   B.Tech Jobs Fresher - Telegram Bot
+[2026-09-02 07:15:59]   TARGET: B.Tech Freshers | LOCATION: Hyderabad
+[2026-09-02 07:15:59]   CHECK INTERVAL: Every 10 minutes
+[2026-09-02 07:15:59] ============================================================
+[2026-09-02 07:15:59] Loaded 423 previously seen jobs.
+[2026-09-02 07:15:59] Window: sending jobs posted after 2026-09-01T15:05:38.955260
+[2026-09-02 07:15:59] Checking for new B.Tech fresher jobs from LinkedIn...
+[2026-09-02 07:21:54] Found 9 new jobs! Sending to Telegram...
+[2026-09-02 07:21:57]   Sent: [LinkedIn] Software Engineer I (Mainframe) @ Concentrix | Greater Hyderabad Area
+[2026-09-02 07:22:00]   Sent: [LinkedIn] Java full stack with React js @ Tata Consultancy Services | Hyderabad, Telangana, India
+[2026-09-02 07:22:03]   Sent: [LinkedIn] MRI & CT Engineer @ Sasha HealthCare | Hyderabad, Telangana, India
+[2026-09-02 07:22:06]   Sent: [LinkedIn] Resistance Spot Welding Technologist @ ITP Aero | Hyderabad, Telangana, India
+[2026-09-02 07:22:08]   Sent: [LinkedIn] ServiceNow Developer and Architect @ Kogniv-AI | Hyderabad, Telangana, India
+[2026-09-02 07:22:11]   Sent: [LinkedIn] Data Center Infrastructure Specialist @ NVIDIA | Hyderabad, Telangana, India
+[2026-09-02 07:22:14]   Sent: [LinkedIn] Staff Network Engineer - Network,Cisco @ Blue Yonder | Hyderabad, Telangana, India
+[2026-09-02 07:22:17]   Sent: [LinkedIn] Senior Engineer II - Design @ Microchip Technology Inc. | Hyderabad, Telangana, India
+[2026-09-02 07:22:20]   Sent: [LinkedIn] System Development Engineer, Amazon @ Amazon | Hyderabad, Telangana, India
+[2026-09-02 07:22:20] Done. Sent 9 new jobs. Total tracked: 432
+[2026-09-02 07:22:20] Single-run cycle complete. Exiting.
