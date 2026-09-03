@@ -3124,3 +3124,26 @@
 [2026-09-02 14:37:55] Checking for new B.Tech fresher jobs from LinkedIn...
 [2026-09-02 14:43:51] No new jobs found. Total tracked: 432
 [2026-09-02 14:43:51] Single-run cycle complete. Exiting.
+[2026-09-03 07:19:17] ============================================================
+[2026-09-03 07:19:17]   B.Tech Jobs Fresher - Telegram Bot
+[2026-09-03 07:19:17]   TARGET: B.Tech Freshers | LOCATION: Hyderabad
+[2026-09-03 07:19:17]   CHECK INTERVAL: Every 10 minutes
+[2026-09-03 07:19:17] ============================================================
+[2026-09-03 07:19:17] Loaded 432 previously seen jobs.
+[2026-09-03 07:19:17] Window: sending jobs posted after 2026-09-02T14:37:55.557242
+[2026-09-03 07:19:17] Checking for new B.Tech fresher jobs from LinkedIn...
+[2026-09-03 07:24:28] Found 12 new jobs! Sending to Telegram...
+[2026-09-03 07:24:31]   Sent: [LinkedIn] Analytics Engineer @ Floww.ai | Hyderabad, Telangana, India
+[2026-09-03 07:24:34]   Sent: [LinkedIn] Engineer II, Pipe Stress Analysis - AUTOPIPE @ TechnipFMC | Hyderabad, Telangana, India
+[2026-09-03 07:24:36]   Sent: [LinkedIn] Executive, HVAC @ Amneal Pharmaceuticals | Hyderabad, Telangana, India
+[2026-09-03 07:24:39]   Sent: [LinkedIn] Site Civil Engineer @ MaskotPlan | Hyderabad, Telangana, India
+[2026-09-03 07:24:42]   Sent: [LinkedIn] Full Stack Engineer intern @ NITESTAYS.COM | Hyderabad, Telangana, India
+[2026-09-03 07:24:44]   Sent: [LinkedIn] Junior Data Scientist @ Tezvyn | Hyderabad, Telangana, India
+[2026-09-03 07:24:47]   Sent: [LinkedIn] System Development Engineer, Engineering & IT @ Amazon | Hyderabad, Telangana, India
+[2026-09-03 07:24:50]   Sent: [LinkedIn] Senior Quality Engineer I @ Optum India | Hyderabad, Telangana, India
+[2026-09-03 07:24:52]   Sent: [LinkedIn] Staff DevOps Engineer I - DevOps, Ansible @ Blue Yonder | Hyderabad, Telangana, India
+[2026-09-03 07:24:55]   Sent: [LinkedIn] Associate Software Engineer II @ Optum India | Hyderabad, Telangana, India
+[2026-09-03 07:24:57]   Sent: [LinkedIn] Configuration Specialist @ Cendyn | Hyderabad, Telangana, India
+[2026-09-03 07:25:00]   Sent: [LinkedIn] Office Admin ( Immediate Joiners ) @ Ray Business Technologies (A CMMI Level 3 Company) | Hyderabad, Telangana, India
+[2026-09-03 07:25:00] Done. Sent 12 new jobs. Total tracked: 444
+[2026-09-03 07:25:00] Single-run cycle complete. Exiting.
