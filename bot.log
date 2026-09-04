@@ -3157,3 +3157,21 @@
 [2026-09-03 14:41:21] Checking for new B.Tech fresher jobs from LinkedIn...
 [2026-09-03 14:46:42] No new jobs found. Total tracked: 444
 [2026-09-03 14:46:42] Single-run cycle complete. Exiting.
+[2026-09-04 07:21:55] ============================================================
+[2026-09-04 07:21:55]   B.Tech Jobs Fresher - Telegram Bot
+[2026-09-04 07:21:55]   TARGET: B.Tech Freshers | LOCATION: Hyderabad
+[2026-09-04 07:21:55]   CHECK INTERVAL: Every 10 minutes
+[2026-09-04 07:21:55] ============================================================
+[2026-09-04 07:21:55] Loaded 444 previously seen jobs.
+[2026-09-04 07:21:55] Window: sending jobs posted after 2026-09-03T14:41:21.855055
+[2026-09-04 07:21:55] Checking for new B.Tech fresher jobs from LinkedIn...
+[2026-09-04 07:27:50] Found 7 new jobs! Sending to Telegram...
+[2026-09-04 07:27:57]   Sent: [LinkedIn] Freshers-Medical Billing @ Practolytics | Hyderabad, Telangana, India
+[2026-09-04 07:28:00]   Sent: [LinkedIn] Stress engineer @ Cyient | Hyderabad, Telangana, India
+[2026-09-04 07:28:03]   Sent: [LinkedIn] Data Engineer I (R-19886) @ Dun & Bradstreet | Hyderabad, Telangana, India
+[2026-09-04 07:28:06]   Sent: [LinkedIn] Functional Verification Engineer @ KriSemi Design Technologies | Hyderabad, Telangana, India
+[2026-09-04 07:28:09]   Sent: [LinkedIn] Facade Engineer @ Suntech facade systems | Hyderabad, Telangana, India
+[2026-09-04 07:28:11]   Sent: [LinkedIn] Interior Site Supervisor @ O Global ink | Hyderabad, Telangana, India
+[2026-09-04 07:28:14]   Sent: [LinkedIn] Software Engineer III - QA @ JPMorganChase | Hyderabad, Telangana, India
+[2026-09-04 07:28:14] Done. Sent 7 new jobs. Total tracked: 451
+[2026-09-04 07:28:14] Single-run cycle complete. Exiting.
