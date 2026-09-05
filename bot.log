@@ -3195,3 +3195,23 @@
 [2026-09-04 17:44:39] Checking for new B.Tech fresher jobs from LinkedIn...
 [2026-09-04 17:50:05] No new jobs found. Total tracked: 451
 [2026-09-04 17:50:05] Single-run cycle complete. Exiting.
+[2026-09-05 07:03:47] ============================================================
+[2026-09-05 07:03:47]   B.Tech Jobs Fresher - Telegram Bot
+[2026-09-05 07:03:47]   TARGET: B.Tech Freshers | LOCATION: Hyderabad
+[2026-09-05 07:03:47]   CHECK INTERVAL: Every 10 minutes
+[2026-09-05 07:03:47] ============================================================
+[2026-09-05 07:03:47] Loaded 451 previously seen jobs.
+[2026-09-05 07:03:47] Window: sending jobs posted after 2026-09-04T17:44:39.647324
+[2026-09-05 07:03:47] Checking for new B.Tech fresher jobs from LinkedIn...
+[2026-09-05 07:08:52] Found 9 new jobs! Sending to Telegram...
+[2026-09-05 07:08:54]   Sent: [LinkedIn] NVH Analyst @ Cyient | Hyderabad, Telangana, India
+[2026-09-05 07:08:57]   Sent: [LinkedIn] BTech Civil engineer FRESHERS @ BRANDS AND BUILDINGS | Hyderabad, Telangana, India
+[2026-09-05 07:09:00]   Sent: [LinkedIn] Chat Support Executive @ Cvali | Hyderabad, Telangana, India
+[2026-09-05 07:09:03]   Sent: [LinkedIn] Service Engineer @ second.ecimal | Hyderabad, Telangana, India
+[2026-09-05 07:09:05]   Sent: [LinkedIn] Civil Engineer @ Crusade Infra Constructions | Hyderabad, Telangana, India
+[2026-09-05 07:09:08]   Sent: [LinkedIn] UI Intern @ Altrus AI | Hyderabad, Telangana, India
+[2026-09-05 07:09:11]   Sent: [LinkedIn] Teamcenter Automation Tester @ Wipro | Hyderabad, Telangana, India
+[2026-09-05 07:09:13]   Sent: [LinkedIn] PROCESS DELIVERY SPECIALIST-HUMAN RESOURCES OPERATIONS @ Hakkōda, an IBM Company | Hyderabad, Telangana, India
+[2026-09-05 07:09:16]   Sent: [LinkedIn] KDP Support Analyst, Amazon @ Amazon | Hyderabad, Telangana, India
+[2026-09-05 07:09:16] Done. Sent 9 new jobs. Total tracked: 460
+[2026-09-05 07:09:16] Single-run cycle complete. Exiting.
