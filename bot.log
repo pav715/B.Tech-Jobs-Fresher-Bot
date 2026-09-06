@@ -3235,3 +3235,20 @@
 [2026-09-05 16:54:05] Checking for new B.Tech fresher jobs from LinkedIn...
 [2026-09-05 16:59:44] No new jobs found. Total tracked: 460
 [2026-09-05 16:59:44] Single-run cycle complete. Exiting.
+[2026-09-06 07:15:07] ============================================================
+[2026-09-06 07:15:07]   B.Tech Jobs Fresher - Telegram Bot
+[2026-09-06 07:15:07]   TARGET: B.Tech Freshers | LOCATION: Hyderabad
+[2026-09-06 07:15:07]   CHECK INTERVAL: Every 10 minutes
+[2026-09-06 07:15:07] ============================================================
+[2026-09-06 07:15:07] Loaded 460 previously seen jobs.
+[2026-09-06 07:15:07] Window: sending jobs posted after 2026-09-05T16:54:05.689109
+[2026-09-06 07:15:07] Checking for new B.Tech fresher jobs from LinkedIn...
+[2026-09-06 07:20:40] Found 6 new jobs! Sending to Telegram...
+[2026-09-06 07:20:43]   Sent: [LinkedIn] Franklin Templeton Hiring Associate Software Engineer Hyderabad @ Base Career | Hyderabad, Telangana, India
+[2026-09-06 07:20:46]   Sent: [LinkedIn] Azure Data Factory @ Wipro | Hyderabad, Telangana, India
+[2026-09-06 07:20:48]   Sent: [LinkedIn] Jr. AI Engineer Role @ aiqon | Hyderabad, Telangana, India
+[2026-09-06 07:20:51]   Sent: [LinkedIn] Site Engineer – Interior Fit-Out @ Stories per Square Feet | Hyderabad, Telangana, India
+[2026-09-06 07:20:54]   Sent: [LinkedIn] Mechanical maintenance supervisor and power house incharge @ Oil and gas and power house | Greater Hyderabad Area
+[2026-09-06 07:20:57]   Sent: [LinkedIn] AUTOMATION ENGINEER L3 @ Wipro | Hyderabad, Telangana, India
+[2026-09-06 07:20:57] Done. Sent 6 new jobs. Total tracked: 466
+[2026-09-06 07:20:57] Single-run cycle complete. Exiting.
