@@ -3272,3 +3272,26 @@
 [2026-09-06 17:15:31] Checking for new B.Tech fresher jobs from LinkedIn...
 [2026-09-06 17:21:05] No new jobs found. Total tracked: 466
 [2026-09-06 17:21:05] Single-run cycle complete. Exiting.
+[2026-09-07 07:28:47] ============================================================
+[2026-09-07 07:28:47]   B.Tech Jobs Fresher - Telegram Bot
+[2026-09-07 07:28:47]   TARGET: B.Tech Freshers | LOCATION: Hyderabad
+[2026-09-07 07:28:47]   CHECK INTERVAL: Every 10 minutes
+[2026-09-07 07:28:47] ============================================================
+[2026-09-07 07:28:47] Loaded 466 previously seen jobs.
+[2026-09-07 07:28:47] Window: sending jobs posted after 2026-09-06T17:15:31.304913
+[2026-09-07 07:28:47] Checking for new B.Tech fresher jobs from LinkedIn...
+[2026-09-07 07:34:25] Found 12 new jobs! Sending to Telegram...
+[2026-09-07 07:34:28]   Sent: [LinkedIn] Front Desk & Admin Executive @ Exxeella Education Group | Hyderabad, Telangana, India
+[2026-09-07 07:34:30]   Sent: [LinkedIn] Wiring Harness Engineer-Creo @ Altraize | Hyderabad, Telangana, India
+[2026-09-07 07:34:33]   Sent: [LinkedIn] Python Automation @ Tata Consultancy Services | Hyderabad, Telangana, India
+[2026-09-07 07:34:36]   Sent: [LinkedIn] Fitter @ Mishra Dhatu NigamÊLimited (Midhani) | Hyderabad, Telangana, India
+[2026-09-07 07:34:38]   Sent: [LinkedIn] Hadoop Admin @ Wipro | Hyderabad, Telangana, India
+[2026-09-07 07:34:41]   Sent: [LinkedIn] Architect @ ARDES | Hyderabad, Telangana, India
+[2026-09-07 07:34:44]   Sent: [LinkedIn] Python AI Intern @ techolution | Hyderabad, Telangana, India
+[2026-09-07 07:34:47]   Sent: [LinkedIn] Data Engineer @ Wipro | Hyderabad, Telangana, India
+[2026-09-07 07:34:49]   Sent: [LinkedIn] Devops Engineer @ Wipro | Hyderabad, Telangana, India
+[2026-09-07 07:34:52]   Sent: [LinkedIn] Physical Design Engineer with EMIR @ ElevarSoC Technologies | Hyderabad, Telangana, India
+[2026-09-07 07:34:55]   Sent: [LinkedIn] Data Engineer with QA @ Prophecy Technologies | Hyderabad, Telangana, India
+[2026-09-07 07:34:57]   Sent: [LinkedIn] Boomi Developer with MDH @ OSI Digital | Hyderabad, Telangana, India
+[2026-09-07 07:34:57] Done. Sent 12 new jobs. Total tracked: 478
+[2026-09-07 07:34:57] Single-run cycle complete. Exiting.
