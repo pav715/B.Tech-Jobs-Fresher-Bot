@@ -3305,3 +3305,23 @@
 [2026-09-07 15:59:00] Checking for new B.Tech fresher jobs from LinkedIn...
 [2026-09-07 16:05:08] No new jobs found. Total tracked: 478
 [2026-09-07 16:05:08] Single-run cycle complete. Exiting.
+[2026-09-08 07:22:21] ============================================================
+[2026-09-08 07:22:21]   B.Tech Jobs Fresher - Telegram Bot
+[2026-09-08 07:22:21]   TARGET: B.Tech Freshers | LOCATION: Hyderabad
+[2026-09-08 07:22:21]   CHECK INTERVAL: Every 10 minutes
+[2026-09-08 07:22:21] ============================================================
+[2026-09-08 07:22:21] Loaded 478 previously seen jobs.
+[2026-09-08 07:22:21] Window: sending jobs posted after 2026-09-07T15:59:00.228180
+[2026-09-08 07:22:21] Checking for new B.Tech fresher jobs from LinkedIn...
+[2026-09-08 07:28:23] Found 9 new jobs! Sending to Telegram...
+[2026-09-08 07:28:26]   Sent: [LinkedIn] Hiring Freshers-AR Caller & EVBV @ Practolytics | Hyderabad, Telangana, India
+[2026-09-08 07:28:29]   Sent: [LinkedIn] Software Engineer in Test @ Clicksoft Solutions | Hyderabad, Telangana, India
+[2026-09-08 07:28:31]   Sent: [LinkedIn] Document Scanning Jobs in Avon Earthing, Work from home @ VIHU | Hyderabad, Telangana, India
+[2026-09-08 07:28:34]   Sent: [LinkedIn] Special Education @ Ignitio Child Development Centre | Hyderabad, Telangana, India
+[2026-09-08 07:28:37]   Sent: [LinkedIn] Project Engineer-Hyderabad @ United Imaging Healthcare | Greater Hyderabad Area
+[2026-09-08 07:28:40]   Sent: [LinkedIn] Steel Detailer @ INDIGO PRE ENGINEERED BUILDINGS PRIVATE LIMITED | Hyderabad, Telangana, India
+[2026-09-08 07:28:42]   Sent: [LinkedIn] Mixed Signal Verification Engineer @ leadIC Design Pvt Ltd | Hyderabad, Telangana, India
+[2026-09-08 07:28:45]   Sent: [LinkedIn] Automation QA @ Tata Consultancy Services | Hyderabad, Telangana, India
+[2026-09-08 07:28:48]   Sent: [LinkedIn] Resident Assistant Faculty - Mathematics @ Gatik Educational Institutions | Hyderabad, Telangana, India
+[2026-09-08 07:28:48] Done. Sent 9 new jobs. Total tracked: 487
+[2026-09-08 07:28:48] Single-run cycle complete. Exiting.
