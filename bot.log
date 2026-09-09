@@ -3335,3 +3335,24 @@
 [2026-09-08 14:42:29] Checking for new B.Tech fresher jobs from LinkedIn...
 [2026-09-08 14:48:05] No new jobs found. Total tracked: 487
 [2026-09-08 14:48:05] Single-run cycle complete. Exiting.
+[2026-09-09 07:30:50] ============================================================
+[2026-09-09 07:30:50]   B.Tech Jobs Fresher - Telegram Bot
+[2026-09-09 07:30:50]   TARGET: B.Tech Freshers | LOCATION: Hyderabad
+[2026-09-09 07:30:50]   CHECK INTERVAL: Every 10 minutes
+[2026-09-09 07:30:50] ============================================================
+[2026-09-09 07:30:50] Loaded 487 previously seen jobs.
+[2026-09-09 07:30:50] Window: sending jobs posted after 2026-09-08T14:42:29.398570
+[2026-09-09 07:30:50] Checking for new B.Tech fresher jobs from LinkedIn...
+[2026-09-09 07:36:35] Found 10 new jobs! Sending to Telegram...
+[2026-09-09 07:36:37]   Sent: [LinkedIn] Junior Graphic Designer @ Synactive, Inc. | Hyderabad, Telangana, India
+[2026-09-09 07:36:40]   Sent: [LinkedIn] Content Creator @ UIACC Chambers of Commerce | Hyderabad, Telangana, India
+[2026-09-09 07:36:43]   Sent: [LinkedIn] Automation Engineer @ Tata Consultancy Services | Hyderabad, Telangana, India
+[2026-09-09 07:36:46]   Sent: [LinkedIn] Aerospace Design Engineer -Catia V5( Only Aero Space Design engineers) @ SORIM TECHNOLOGIES | Hyderabad, Telangana, India
+[2026-09-09 07:36:48]   Sent: [LinkedIn] Associate - Project Management - GS @ Dhruva Space | Hyderabad, Telangana, India
+[2026-09-09 07:36:51]   Sent: [LinkedIn] Tender Executive - Interior Fit Out @ SRIAN INFRASTRUCTURES PVT LTD | Hyderabad, Telangana, India
+[2026-09-09 07:36:54]   Sent: [LinkedIn] Software Engineer @ ServiceNow | Hyderabad, Telangana, India
+[2026-09-09 07:36:57]   Sent: [LinkedIn] System Development Engineer II, Amazon WWR&R @ Amazon | Hyderabad, Telangana, India
+[2026-09-09 07:36:59]   Sent: [LinkedIn] Design Verification Engineer (GLS) @ leadIC Design Pvt Ltd | Hyderabad, Telangana, India
+[2026-09-09 07:37:02]   Sent: [LinkedIn] Scientific Computing Engineer - Drug Product Process Modeling & Data Science @ Novartis India | Greater Hyderabad Area
+[2026-09-09 07:37:02] Done. Sent 10 new jobs. Total tracked: 497
+[2026-09-09 07:37:02] Single-run cycle complete. Exiting.
