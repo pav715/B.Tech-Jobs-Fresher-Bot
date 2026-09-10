@@ -3366,3 +3366,23 @@
 [2026-09-09 14:44:52] Checking for new B.Tech fresher jobs from LinkedIn...
 [2026-09-09 14:52:09] No new jobs found. Total tracked: 497
 [2026-09-09 14:52:09] Single-run cycle complete. Exiting.
+[2026-09-10 07:27:12] ============================================================
+[2026-09-10 07:27:12]   B.Tech Jobs Fresher - Telegram Bot
+[2026-09-10 07:27:12]   TARGET: B.Tech Freshers | LOCATION: Hyderabad
+[2026-09-10 07:27:12]   CHECK INTERVAL: Every 10 minutes
+[2026-09-10 07:27:12] ============================================================
+[2026-09-10 07:27:12] Loaded 497 previously seen jobs.
+[2026-09-10 07:27:12] Window: sending jobs posted after 2026-09-09T14:44:52.751175
+[2026-09-10 07:27:12] Checking for new B.Tech fresher jobs from LinkedIn...
+[2026-09-10 07:32:56] Found 9 new jobs! Sending to Telegram...
+[2026-09-10 07:32:59]   Sent: [LinkedIn] Datacenter Technician @ Sify Limited. (Level-3 Internet Data Center) | Hyderabad, Telangana, India
+[2026-09-10 07:33:02]   Sent: [LinkedIn] Software Engineer Apprentice @ F5 | Hyderabad, Telangana, India
+[2026-09-10 07:33:04]   Sent: [LinkedIn] Site Supervisor – Interior Projects @ Papertospace | Hyderabad, Telangana, India
+[2026-09-10 07:33:07]   Sent: [LinkedIn] Python Full Stack Engineer - AIG Hospital, Hyderabad @ Nextenti Tech Private Limited | Hyderabad, Telangana, India
+[2026-09-10 07:33:10]   Sent: [LinkedIn] Sr Associate - Frontend Development @ Amgen | Hyderabad, Telangana, India
+[2026-09-10 07:33:12]   Sent: [LinkedIn] Sr Associate Software Engineer @ Amgen | Hyderabad, Telangana, India
+[2026-09-10 07:33:15]   Sent: [LinkedIn] Python Automation Tester @ Kumaran Systems | Hyderabad, Telangana, India
+[2026-09-10 07:33:18]   Sent: [LinkedIn] Executive - AIG Hospital @ Nextenti Tech Private Limited | Hyderabad, Telangana, India
+[2026-09-10 07:33:20]   Sent: [LinkedIn] Customer Support Specialist @ Wise | Hyderabad, Telangana, India
+[2026-09-10 07:33:20] Done. Sent 9 new jobs. Total tracked: 506
+[2026-09-10 07:33:20] Single-run cycle complete. Exiting.
