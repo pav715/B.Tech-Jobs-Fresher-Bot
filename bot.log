@@ -3424,3 +3424,29 @@
 [2026-09-11 14:33:43] Checking for new B.Tech fresher jobs from LinkedIn...
 [2026-09-11 14:41:15] No new jobs found. Total tracked: 513
 [2026-09-11 14:41:15] Single-run cycle complete. Exiting.
+[2026-09-12 07:17:53] ============================================================
+[2026-09-12 07:17:53]   B.Tech Jobs Fresher - Telegram Bot
+[2026-09-12 07:17:53]   TARGET: B.Tech Freshers | LOCATION: Hyderabad
+[2026-09-12 07:17:53]   CHECK INTERVAL: Every 10 minutes
+[2026-09-12 07:17:53] ============================================================
+[2026-09-12 07:17:53] Loaded 513 previously seen jobs.
+[2026-09-12 07:17:53] Window: sending jobs posted after 2026-09-11T14:33:43.848356
+[2026-09-12 07:17:53] Checking for new B.Tech fresher jobs from LinkedIn...
+[2026-09-12 07:23:29] Found 15 new jobs! Sending to Telegram...
+[2026-09-12 07:23:32]   Sent: [LinkedIn] OPERATORS @ Ideal Detonators Pvt. Ltd - India | Hyderabad, Telangana, India
+[2026-09-12 07:23:35]   Sent: [LinkedIn] Staff Engineer - Post Silicon Validation @ Synopsys Inc | Hyderabad, Telangana, India
+[2026-09-12 07:23:37]   Sent: [LinkedIn] Electrical and Instrumentation Technician @ MONIN | Hyderabad, Telangana, India
+[2026-09-12 07:23:40]   Sent: [LinkedIn] Tech Ops Engineer II, Controls Deployment & Service India @ Amazon Web Services (AWS) | Hyderabad, Telangana, India
+[2026-09-12 07:23:43]   Sent: [LinkedIn] Site Engineer - FPS - HYD123 @ Larsen & Toubro | Hyderabad, Telangana, India
+[2026-09-12 07:23:46]   Sent: [LinkedIn] Site Engineer - PHE - HYD124 @ Larsen & Toubro | Hyderabad, Telangana, India
+[2026-09-12 07:23:49]   Sent: [LinkedIn] Site Engineer - Civil - HYD 124 @ Larsen & Toubro | Hyderabad, Telangana, India
+[2026-09-12 07:23:52]   Sent: [LinkedIn] Site Engineer - Civil - HYD 123 @ Larsen & Toubro | Hyderabad, Telangana, India
+[2026-09-12 07:23:55]   Sent: [LinkedIn] Site Engineer / Supervisor (MEP) @ Oorja Energy Engineering Services | Hyderabad, Telangana, India
+[2026-09-12 07:23:58]   Sent: [LinkedIn] Software Engineer III - Java, AWS @ JPMorganChase | Hyderabad, Telangana, India
+[2026-09-12 07:24:01]   Sent: [LinkedIn] Software Engineer III - UI (React & Typescript) @ JPMorganChase | Hyderabad, Telangana, India
+[2026-09-12 07:24:04]   Sent: [LinkedIn] Network Engineer @ Coforge | Hyderabad, Telangana, India
+[2026-09-12 07:24:06]   Sent: [LinkedIn] Information Technology Support Engineer @ HTC Global Services | Hyderabad, Telangana, India
+[2026-09-12 07:24:09]   Sent: [LinkedIn] Playback Ops Sys Dev Engineer, Playback Operations Systems Group @ Amazon | Hyderabad, Telangana, India
+[2026-09-12 07:24:12]   Sent: [LinkedIn] Site Engineer - Formork - HYD123 @ Larsen & Toubro | Hyderabad, Telangana, India
+[2026-09-12 07:24:12] Done. Sent 15 new jobs. Total tracked: 528
+[2026-09-12 07:24:12] Single-run cycle complete. Exiting.
