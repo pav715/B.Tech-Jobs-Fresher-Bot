@@ -3563,3 +3563,27 @@
 [2026-09-15 15:10:53] Checking for new B.Tech fresher jobs from LinkedIn...
 [2026-09-15 15:17:25] No new jobs found. Total tracked: 558
 [2026-09-15 15:17:25] Single-run cycle complete. Exiting.
+[2026-09-16 07:50:47] ============================================================
+[2026-09-16 07:50:47]   B.Tech Jobs Fresher - Telegram Bot
+[2026-09-16 07:50:47]   TARGET: B.Tech Freshers | LOCATION: Hyderabad
+[2026-09-16 07:50:47]   CHECK INTERVAL: Every 10 minutes
+[2026-09-16 07:50:47] ============================================================
+[2026-09-16 07:50:47] Loaded 558 previously seen jobs.
+[2026-09-16 07:50:47] Window: sending jobs posted after 2026-09-15T15:10:53.895418
+[2026-09-16 07:50:47] Checking for new B.Tech fresher jobs from LinkedIn...
+[2026-09-16 07:56:29] Found 13 new jobs! Sending to Telegram...
+[2026-09-16 07:56:32]   Sent: [LinkedIn] Medical Billing Fresher @ Practolytics | Hyderabad, Telangana, India
+[2026-09-16 07:56:34]   Sent: [LinkedIn] Learning Specialist, 2 Hour Learning (Remote) - $60,000/year USD @ Crossover | Hyderabad, Telangana, India
+[2026-09-16 07:56:37]   Sent: [LinkedIn] DFT Engineer @ ASIP Technologies | Hyderabad, Telangana, India
+[2026-09-16 07:56:40]   Sent: [LinkedIn] Junior Research Fellow (JRF) @ Mahindra University || Centre for Life Sciences | Hyderabad, Telangana, India
+[2026-09-16 07:56:43]   Sent: [LinkedIn] Software Development Engineer II, Tax Services @ Amazon | Hyderabad, Telangana, India
+[2026-09-16 07:56:46]   Sent: [LinkedIn] Business Analyst I, GTS Field @ Amazon | Hyderabad, Telangana, India
+[2026-09-16 07:56:49]   Sent: [LinkedIn] Dispatch Network Technician - L1 (Break Fix Support) @ GiGa-Ops Global Solutions | Hyderabad, Telangana, India
+[2026-09-16 07:56:52]   Sent: [LinkedIn] Technical Support Engineer @ Ozonetel   |   oneCXi | Hyderabad, Telangana, India
+[2026-09-16 07:56:55]   Sent: [LinkedIn] Infrastructure Systems Engineer II @ Conduent | Hyderabad, Telangana, India
+[2026-09-16 07:56:58]   Sent: [LinkedIn] Nutanix Administration, DevOps, and Infrastructure Monitoring. @ Infosys | Hyderabad, Telangana, India
+[2026-09-16 07:57:01]   Sent: [LinkedIn] DevOps & AWS Intern @ Creyente Infotech | Hyderabad, Telangana, India
+[2026-09-16 07:57:04]   Sent: [LinkedIn] HR - (Fresher) @ Intandemly | Hyderabad, Telangana, India
+[2026-09-16 07:57:07]   Sent: [LinkedIn] Front Office Associate @ Hyatt Place | Hyderabad, Telangana, India
+[2026-09-16 07:57:07] Done. Sent 13 new jobs. Total tracked: 571
+[2026-09-16 07:57:07] Single-run cycle complete. Exiting.
