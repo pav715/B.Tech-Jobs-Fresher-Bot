@@ -3629,3 +3629,22 @@
 [2026-09-17 15:11:23] Checking for new B.Tech fresher jobs from LinkedIn...
 [2026-09-17 15:17:42] No new jobs found. Total tracked: 582
 [2026-09-17 15:17:42] Single-run cycle complete. Exiting.
+[2026-09-18 07:33:25] ============================================================
+[2026-09-18 07:33:25]   B.Tech Jobs Fresher - Telegram Bot
+[2026-09-18 07:33:25]   TARGET: B.Tech Freshers | LOCATION: Hyderabad
+[2026-09-18 07:33:25]   CHECK INTERVAL: Every 10 minutes
+[2026-09-18 07:33:25] ============================================================
+[2026-09-18 07:33:25] Loaded 582 previously seen jobs.
+[2026-09-18 07:33:25] Window: sending jobs posted after 2026-09-17T15:11:23.982244
+[2026-09-18 07:33:25] Checking for new B.Tech fresher jobs from LinkedIn...
+[2026-09-18 07:39:06] Found 8 new jobs! Sending to Telegram...
+[2026-09-18 07:39:08]   Sent: [LinkedIn] Field Marketing Representative @ TrainingMug | Hyderabad, Telangana, India
+[2026-09-18 07:39:11]   Sent: [LinkedIn] Software Development Engineering in Test Associate @ The Depository Trust & Clearing Corporation (DTCC) | Hyderabad, Telangana, India
+[2026-09-18 07:39:14]   Sent: [LinkedIn] Electronics R&D Engineer – Embedded Systems @ Accendia Technologies Pvt. Ltd | Hyderabad, Telangana, India
+[2026-09-18 07:39:16]   Sent: [LinkedIn] Field Service Technician @ E-WENT Electric Vehicles | Hyderabad, Telangana, India
+[2026-09-18 07:39:19]   Sent: [LinkedIn] SENIOR EXECUTIVE - PLANT ENGINEERING - MECHANICAL - PATANCHERU @ Asian Paints | Hyderabad, Telangana, India
+[2026-09-18 07:39:22]   Sent: [LinkedIn] AI/ML Engineer-Python (Internship) @ SRS Consulting Inc | Hyderabad, Telangana, India
+[2026-09-18 07:39:25]   Sent: [LinkedIn] Frontend Intern @ OPUS BLOC | Hyderabad, Telangana, India
+[2026-09-18 07:39:27]   Sent: [LinkedIn] Data Centre Linux & HW Engineer, India, Data Center Operations @ Amazon Web Services (AWS) | Hyderabad, Telangana, India
+[2026-09-18 07:39:27] Done. Sent 8 new jobs. Total tracked: 590
+[2026-09-18 07:39:27] Single-run cycle complete. Exiting.
