@@ -3731,3 +3731,27 @@
 [2026-09-20 17:35:18] Checking for new B.Tech fresher jobs from LinkedIn...
 [2026-09-20 17:41:16] No new jobs found. Total tracked: 601
 [2026-09-20 17:41:16] Single-run cycle complete. Exiting.
+[2026-09-21 08:08:12] ============================================================
+[2026-09-21 08:08:12]   B.Tech Jobs Fresher - Telegram Bot
+[2026-09-21 08:08:12]   TARGET: B.Tech Freshers | LOCATION: Hyderabad
+[2026-09-21 08:08:12]   CHECK INTERVAL: Every 10 minutes
+[2026-09-21 08:08:12] ============================================================
+[2026-09-21 08:08:12] Loaded 601 previously seen jobs.
+[2026-09-21 08:08:12] Window: sending jobs posted after 2026-09-20T17:35:18.276881
+[2026-09-21 08:08:12] Checking for new B.Tech fresher jobs from LinkedIn...
+[2026-09-21 08:14:21] Found 13 new jobs! Sending to Telegram...
+[2026-09-21 08:14:24]   Sent: [LinkedIn] Packaging executive @ Esthetic Insights | Hyderabad, Telangana, India
+[2026-09-21 08:14:26]   Sent: [LinkedIn] Operations Associate @ ZUMI FOODS | Hyderabad, Telangana, India
+[2026-09-21 08:14:29]   Sent: [LinkedIn] Service Engineer @ Erekrut... Recruitment Made Easy | Hyderabad, Telangana, India
+[2026-09-21 08:14:32]   Sent: [LinkedIn] Talent Acquisition Associate @ AevumX Inc | Hyderabad, Telangana, India
+[2026-09-21 08:14:34]   Sent: [LinkedIn] Type Certification Engineer – UAV / Drones @ DROGO AEROSPACE | Hyderabad, Telangana, India
+[2026-09-21 08:14:37]   Sent: [LinkedIn] Mechanical Inspector @ Niyukti Systems, Inc | Hyderabad, Telangana, India
+[2026-09-21 08:14:40]   Sent: [LinkedIn] Design Coordinator @ Protonlogics IT Solutions | Hyderabad, Telangana, India
+[2026-09-21 08:14:43]   Sent: [LinkedIn] IT Developer - Data Engineer @ Medtronic | Hyderabad, Telangana, India
+[2026-09-21 08:14:45]   Sent: [LinkedIn] Data Scientist @ Minfy | Hyderabad, Telangana, India
+[2026-09-21 08:14:48]   Sent: [LinkedIn] Campus Ambassador @ Hari Cornucopia Tech private Limited | Hyderabad, Telangana, India
+[2026-09-21 08:14:51]   Sent: [LinkedIn] Associate @ We Connect | Hyderabad, Telangana, India
+[2026-09-21 08:14:53]   Sent: [LinkedIn] BeyondTrust @ Tata Consultancy Services | Hyderabad, Telangana, India
+[2026-09-21 08:14:56]   Sent: [LinkedIn] Food And Beverage Assistant @ Roastery Coffee House | Hyderabad, Telangana, India
+[2026-09-21 08:14:56] Done. Sent 13 new jobs. Total tracked: 614
+[2026-09-21 08:14:56] Single-run cycle complete. Exiting.
