@@ -3765,3 +3765,23 @@
 [2026-09-21 16:32:38] Checking for new B.Tech fresher jobs from LinkedIn...
 [2026-09-21 16:39:43] No new jobs found. Total tracked: 614
 [2026-09-21 16:39:43] Single-run cycle complete. Exiting.
+[2026-09-22 07:53:19] ============================================================
+[2026-09-22 07:53:19]   B.Tech Jobs Fresher - Telegram Bot
+[2026-09-22 07:53:19]   TARGET: B.Tech Freshers | LOCATION: Hyderabad
+[2026-09-22 07:53:19]   CHECK INTERVAL: Every 10 minutes
+[2026-09-22 07:53:19] ============================================================
+[2026-09-22 07:53:19] Loaded 614 previously seen jobs.
+[2026-09-22 07:53:19] Window: sending jobs posted after 2026-09-21T16:32:38.794533
+[2026-09-22 07:53:19] Checking for new B.Tech fresher jobs from LinkedIn...
+[2026-09-22 07:58:56] Found 9 new jobs! Sending to Telegram...
+[2026-09-22 07:58:59]   Sent: [LinkedIn] Junior Video Editor @ NA | Hyderabad, Telangana, India
+[2026-09-22 07:59:02]   Sent: [LinkedIn] IT Technician @ IntouchCX | Hyderabad, Telangana, India
+[2026-09-22 07:59:05]   Sent: [LinkedIn] Associate Specialist - Data Science @ MSD | Hyderabad, Telangana, India
+[2026-09-22 07:59:07]   Sent: [LinkedIn] Jr Cloud Engineer @ Brillius Technologies | Hyderabad, Telangana, India
+[2026-09-22 07:59:10]   Sent: [LinkedIn] Printed Circuit Board Design Engineer @ SkyVector Technologies | Hyderabad, Telangana, India
+[2026-09-22 07:59:12]   Sent: [LinkedIn] ERPNext Frappe Developer (2+ years) @ Navtech | Hyderabad, Telangana, India
+[2026-09-22 07:59:15]   Sent: [LinkedIn] Australia Tax Technology services – Consultant - Data Automation - Python & SQL @ Deloitte | Hyderabad, Telangana, India
+[2026-09-22 07:59:18]   Sent: [LinkedIn] Graphic Designer @ UIACC | United Indo American Chambers of Commerce | Hyderabad, Telangana, India
+[2026-09-22 07:59:21]   Sent: [LinkedIn] Graphic Designer / Video editor @ Studio318 India | Hyderabad, Telangana, India
+[2026-09-22 07:59:21] Done. Sent 9 new jobs. Total tracked: 623
+[2026-09-22 07:59:21] Single-run cycle complete. Exiting.
