@@ -3852,3 +3852,35 @@
 [2026-09-24 15:24:24] Checking for new B.Tech fresher jobs from LinkedIn...
 [2026-09-24 15:30:28] No new jobs found. Total tracked: 638
 [2026-09-24 15:30:28] Single-run cycle complete. Exiting.
+[2026-09-25 08:05:43] ============================================================
+[2026-09-25 08:05:43]   B.Tech Jobs Fresher - Telegram Bot
+[2026-09-25 08:05:43]   TARGET: B.Tech Freshers | LOCATION: Hyderabad
+[2026-09-25 08:05:43]   CHECK INTERVAL: Every 10 minutes
+[2026-09-25 08:05:43] ============================================================
+[2026-09-25 08:05:43] Loaded 638 previously seen jobs.
+[2026-09-25 08:05:43] Window: sending jobs posted after 2026-09-24T15:24:24.545168
+[2026-09-25 08:05:43] Checking for new B.Tech fresher jobs from LinkedIn...
+[2026-09-25 08:11:29] Found 21 new jobs! Sending to Telegram...
+[2026-09-25 08:11:31]   Sent: [LinkedIn] Customer Support Specialist @ Live Connections | Hyderabad, Telangana, India
+[2026-09-25 08:11:34]   Sent: [LinkedIn] Business Advisory New Associate @ Accenture in India | Hyderabad, Telangana, India
+[2026-09-25 08:11:37]   Sent: [LinkedIn] Customer Service New Associate @ Accenture in India | Hyderabad, Telangana, India
+[2026-09-25 08:11:40]   Sent: [LinkedIn] Architect in Hyderabad @ Deccan Auto | Hyderabad, Telangana, India
+[2026-09-25 08:11:42]   Sent: [LinkedIn] Associate Managed Services Information Security Analyst @ NTT DATA, Inc. | Greater Hyderabad Area
+[2026-09-25 08:11:45]   Sent: [LinkedIn] Open AI Certified Fresher-AI/GEN AI @ Innomax IT Solutions | Hyderabad, Telangana, India
+[2026-09-25 08:11:48]   Sent: [LinkedIn] Performance Marketer @ WebAnatomy | Hyderabad, Telangana, India
+[2026-09-25 08:11:51]   Sent: [LinkedIn] AI/ML Computational Science Associate @ Accenture in India | Hyderabad, Telangana, India
+[2026-09-25 08:11:53]   Sent: [LinkedIn] Business Advisory New Associate @ Accenture in India | Hyderabad, Telangana, India
+[2026-09-25 08:11:56]   Sent: [LinkedIn] Mechanical Engineer @ Azista Space | Hyderabad, Telangana, India
+[2026-09-25 08:11:59]   Sent: [LinkedIn] IT Customer Service New Associate @ Accenture in India | Hyderabad, Telangana, India
+[2026-09-25 08:12:02]   Sent: [LinkedIn] S&C Global Network - AI - Software & Platform - Gen AI - Analyst @ Accenture in India | Hyderabad, Telangana, India
+[2026-09-25 08:12:05]   Sent: [LinkedIn] Business Intelligence Analyst_97046 @ MyCareernet | Hyderabad, Telangana, India
+[2026-09-25 08:12:08]   Sent: [LinkedIn] Business Advisory Analyst @ Accenture in India | Hyderabad, Telangana, India
+[2026-09-25 08:12:11]   Sent: [LinkedIn] Network & Svcs Operation Analyst @ Accenture in India | Hyderabad, Telangana, India
+[2026-09-25 08:12:14]   Sent: [LinkedIn] Android Framework Developer @ Tata Consultancy Services | Greater Hyderabad Area
+[2026-09-25 08:12:16]   Sent: [LinkedIn] App Automation Eng Analyst @ Accenture in India | Hyderabad, Telangana, India
+[2026-09-25 08:12:19]   Sent: [LinkedIn] DevOps Engineer @ Talentgigs | Hyderabad, Telangana, India
+[2026-09-25 08:12:22]   Sent: [LinkedIn] Business Advisory New Associate @ Accenture in India | Hyderabad, Telangana, India
+[2026-09-25 08:12:25]   Sent: [LinkedIn] Cloud Operations Analyst @ Matillion | Hyderabad, Telangana, India
+[2026-09-25 08:12:32]   Sent: [LinkedIn] Engineering Associate @ Le Méridien Hotels & Resorts | Hyderabad, Telangana, India
+[2026-09-25 08:12:32] Done. Sent 21 new jobs. Total tracked: 657
+[2026-09-25 08:12:32] Single-run cycle complete. Exiting.
