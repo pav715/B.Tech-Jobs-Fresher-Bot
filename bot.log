@@ -3894,3 +3894,24 @@
 [2026-09-25 15:26:42] Checking for new B.Tech fresher jobs from LinkedIn...
 [2026-09-25 15:33:00] No new jobs found. Total tracked: 657
 [2026-09-25 15:33:00] Single-run cycle complete. Exiting.
+[2026-09-26 07:56:35] ============================================================
+[2026-09-26 07:56:35]   B.Tech Jobs Fresher - Telegram Bot
+[2026-09-26 07:56:35]   TARGET: B.Tech Freshers | LOCATION: Hyderabad
+[2026-09-26 07:56:35]   CHECK INTERVAL: Every 10 minutes
+[2026-09-26 07:56:35] ============================================================
+[2026-09-26 07:56:35] Loaded 657 previously seen jobs.
+[2026-09-26 07:56:35] Window: sending jobs posted after 2026-09-25T15:26:42.920050
+[2026-09-26 07:56:35] Checking for new B.Tech fresher jobs from LinkedIn...
+[2026-09-26 08:02:29] Found 10 new jobs! Sending to Telegram...
+[2026-09-26 08:02:32]   Sent: [LinkedIn] Clinical Research Associate (Freshers Only) @ ClinoGenesis Research Institute | Hyderabad, Telangana, India
+[2026-09-26 08:02:34]   Sent: [LinkedIn] Junior Interior Designer @ MK design studios | Hyderabad, Telangana, India
+[2026-09-26 08:02:37]   Sent: [LinkedIn] Hiring Interns in Software Development @ K-HUB INDIA | Hyderabad, Telangana, India
+[2026-09-26 08:02:40]   Sent: [LinkedIn] Site Engineer (Hyderabad location) @ Confidential | Hyderabad, Telangana, India
+[2026-09-26 08:02:43]   Sent: [LinkedIn] 3D Printing Intern (Diploma) @ Garuda3D | Hyderabad, Telangana, India
+[2026-09-26 08:02:46]   Sent: [LinkedIn] Civil In-Charge @ Vidur Human Care Pvt Ltd | Greater Hyderabad Area
+[2026-09-26 08:02:49]   Sent: [LinkedIn] Software Development Engineer II - FinTech, FinTech @ Amazon | Hyderabad, Telangana, India
+[2026-09-26 08:02:52]   Sent: [LinkedIn] Analyst Tender Data Management @ Hirly | Hyderabad, Telangana, India
+[2026-09-26 08:02:54]   Sent: [LinkedIn] TEST ARCHITECT L1 @ Wipro | Hyderabad, Telangana, India
+[2026-09-26 08:02:57]   Sent: [LinkedIn] Front Office Executive & Admin @ Siate Felici School | Hyderabad, Telangana, India
+[2026-09-26 08:02:57] Done. Sent 10 new jobs. Total tracked: 667
+[2026-09-26 08:02:57] Single-run cycle complete. Exiting.
