@@ -3925,3 +3925,19 @@
 [2026-09-26 14:39:21] Checking for new B.Tech fresher jobs from LinkedIn...
 [2026-09-26 14:43:44] No new jobs found. Total tracked: 667
 [2026-09-26 14:43:44] Single-run cycle complete. Exiting.
+[2026-09-27 08:28:18] ============================================================
+[2026-09-27 08:28:18]   B.Tech Jobs Fresher - Telegram Bot
+[2026-09-27 08:28:18]   TARGET: B.Tech Freshers | LOCATION: Hyderabad
+[2026-09-27 08:28:18]   CHECK INTERVAL: Every 10 minutes
+[2026-09-27 08:28:18] ============================================================
+[2026-09-27 08:28:18] Loaded 667 previously seen jobs.
+[2026-09-27 08:28:18] Window: sending jobs posted after 2026-09-26T14:39:21.224298
+[2026-09-27 08:28:18] Checking for new B.Tech fresher jobs from LinkedIn...
+[2026-09-27 08:33:49] Found 5 new jobs! Sending to Telegram...
+[2026-09-27 08:33:51]   Sent: [LinkedIn] Junior Interior Designer @ BSS MARS INTERIORS PRIVATE LIMITED | Hyderabad, Telangana, India
+[2026-09-27 08:33:54]   Sent: [LinkedIn] Opening for Biomedical Engineer and Biotechnology Engineer @ Achievers Spot | Hyderabad, Telangana, India
+[2026-09-27 08:33:57]   Sent: [LinkedIn] ADMINISTRATOR L1 @ Wipro | Hyderabad, Telangana, India
+[2026-09-27 08:34:00]   Sent: [LinkedIn] Quality Engineer @ Niyukti Systems, Inc | Hyderabad, Telangana, India
+[2026-09-27 08:34:03]   Sent: [LinkedIn] Executive / Senior Executive @ ALS | Hyderabad, Telangana, India
+[2026-09-27 08:34:03] Done. Sent 5 new jobs. Total tracked: 672
+[2026-09-27 08:34:03] Single-run cycle complete. Exiting.
