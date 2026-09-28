@@ -3984,3 +3984,13 @@
 [2026-09-28 09:00:01]   Sent: [LinkedIn] Talent Acquisition Specialist I @ Meazure Learning | Greater Hyderabad Area
 [2026-09-28 09:00:01] Done. Sent 22 new jobs. Total tracked: 693
 [2026-09-28 09:00:01] Single-run cycle complete. Exiting.
+[2026-09-28 18:13:47] ============================================================
+[2026-09-28 18:13:47]   B.Tech Jobs Fresher - Telegram Bot
+[2026-09-28 18:13:47]   TARGET: B.Tech Freshers | LOCATION: Hyderabad
+[2026-09-28 18:13:47]   CHECK INTERVAL: Every 10 minutes
+[2026-09-28 18:13:47] ============================================================
+[2026-09-28 18:13:47] Loaded 693 previously seen jobs.
+[2026-09-28 18:13:47] Window: sending jobs posted after 2026-09-28T08:53:11.919604
+[2026-09-28 18:13:47] Checking for new B.Tech fresher jobs from LinkedIn...
+[2026-09-28 18:20:21] No new jobs found. Total tracked: 693
+[2026-09-28 18:20:21] Single-run cycle complete. Exiting.
