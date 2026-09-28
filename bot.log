@@ -3951,3 +3951,36 @@
 [2026-09-27 15:13:55] Checking for new B.Tech fresher jobs from LinkedIn...
 [2026-09-27 15:19:27] No new jobs found. Total tracked: 672
 [2026-09-27 15:19:27] Single-run cycle complete. Exiting.
+[2026-09-28 08:53:11] ============================================================
+[2026-09-28 08:53:11]   B.Tech Jobs Fresher - Telegram Bot
+[2026-09-28 08:53:11]   TARGET: B.Tech Freshers | LOCATION: Hyderabad
+[2026-09-28 08:53:11]   CHECK INTERVAL: Every 10 minutes
+[2026-09-28 08:53:11] ============================================================
+[2026-09-28 08:53:11] Loaded 672 previously seen jobs.
+[2026-09-28 08:53:11] Window: sending jobs posted after 2026-09-27T15:13:55.292315
+[2026-09-28 08:53:11] Checking for new B.Tech fresher jobs from LinkedIn...
+[2026-09-28 08:58:54] Found 22 new jobs! Sending to Telegram...
+[2026-09-28 08:58:58]   Sent: [LinkedIn] Software Engineer: C#/.NET & Image Processing @ Analinear | Hyderabad, Telangana, India
+[2026-09-28 08:59:01]   Sent: [LinkedIn] Business Development Executive @ Frontlines EduTech (FLM) | Hyderabad, Telangana, India
+[2026-09-28 08:59:03]   Sent: [LinkedIn] Jr. Desktop Support Engineer @ Meazure Learning | Greater Hyderabad Area
+[2026-09-28 08:59:06]   Sent: [LinkedIn] Ac charger installation electrical technician @ LITZ EV | Hyderabad, Telangana, India
+[2026-09-28 08:59:09]   Sent: [LinkedIn] Agri Advisor @ Katyayani Organics | Hyderabad, Telangana, India
+[2026-09-28 08:59:12]   Sent: [LinkedIn] Application Developer-Real Estate & Facilities @ IBM | Hyderabad, Telangana, India
+[2026-09-28 08:59:15]   Sent: [LinkedIn] Technical Supervisor @ AG Elevators | Hyderabad, Telangana, India
+[2026-09-28 08:59:18]   Sent: [LinkedIn] Data Science Associate @ The Depository Trust & Clearing Corporation (DTCC) | Hyderabad, Telangana, India
+[2026-09-28 08:59:20]   Sent: [LinkedIn] Motor / Electromagnetic Design Engineer @ SkyVector Technologies | Hyderabad, Telangana, India
+[2026-09-28 08:59:23]   Sent: [LinkedIn] Security Analyst @ SHI Solutions India Pvt. Ltd. | Hyderabad, Telangana, India
+[2026-09-28 08:59:26]   Sent: [LinkedIn] Application Developer-Real Estate & Facilities @ IBM | Hyderabad, Telangana, India
+[2026-09-28 08:59:29]   Sent: [LinkedIn] Business Analyst @ INTELLECT INFORMATICS PRIVATE LIMITED | Hyderabad, Telangana, India
+[2026-09-28 08:59:32]   Sent: [LinkedIn] CATIA V5 Design Engineers @ Cyient | Greater Hyderabad Area
+[2026-09-28 08:59:35]   Sent: [LinkedIn] CAD Design Engineer, Mechanical & Code-First Reverse Engineering @ SoftAge Information Technology Limited | Hyderabad, Telangana, India
+[2026-09-28 08:59:38]   Sent: [LinkedIn] Applied AI Engineer Intern @ Brainwave Nextgen Technologies | Hyderabad, Telangana, India
+[2026-09-28 08:59:41]   Sent: [LinkedIn] Tech Lead @ Sutherland | Hyderabad, Telangana, India
+[2026-09-28 08:59:43]   Sent: [LinkedIn] AI-Accelerated Product Development - React/Tyscript @ Y&L Consulting, Inc. | Hyderabad, Telangana, India
+[2026-09-28 08:59:46]   Sent: [LinkedIn] Analyst, Network Operations @ ICE | Hyderabad, Telangana, India
+[2026-09-28 08:59:49]   Sent: [LinkedIn] Entra ID | 4 to 8 years | Hyderabad @ Wipro | Hyderabad, Telangana, India
+[2026-09-28 08:59:52]   Sent: [LinkedIn] Software Development Engineer in Test (SDET) — AI-Enabled Quality Infrastructure @ SS&C Technologies | Hyderabad, Telangana, India
+[2026-09-28 08:59:58]   Sent: [LinkedIn] Java Full Stack Developer (ReactJS, AWS, Kubernetes) @ Tata Consultancy Services | Greater Hyderabad Area
+[2026-09-28 09:00:01]   Sent: [LinkedIn] Talent Acquisition Specialist I @ Meazure Learning | Greater Hyderabad Area
+[2026-09-28 09:00:01] Done. Sent 22 new jobs. Total tracked: 693
+[2026-09-28 09:00:01] Single-run cycle complete. Exiting.
