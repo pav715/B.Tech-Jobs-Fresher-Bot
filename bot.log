@@ -4027,3 +4027,25 @@
 [2026-09-29 16:35:35] Checking for new B.Tech fresher jobs from LinkedIn...
 [2026-09-29 16:41:18] No new jobs found. Total tracked: 705
 [2026-09-29 16:41:18] Single-run cycle complete. Exiting.
+[2026-09-30 08:53:40] ============================================================
+[2026-09-30 08:53:40]   B.Tech Jobs Fresher - Telegram Bot
+[2026-09-30 08:53:40]   TARGET: B.Tech Freshers | LOCATION: Hyderabad
+[2026-09-30 08:53:40]   CHECK INTERVAL: Every 10 minutes
+[2026-09-30 08:53:40] ============================================================
+[2026-09-30 08:53:40] Loaded 705 previously seen jobs.
+[2026-09-30 08:53:40] Window: sending jobs posted after 2026-09-29T16:35:35.432794
+[2026-09-30 08:53:40] Checking for new B.Tech fresher jobs from LinkedIn...
+[2026-09-30 08:59:02] Found 11 new jobs! Sending to Telegram...
+[2026-09-30 08:59:05]   Sent: [LinkedIn] Senior Civil Structural Engineer @ MVR infra projects pvt.ltd | Hyderabad, Telangana, India
+[2026-09-30 08:59:08]   Sent: [LinkedIn] Billing and Quantity Surveying engineer @ DPR Infra Projects Private Limited | Hyderabad, Telangana, India
+[2026-09-30 08:59:11]   Sent: [LinkedIn] React.js Developer @ Infosys | Hyderabad, Telangana, India
+[2026-09-30 08:59:13]   Sent: [LinkedIn] Azure ML @ Tata Consultancy Services | Hyderabad, Telangana, India
+[2026-09-30 08:59:16]   Sent: [LinkedIn] PDE II - Backend @ Phenom | Hyderabad, Telangana, India
+[2026-09-30 08:59:19]   Sent: [LinkedIn] Java Fullstack Developer @ Viraaj HR Solutions Private Limited | Hyderabad, Telangana, India
+[2026-09-30 08:59:22]   Sent: [LinkedIn] Software Engineer II - React JS, JavaScript/TypeScript, HTML5 & CSS3 @ Blue Yonder | Greater Hyderabad Area
+[2026-09-30 08:59:24]   Sent: [LinkedIn] Software Engineer II - React JS, JavaScript/TypeScript, HTML5 & CSS3 @ Blue Yonder | Hyderabad, Telangana, India
+[2026-09-30 08:59:27]   Sent: [LinkedIn] Quantum Network Engineer @ Quinfosys | Hyderabad, Telangana, India
+[2026-09-30 08:59:30]   Sent: [LinkedIn] Business Advisory Associate @ Accenture in India | Hyderabad, Telangana, India
+[2026-09-30 08:59:33]   Sent: [LinkedIn] Quality Assurance Engineer - Automation Testing @ Scoutit | Hyderabad, Telangana, India
+[2026-09-30 08:59:33] Done. Sent 11 new jobs. Total tracked: 715
+[2026-09-30 08:59:33] Single-run cycle complete. Exiting.
