@@ -4059,3 +4059,24 @@
 [2026-09-30 16:28:27] Checking for new B.Tech fresher jobs from LinkedIn...
 [2026-09-30 16:34:31] No new jobs found. Total tracked: 715
 [2026-09-30 16:34:31] Single-run cycle complete. Exiting.
+[2026-10-01 09:17:41] ============================================================
+[2026-10-01 09:17:41]   B.Tech Jobs Fresher - Telegram Bot
+[2026-10-01 09:17:41]   TARGET: B.Tech Freshers | LOCATION: Hyderabad
+[2026-10-01 09:17:41]   CHECK INTERVAL: Every 10 minutes
+[2026-10-01 09:17:41] ============================================================
+[2026-10-01 09:17:41] Loaded 715 previously seen jobs.
+[2026-10-01 09:17:41] Window: sending jobs posted after 2026-09-30T16:28:27.281591
+[2026-10-01 09:17:41] Checking for new B.Tech fresher jobs from LinkedIn...
+[2026-10-01 09:23:33] Found 10 new jobs! Sending to Telegram...
+[2026-10-01 09:23:35]   Sent: [LinkedIn] Marketing Executive @ Talent & Sales Consulting | Hyderabad, Telangana, India
+[2026-10-01 09:23:38]   Sent: [LinkedIn] FPGA VERIFICATION INTERN @ Eon Space Labs | Hyderabad, Telangana, India
+[2026-10-01 09:23:41]   Sent: [LinkedIn] Robotics Prototyping Intern @ Rikruit | Hyderabad, Telangana, India
+[2026-10-01 09:23:44]   Sent: [LinkedIn] Engineer, IT EA DHI @ Micron Technology | Hyderabad, Telangana, India
+[2026-10-01 09:23:47]   Sent: [LinkedIn] Apprentice @ S&P Global | Hyderabad, Telangana, India
+[2026-10-01 09:23:49]   Sent: [LinkedIn] Cloud Engineer @ Argano | Hyderabad, Telangana, India
+[2026-10-01 09:23:52]   Sent: [LinkedIn] Software Development Engineer in Test @ The Depository Trust & Clearing Corporation (DTCC) | Hyderabad, Telangana, India
+[2026-10-01 09:23:55]   Sent: [LinkedIn] IT Delivery @ Infosys | Hyderabad, Telangana, India
+[2026-10-01 09:23:58]   Sent: [LinkedIn] Fresher (Bench Sales Recruiter) @ Niktor Inc | Hyderabad, Telangana, India
+[2026-10-01 09:24:00]   Sent: [LinkedIn] Workforce Development Specialist, TPG Onboarding @ Micron Technology | Hyderabad, Telangana, India
+[2026-10-01 09:24:00] Done. Sent 10 new jobs. Total tracked: 725
+[2026-10-01 09:24:00] Single-run cycle complete. Exiting.
