@@ -4149,3 +4149,20 @@
 [2026-10-03 14:48:29] Checking for new B.Tech fresher jobs from LinkedIn...
 [2026-10-03 14:52:52] No new jobs found. Total tracked: 742
 [2026-10-03 14:52:52] Single-run cycle complete. Exiting.
+[2026-10-04 08:40:01] ============================================================
+[2026-10-04 08:40:01]   B.Tech Jobs Fresher - Telegram Bot
+[2026-10-04 08:40:01]   TARGET: B.Tech Freshers | LOCATION: Hyderabad
+[2026-10-04 08:40:01]   CHECK INTERVAL: Every 10 minutes
+[2026-10-04 08:40:01] ============================================================
+[2026-10-04 08:40:01] Loaded 742 previously seen jobs.
+[2026-10-04 08:40:01] Window: sending jobs posted after 2026-10-03T14:48:29.740612
+[2026-10-04 08:40:01] Checking for new B.Tech fresher jobs from LinkedIn...
+[2026-10-04 08:45:43] Found 6 new jobs! Sending to Telegram...
+[2026-10-04 08:45:46]   Sent: [LinkedIn] Articled Assistant @ SKVG | Hyderabad, Telangana, India
+[2026-10-04 08:45:49]   Sent: [LinkedIn] CYBER SECURITY ANALYST L1 @ Wipro | Hyderabad, Telangana, India
+[2026-10-04 08:45:51]   Sent: [LinkedIn] Electronics Engineer, Hardware Prototype (Contract to Full-time) @ Alvo | Hyderabad, Telangana, India
+[2026-10-04 08:45:54]   Sent: [LinkedIn] Design Engineer @ Qualpro aluminium | Hyderabad, Telangana, India
+[2026-10-04 08:45:57]   Sent: [LinkedIn] sound technologies @ Raj Shiva Foundations | Hyderabad, Telangana, India
+[2026-10-04 08:46:00]   Sent: [LinkedIn] HR Recruiter @ Hawk Sense Business Solutions Pvt Ltd (formerly known as Hawk Sense Security Systems Pvt Ltd) | Hyderabad, Telangana, India
+[2026-10-04 08:46:00] Done. Sent 6 new jobs. Total tracked: 748
+[2026-10-04 08:46:00] Single-run cycle complete. Exiting.
