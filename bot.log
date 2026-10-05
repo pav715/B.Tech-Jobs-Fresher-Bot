@@ -4176,3 +4176,34 @@
 [2026-10-04 15:27:46] Checking for new B.Tech fresher jobs from LinkedIn...
 [2026-10-04 15:33:35] No new jobs found. Total tracked: 748
 [2026-10-04 15:33:35] Single-run cycle complete. Exiting.
+[2026-10-05 09:30:11] ============================================================
+[2026-10-05 09:30:11]   B.Tech Jobs Fresher - Telegram Bot
+[2026-10-05 09:30:11]   TARGET: B.Tech Freshers | LOCATION: Hyderabad
+[2026-10-05 09:30:11]   CHECK INTERVAL: Every 10 minutes
+[2026-10-05 09:30:11] ============================================================
+[2026-10-05 09:30:11] Loaded 748 previously seen jobs.
+[2026-10-05 09:30:11] Window: sending jobs posted after 2026-10-04T15:27:46.367822
+[2026-10-05 09:30:11] Checking for new B.Tech fresher jobs from LinkedIn...
+[2026-10-05 09:35:49] Found 20 new jobs! Sending to Telegram...
+[2026-10-05 09:35:51]   Sent: [LinkedIn] Sales And Marketing Specialist @ PW (PhysicsWallah) | Greater Hyderabad Area
+[2026-10-05 09:35:54]   Sent: [LinkedIn] Business Development Executive @ Hire22.ai | Hyderabad, Telangana, India
+[2026-10-05 09:35:57]   Sent: [LinkedIn] Furniture Designer @ Indie Living | Hyderabad, Telangana, India
+[2026-10-05 09:35:59]   Sent: [LinkedIn] Associate Materials Engineer @ AST SpaceMobile | Hyderabad, Telangana, India
+[2026-10-05 09:36:02]   Sent: [LinkedIn] Oracle Developer - API & REST Services @ Enigen | Hyderabad, Telangana, India
+[2026-10-05 09:36:04]   Sent: [LinkedIn] R-D Engineer II @ Medtronic | Hyderabad, Telangana, India
+[2026-10-05 09:36:07]   Sent: [LinkedIn] Manufacturing FE Analyst @ AST SpaceMobile | Hyderabad, Telangana, India
+[2026-10-05 09:36:09]   Sent: [LinkedIn] Senior Mechanical Engineer - Precision Design @ Hummingbird Scientific | Hyderabad, Telangana, India
+[2026-10-05 09:36:12]   Sent: [LinkedIn] Manager I, Maintenance @ Regal Rexnord | Hyderabad, Telangana, India
+[2026-10-05 09:36:15]   Sent: [LinkedIn] Full Stack UI/UX Developer @ LPL Financial Global Capability Center | Greater Hyderabad Area
+[2026-10-05 09:36:18]   Sent: [LinkedIn] Cloud FinOps Engineer @ Brio Technologies | Hyderabad, Telangana, India
+[2026-10-05 09:36:21]   Sent: [LinkedIn] Networking and Infra(Terraform OR Ansible) AND (Python OR powershell script) @ UST | Hyderabad, Telangana, India
+[2026-10-05 09:36:23]   Sent: [LinkedIn] Senior Design Verification Engineer @ SysTechCorp Inc | Hyderabad, Telangana, India
+[2026-10-05 09:36:26]   Sent: [LinkedIn] ETL Tester(SQL & Cloud) @ Unisys | Hyderabad, Telangana, India
+[2026-10-05 09:36:29]   Sent: [LinkedIn] AI Software Engineer Intern @ Electronic Arts (EA) | Hyderabad, Telangana, India
+[2026-10-05 09:36:31]   Sent: [LinkedIn] Red-Hat OpenShift Admin @ Wipro | Hyderabad, Telangana, India
+[2026-10-05 09:36:34]   Sent: [LinkedIn] Front Desk Executive @ Nextenti Tech Private Limited | Hyderabad, Telangana, India
+[2026-10-05 09:36:37]   Sent: [LinkedIn] Human Resources Executive @ Krishna Jewellers Pearls and Gems Private Limited | Hyderabad, Telangana, India
+[2026-10-05 09:36:39]   Sent: [LinkedIn] Front Desk Representative @ FABEX Steel Structures | Greater Hyderabad Area
+[2026-10-05 09:36:42]   Sent: [LinkedIn] IAM Analyst @ Kyndryl | Hyderabad, Telangana, India
+[2026-10-05 09:36:42] Done. Sent 20 new jobs. Total tracked: 768
+[2026-10-05 09:36:42] Single-run cycle complete. Exiting.
