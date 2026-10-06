@@ -4237,3 +4237,13 @@
 [2026-10-06 09:22:14]   Sent: [LinkedIn] RPA-Kofax @ BCforward | Hyderabad, Telangana, India
 [2026-10-06 09:22:14] Done. Sent 19 new jobs. Total tracked: 787
 [2026-10-06 09:22:14] Single-run cycle complete. Exiting.
+[2026-10-06 16:53:23] ============================================================
+[2026-10-06 16:53:23]   B.Tech Jobs Fresher - Telegram Bot
+[2026-10-06 16:53:23]   TARGET: B.Tech Freshers | LOCATION: Hyderabad
+[2026-10-06 16:53:23]   CHECK INTERVAL: Every 10 minutes
+[2026-10-06 16:53:23] ============================================================
+[2026-10-06 16:53:23] Loaded 787 previously seen jobs.
+[2026-10-06 16:53:23] Window: sending jobs posted after 2026-10-06T09:15:39.477431
+[2026-10-06 16:53:23] Checking for new B.Tech fresher jobs from LinkedIn...
+[2026-10-06 16:59:35] No new jobs found. Total tracked: 787
+[2026-10-06 16:59:35] Single-run cycle complete. Exiting.
