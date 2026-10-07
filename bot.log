@@ -4247,3 +4247,31 @@
 [2026-10-06 16:53:23] Checking for new B.Tech fresher jobs from LinkedIn...
 [2026-10-06 16:59:35] No new jobs found. Total tracked: 787
 [2026-10-06 16:59:35] Single-run cycle complete. Exiting.
+[2026-10-07 09:05:33] ============================================================
+[2026-10-07 09:05:33]   B.Tech Jobs Fresher - Telegram Bot
+[2026-10-07 09:05:33]   TARGET: B.Tech Freshers | LOCATION: Hyderabad
+[2026-10-07 09:05:33]   CHECK INTERVAL: Every 10 minutes
+[2026-10-07 09:05:33] ============================================================
+[2026-10-07 09:05:33] Loaded 787 previously seen jobs.
+[2026-10-07 09:05:33] Window: sending jobs posted after 2026-10-06T16:53:23.609244
+[2026-10-07 09:05:33] Checking for new B.Tech fresher jobs from LinkedIn...
+[2026-10-07 09:11:19] Found 17 new jobs! Sending to Telegram...
+[2026-10-07 09:11:21]   Sent: [LinkedIn] Editor @ Image mist | Hyderabad, Telangana, India
+[2026-10-07 09:11:24]   Sent: [LinkedIn] Trainee Engineer @ Black Box | Hyderabad, Telangana, India
+[2026-10-07 09:11:27]   Sent: [LinkedIn] Design Engineer @ Micron Technology | Hyderabad, Telangana, India
+[2026-10-07 09:11:30]   Sent: [LinkedIn] MEP / BOQ / DESIGN COORDINATION @ Vaishnavi Infracon | Hyderabad, Telangana, India
+[2026-10-07 09:11:32]   Sent: [LinkedIn] Desktop EUC L1 @ Iron Systems, Inc | Hyderabad, Telangana, India
+[2026-10-07 09:11:35]   Sent: [LinkedIn] MEP Coordinator @ 77 decor | Hyderabad, Telangana, India
+[2026-10-07 09:11:38]   Sent: [LinkedIn] Designs Engineer @ Alghanim Industries | Hyderabad, Telangana, India
+[2026-10-07 09:11:41]   Sent: [LinkedIn] Design Engineer @ Alghanim Industries | Hyderabad, Telangana, India
+[2026-10-07 09:11:44]   Sent: [LinkedIn] Agentic AI Engineer @ Rimini Street | Hyderabad, Telangana, India
+[2026-10-07 09:11:47]   Sent: [LinkedIn] Associate Data Scientist @ Amgen | Hyderabad, Telangana, India
+[2026-10-07 09:11:49]   Sent: [LinkedIn] SR ENGINEER, Design Verification @ Micron Technology | Hyderabad, Telangana, India
+[2026-10-07 09:11:52]   Sent: [LinkedIn] Quality Engineer-Packages @ IBM | Hyderabad, Telangana, India
+[2026-10-07 09:11:55]   Sent: [LinkedIn] Quality Engineer-Packages @ IBM | Hyderabad, Telangana, India
+[2026-10-07 09:11:58]   Sent: [LinkedIn] Observability Engineer @ Rimini Street | Hyderabad, Telangana, India
+[2026-10-07 09:12:00]   Sent: [LinkedIn] FBS Application Test Spec IV @ Capgemini | Hyderabad, Telangana, India
+[2026-10-07 09:12:03]   Sent: [LinkedIn] Kitchen Stewarding Team Member @ Mahindra University || Centre for Life Sciences | Hyderabad, Telangana, India
+[2026-10-07 09:12:06]   Sent: [LinkedIn] Female HR & Video Content Representative @ Core Edge Academy | Hyderabad, Telangana, India
+[2026-10-07 09:12:06] Done. Sent 17 new jobs. Total tracked: 803
+[2026-10-07 09:12:06] Single-run cycle complete. Exiting.
