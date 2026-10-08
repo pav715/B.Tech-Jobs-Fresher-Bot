@@ -4285,3 +4285,32 @@
 [2026-10-07 17:30:03] Checking for new B.Tech fresher jobs from LinkedIn...
 [2026-10-07 17:36:03] No new jobs found. Total tracked: 803
 [2026-10-07 17:36:03] Single-run cycle complete. Exiting.
+[2026-10-08 09:20:24] ============================================================
+[2026-10-08 09:20:24]   B.Tech Jobs Fresher - Telegram Bot
+[2026-10-08 09:20:24]   TARGET: B.Tech Freshers | LOCATION: Hyderabad
+[2026-10-08 09:20:24]   CHECK INTERVAL: Every 10 minutes
+[2026-10-08 09:20:24] ============================================================
+[2026-10-08 09:20:24] Loaded 803 previously seen jobs.
+[2026-10-08 09:20:24] Window: sending jobs posted after 2026-10-07T17:30:03.335027
+[2026-10-08 09:20:24] Checking for new B.Tech fresher jobs from LinkedIn...
+[2026-10-08 09:26:16] Found 18 new jobs! Sending to Telegram...
+[2026-10-08 09:26:18]   Sent: [LinkedIn] Quality Engineer – High Voltage Products @ CVOLT TRANSMISSION AND DISTRIBUTION SYSTEMS PVT LTD | Hyderabad, Telangana, India
+[2026-10-08 09:26:21]   Sent: [LinkedIn] Hardware Engineer @ CENTOTECH SERVICES PRIVATE LIMITED | Hyderabad, Telangana, India
+[2026-10-08 09:26:24]   Sent: [LinkedIn] Engineer, HIG HBM LAYOUT @ Micron Technology | Hyderabad, Telangana, India
+[2026-10-08 09:26:26]   Sent: [LinkedIn] Guidance, Navigation & Control (GNC) Engineer @ Zen Technologies Limited | Hyderabad, Telangana, India
+[2026-10-08 09:26:29]   Sent: [LinkedIn] Application Developer-Salesforce @ IBM | Hyderabad, Telangana, India
+[2026-10-08 09:26:31]   Sent: [LinkedIn] CFD & Simulation Engineer @ Zen Technologies Limited | Hyderabad, Telangana, India
+[2026-10-08 09:26:34]   Sent: [LinkedIn] Role : Bridge Design Expert (General Management services for South Central Rly.) @ Duranta Infotech Private Limited | Hyderabad, Telangana, India
+[2026-10-08 09:26:37]   Sent: [LinkedIn] Sr Associate Engineer, IT Software - Java Fullstack [T500-29970] @ ANSR | Hyderabad, Telangana, India
+[2026-10-08 09:26:39]   Sent: [LinkedIn] Sr Associate Engineer, IT Software - Java Fullstack [T500-29967] @ ANSR | Hyderabad, Telangana, India
+[2026-10-08 09:26:42]   Sent: [LinkedIn] AI / Software Engineering Intern @ aiqon | Hyderabad, Telangana, India
+[2026-10-08 09:26:44]   Sent: [LinkedIn] AI Support Engineer / Developer @ Teamware Solutions | Hyderabad, Telangana, India
+[2026-10-08 09:26:47]   Sent: [LinkedIn] Member of Technical Staff @ QUIPU | Hyderabad, Telangana, India
+[2026-10-08 09:26:49]   Sent: [LinkedIn] Artificial Intelligence Engineer/ AI Engineer @ Pixelvide | Hyderabad, Telangana, India
+[2026-10-08 09:26:52]   Sent: [LinkedIn] Software Engineer @ Envoy Global | Hyderabad, Telangana, India
+[2026-10-08 09:26:55]   Sent: [LinkedIn] Software Development Intern @ Park Place Technologies | Hyderabad, Telangana, India
+[2026-10-08 09:26:57]   Sent: [LinkedIn] Accordion India - Associate - Data & Analytics Consulting @ Accordion India | Hyderabad, Telangana, India
+[2026-10-08 09:27:00]   Sent: [LinkedIn] Hardware Engineer @ CENTOTECH SERVICES PRIVATE LIMITED | Hyderabad, Telangana, India
+[2026-10-08 09:27:02]   Sent: [LinkedIn] Engineer, SSD Validation @ Micron Technology | Hyderabad, Telangana, India
+[2026-10-08 09:27:02] Done. Sent 18 new jobs. Total tracked: 820
+[2026-10-08 09:27:02] Single-run cycle complete. Exiting.
