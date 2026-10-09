@@ -4324,3 +4324,30 @@
 [2026-10-08 17:31:39] Checking for new B.Tech fresher jobs from LinkedIn...
 [2026-10-08 17:37:38] No new jobs found. Total tracked: 820
 [2026-10-08 17:37:38] Single-run cycle complete. Exiting.
+[2026-10-09 09:28:18] ============================================================
+[2026-10-09 09:28:18]   B.Tech Jobs Fresher - Telegram Bot
+[2026-10-09 09:28:18]   TARGET: B.Tech Freshers | LOCATION: Hyderabad
+[2026-10-09 09:28:18]   CHECK INTERVAL: Every 10 minutes
+[2026-10-09 09:28:18] ============================================================
+[2026-10-09 09:28:18] Loaded 820 previously seen jobs.
+[2026-10-09 09:28:18] Window: sending jobs posted after 2026-10-08T17:31:39.995490
+[2026-10-09 09:28:18] Checking for new B.Tech fresher jobs from LinkedIn...
+[2026-10-09 09:33:52] Found 16 new jobs! Sending to Telegram...
+[2026-10-09 09:33:55]   Sent: [LinkedIn] PRACTOLYTICS IS HIRING FRESHERS! -AR Caller, EVBV & Medical Billing @ Practolytics | Hyderabad, Telangana, India
+[2026-10-09 09:33:58]   Sent: [LinkedIn] Associate Analyst – Freshers (Non Technical/Non Voice) IRC300388 @ Cvali | Hyderabad, Telangana, India
+[2026-10-09 09:34:01]   Sent: [LinkedIn] IT Engineer @ TechnipFMC | Hyderabad, Telangana, India
+[2026-10-09 09:34:04]   Sent: [LinkedIn] Motor Controller Repair Technician cum Bike Technician @ GEMOPAI | Hyderabad, Telangana, India
+[2026-10-09 09:34:06]   Sent: [LinkedIn] Civil Engineer @ Spoarc infra pvt ltd | Hyderabad, Telangana, India
+[2026-10-09 09:34:09]   Sent: [LinkedIn] Principal Engineer @ AECOM | Hyderabad, Telangana, India
+[2026-10-09 09:34:12]   Sent: [LinkedIn] Software Engineer @ Eli Lilly and Company | Greater Hyderabad Area
+[2026-10-09 09:34:15]   Sent: [LinkedIn] Sr Associate Engineer, IT Software - Java Fullstack [T500-30013] @ ANSR | Hyderabad, Telangana, India
+[2026-10-09 09:34:18]   Sent: [LinkedIn] Software Development Engineer-II (SDE 2), Worldwide Returns & ReCommerce - OpsFlow @ Amazon | Hyderabad, Telangana, India
+[2026-10-09 09:34:20]   Sent: [LinkedIn] Executive  - Monitoring and Evaluation @ Dr Reddy's Foundation | Hyderabad, Telangana, India
+[2026-10-09 09:34:23]   Sent: [LinkedIn] Network Engineer @ Indrajaal | Hyderabad, Telangana, India
+[2026-10-09 09:34:26]   Sent: [LinkedIn] Technical Specialist - L3 @ NTT DATA, Inc. | Greater Hyderabad Area
+[2026-10-09 09:34:29]   Sent: [LinkedIn] Engineer - Embedded SW Development @ Alstom Grid | Greater Hyderabad Area
+[2026-10-09 09:34:32]   Sent: [LinkedIn] Embedded C Developer @ CENTOTECH SERVICES PRIVATE LIMITED | Hyderabad, Telangana, India
+[2026-10-09 09:34:35]   Sent: [LinkedIn] QA Engineer – Manual & Automation @ Gitforce | Hyderabad, Telangana, India
+[2026-10-09 09:34:37]   Sent: [LinkedIn] Front Office Executive @ Freyr Solutions | Hyderabad, Telangana, India
+[2026-10-09 09:34:37] Done. Sent 16 new jobs. Total tracked: 836
+[2026-10-09 09:34:37] Single-run cycle complete. Exiting.
