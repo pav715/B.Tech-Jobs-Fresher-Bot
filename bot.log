@@ -4361,3 +4361,29 @@
 [2026-10-09 17:07:49] Checking for new B.Tech fresher jobs from LinkedIn...
 [2026-10-09 17:13:38] No new jobs found. Total tracked: 836
 [2026-10-09 17:13:38] Single-run cycle complete. Exiting.
+[2026-10-10 08:49:23] ============================================================
+[2026-10-10 08:49:23]   B.Tech Jobs Fresher - Telegram Bot
+[2026-10-10 08:49:23]   TARGET: B.Tech Freshers | LOCATION: Hyderabad
+[2026-10-10 08:49:23]   CHECK INTERVAL: Every 10 minutes
+[2026-10-10 08:49:23] ============================================================
+[2026-10-10 08:49:23] Loaded 836 previously seen jobs.
+[2026-10-10 08:49:23] Window: sending jobs posted after 2026-10-09T17:07:49.141048
+[2026-10-10 08:49:23] Checking for new B.Tech fresher jobs from LinkedIn...
+[2026-10-10 08:55:33] Found 15 new jobs! Sending to Telegram...
+[2026-10-10 08:55:36]   Sent: [LinkedIn] Associate @ Virtusa | Hyderabad, Telangana, India
+[2026-10-10 08:55:38]   Sent: [LinkedIn] L1 Service Desk Analyst @ TECEZE | Hyderabad, Telangana, India
+[2026-10-10 08:55:41]   Sent: [LinkedIn] Engineer @ Virtusa | Hyderabad, Telangana, India
+[2026-10-10 08:55:44]   Sent: [LinkedIn] Project Engineer @ PLN InfraTech | Hyderabad, Telangana, India
+[2026-10-10 08:55:46]   Sent: [LinkedIn] Full Stack Engineer ( 1 - 3 ) Years of experience @ WorkElate | Hyderabad, Telangana, India
+[2026-10-10 08:55:49]   Sent: [LinkedIn] Full-Stack Developer (Full-time, Remote) @ Prudent | Hyderabad, Telangana, India
+[2026-10-10 08:55:52]   Sent: [LinkedIn] Site Engineer @ Build360constructions | Hyderabad, Telangana, India
+[2026-10-10 08:55:55]   Sent: [LinkedIn] Rebar Detailer - US Projects @ Bluprynt Consulting Group | Hyderabad, Telangana, India
+[2026-10-10 08:55:58]   Sent: [LinkedIn] Frontend Engineer @ Apple | Hyderabad, Telangana, India
+[2026-10-10 08:56:00]   Sent: [LinkedIn] Full-Stack Developer @ PRODIFY INNOVATIVES | Hyderabad, Telangana, India
+[2026-10-10 08:56:03]   Sent: [LinkedIn] Engineer-IT @ Virtusa | Hyderabad, Telangana, India
+[2026-10-10 08:56:06]   Sent: [LinkedIn] Senior Staff SOC Design @ Mulya Technologies | Greater Hyderabad Area
+[2026-10-10 08:56:09]   Sent: [LinkedIn] Associate @ Virtusa | Hyderabad, Telangana, India
+[2026-10-10 08:56:11]   Sent: [LinkedIn] Associate @ Virtusa | Hyderabad, Telangana, India
+[2026-10-10 08:56:14]   Sent: [LinkedIn] Associate @ Virtusa | Hyderabad, Telangana, India
+[2026-10-10 08:56:14] Done. Sent 15 new jobs. Total tracked: 848
+[2026-10-10 08:56:14] Single-run cycle complete. Exiting.
