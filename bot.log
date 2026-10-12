@@ -4424,3 +4424,36 @@
 [2026-10-11 16:23:31] Checking for new B.Tech fresher jobs from LinkedIn...
 [2026-10-11 16:29:04] No new jobs found. Total tracked: 854
 [2026-10-11 16:29:04] Single-run cycle complete. Exiting.
+[2026-10-12 09:36:27] ============================================================
+[2026-10-12 09:36:27]   B.Tech Jobs Fresher - Telegram Bot
+[2026-10-12 09:36:27]   TARGET: B.Tech Freshers | LOCATION: Hyderabad
+[2026-10-12 09:36:27]   CHECK INTERVAL: Every 10 minutes
+[2026-10-12 09:36:27] ============================================================
+[2026-10-12 09:36:27] Loaded 854 previously seen jobs.
+[2026-10-12 09:36:27] Window: sending jobs posted after 2026-10-11T16:23:31.369241
+[2026-10-12 09:36:27] Checking for new B.Tech fresher jobs from LinkedIn...
+[2026-10-12 09:42:32] Found 22 new jobs! Sending to Telegram...
+[2026-10-12 09:42:35]   Sent: [LinkedIn] Package Specialist-Salesforce Functional Operations @ Cvali | Hyderabad, Telangana, India
+[2026-10-12 09:42:38]   Sent: [LinkedIn] Fleet Operations - EV Charging @ Statiq | Hyderabad, Telangana, India
+[2026-10-12 09:42:41]   Sent: [LinkedIn] Business Development Associate (Freshers) @ Smartify Software Solutions | Hyderabad, Telangana, India
+[2026-10-12 09:42:43]   Sent: [LinkedIn] Sales Marketing Executive @ Rorosaur | Hyderabad, Telangana, India
+[2026-10-12 09:42:46]   Sent: [LinkedIn] Quality Engineer-Packages @ Cvali | Hyderabad, Telangana, India
+[2026-10-12 09:42:49]   Sent: [LinkedIn] Vacancy for Biomedical Engineer and Biotechnology Engineer @ Achievers Spot | Hyderabad, Telangana, India
+[2026-10-12 09:42:51]   Sent: [LinkedIn] Software Engineer @ CXO Magazine | Hyderabad, Telangana, India
+[2026-10-12 09:42:54]   Sent: [LinkedIn] Wire Harness & Soldering Technician @ Eon Space Labs | Hyderabad, Telangana, India
+[2026-10-12 09:42:57]   Sent: [LinkedIn] Hardware Design Engineer @ Hire22.ai | Hyderabad, Telangana, India
+[2026-10-12 09:43:00]   Sent: [LinkedIn] Hardware Design Engineer @ EZSpace Ventures | Hyderabad, Telangana, India
+[2026-10-12 09:43:03]   Sent: [LinkedIn] Site Engineer @ SRIAN INFRASTRUCTURES PVT LTD | Hyderabad, Telangana, India
+[2026-10-12 09:43:06]   Sent: [LinkedIn] Postdoctoral Researcher/JRF @ Mahindra University | Hyderabad, Telangana, India
+[2026-10-12 09:43:09]   Sent: [LinkedIn] Application Developer @ Expertpedia.io | Hyderabad, Telangana, India
+[2026-10-12 09:43:11]   Sent: [LinkedIn] Specialist , FullStack Engineering @ MSD | Hyderabad, Telangana, India
+[2026-10-12 09:43:14]   Sent: [LinkedIn] AI FRONT END ENGINEER [INTERN] @ Tripbreak | Hyderabad, Telangana, India
+[2026-10-12 09:43:17]   Sent: [LinkedIn] Axway Systems Integration Sr. Analyst @ NTT DATA North America | Hyderabad, Telangana, India
+[2026-10-12 09:43:19]   Sent: [LinkedIn] Technical Support Intern (Product Engineering) @ WSA – Wonderful Sound for All | Hyderabad, Telangana, India
+[2026-10-12 09:43:22]   Sent: [LinkedIn] SecOps | Vulnerability Response-Test Specialist @ Fujitsu | Hyderabad, Telangana, India
+[2026-10-12 09:43:25]   Sent: [LinkedIn] Agile Dev Team Member III : .Net Core Full Stack Developer @ Capgemini | Hyderabad, Telangana, India
+[2026-10-12 09:43:27]   Sent: [LinkedIn] Package Consultant-SAP Cloud Integration @ IBM | Hyderabad, Telangana, India
+[2026-10-12 09:43:35]   Sent: [LinkedIn] Accounts Assistant @ MNR University | Hyderabad, Telangana, India
+[2026-10-12 09:43:38]   Sent: [LinkedIn] Front Office Receptionist @ Vyb Active Private Limited | Hyderabad, Telangana, India
+[2026-10-12 09:43:38] Done. Sent 22 new jobs. Total tracked: 876
+[2026-10-12 09:43:38] Single-run cycle complete. Exiting.
