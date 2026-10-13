@@ -4467,3 +4467,22 @@
 [2026-10-12 19:57:05] Checking for new B.Tech fresher jobs from LinkedIn...
 [2026-10-12 20:00:26] No new jobs found. Total tracked: 876
 [2026-10-12 20:00:26] Single-run cycle complete. Exiting.
+[2026-10-13 09:39:31] ============================================================
+[2026-10-13 09:39:31]   B.Tech Jobs Fresher - Telegram Bot
+[2026-10-13 09:39:31]   TARGET: B.Tech Freshers | LOCATION: Hyderabad
+[2026-10-13 09:39:31]   CHECK INTERVAL: Every 10 minutes
+[2026-10-13 09:39:31] ============================================================
+[2026-10-13 09:39:31] Loaded 876 previously seen jobs.
+[2026-10-13 09:39:31] Window: sending jobs posted after 2026-10-12T19:57:05.385174
+[2026-10-13 09:39:31] Checking for new B.Tech fresher jobs from LinkedIn...
+[2026-10-13 09:41:58] Found 8 new jobs! Sending to Telegram...
+[2026-10-13 09:42:01]   Sent: [LinkedIn] Chartered Accountant Fresher @ VENKAT TECH GLOBAL SOLUTIONS PRIVATE LIMITED | Hyderabad, Telangana, India
+[2026-10-13 09:42:04]   Sent: [LinkedIn] Sales Development Executive (SDE) @ COLLABRAINS Software Solutions | Greater Hyderabad Area
+[2026-10-13 09:42:07]   Sent: [LinkedIn] Software Engineer - AI native Engg Platform @ Infinity Learn | Hyderabad, Telangana, India
+[2026-10-13 09:42:10]   Sent: [LinkedIn] Optical Network Development Engineer , Capacity Restoration Team @ Amazon Web Services (AWS) | Hyderabad, Telangana, India
+[2026-10-13 09:42:12]   Sent: [LinkedIn] L1 Support/Service Desk Engineer @ TECEZE | Hyderabad, Telangana, India
+[2026-10-13 09:42:15]   Sent: [LinkedIn] Junior System Administrator @ Onni Group of Companies | Hyderabad, Telangana, India
+[2026-10-13 09:42:18]   Sent: [LinkedIn] Fullstack Python Engineer Assocaite @ PwC Acceleration Center India | Hyderabad, Telangana, India
+[2026-10-13 09:42:21]   Sent: [LinkedIn] Motion Graphic Designer @ TekFriday Processing Solutions Pvt Ltd | Hyderabad, Telangana, India
+[2026-10-13 09:42:21] Done. Sent 8 new jobs. Total tracked: 884
+[2026-10-13 09:42:21] Single-run cycle complete. Exiting.
