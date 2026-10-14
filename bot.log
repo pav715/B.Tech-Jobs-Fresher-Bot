@@ -4496,3 +4496,18 @@
 [2026-10-13 17:43:43] Checking for new B.Tech fresher jobs from LinkedIn...
 [2026-10-13 17:46:50] No new jobs found. Total tracked: 884
 [2026-10-13 17:46:50] Single-run cycle complete. Exiting.
+[2026-10-14 07:55:01] ============================================================
+[2026-10-14 07:55:01]   B.Tech Jobs Fresher - Telegram Bot
+[2026-10-14 07:55:01]   TARGET: B.Tech Freshers | LOCATION: Hyderabad
+[2026-10-14 07:55:01]   CHECK INTERVAL: Every 10 minutes
+[2026-10-14 07:55:01] ============================================================
+[2026-10-14 07:55:01] Loaded 884 previously seen jobs.
+[2026-10-14 07:55:01] Window: sending jobs posted after 2026-10-13T17:43:43.076984
+[2026-10-14 07:55:01] Checking for new B.Tech fresher jobs from LinkedIn...
+[2026-10-14 07:57:03] Found 4 new jobs! Sending to Telegram...
+[2026-10-14 07:57:06]   Sent: [LinkedIn] We're Hiring: Video Editor (Fresher) | Full-Time at iTech Manthra @ ITECH MANTHRA | Hyderabad, Telangana, India
+[2026-10-14 07:57:08]   Sent: [LinkedIn] Service Desk Engineer @ TECEZE | Hyderabad, Telangana, India
+[2026-10-14 07:57:11]   Sent: [LinkedIn] AI Video Editor @ Febla Technologies | Hyderabad, Telangana, India
+[2026-10-14 07:57:14]   Sent: [LinkedIn] SERVICE DESK ANALYST L1 @ Wipro | Hyderabad, Telangana, India
+[2026-10-14 07:57:14] Done. Sent 4 new jobs. Total tracked: 888
+[2026-10-14 07:57:14] Single-run cycle complete. Exiting.
