@@ -4521,3 +4521,22 @@
 [2026-10-14 15:21:55] Checking for new B.Tech fresher jobs from LinkedIn...
 [2026-10-14 15:24:20] No new jobs found. Total tracked: 888
 [2026-10-14 15:24:20] Single-run cycle complete. Exiting.
+[2026-10-15 07:39:37] ============================================================
+[2026-10-15 07:39:37]   B.Tech Jobs Fresher - Telegram Bot
+[2026-10-15 07:39:37]   TARGET: B.Tech Freshers | LOCATION: Hyderabad
+[2026-10-15 07:39:37]   CHECK INTERVAL: Every 10 minutes
+[2026-10-15 07:39:37] ============================================================
+[2026-10-15 07:39:37] Loaded 888 previously seen jobs.
+[2026-10-15 07:39:37] Window: sending jobs posted after 2026-10-14T15:21:55.487352
+[2026-10-15 07:39:37] Checking for new B.Tech fresher jobs from LinkedIn...
+[2026-10-15 07:44:05] Found 8 new jobs! Sending to Telegram...
+[2026-10-15 07:44:08]   Sent: [LinkedIn] Junior Java Developer @ TrueID | Hyderabad, Telangana, India
+[2026-10-15 07:44:11]   Sent: [LinkedIn] Graphic Designer @ Brace Infotech Private Limited | Hyderabad, Telangana, India
+[2026-10-15 07:44:13]   Sent: [LinkedIn] Service Engineer - Battery @ Veelo Mobility | Hyderabad, Telangana, India
+[2026-10-15 07:44:16]   Sent: [LinkedIn] Digital Circuit Design Engineer @ Lakshya Software Technologies Pvt. Ltd. | Hyderabad, Telangana, India
+[2026-10-15 07:44:19]   Sent: [LinkedIn] Junior Business Analyst @ ANB Solutions Pvt. Ltd | Hyderabad, Telangana, India
+[2026-10-15 07:44:21]   Sent: [LinkedIn] Network Engineer @ Whitefield Careers | Hyderabad, Telangana, India
+[2026-10-15 07:44:24]   Sent: [LinkedIn] IT Technologist @ Medtronic | Hyderabad, Telangana, India
+[2026-10-15 07:44:27]   Sent: [LinkedIn] Flutter Engineering Intern (Mobile) @ Nyayasiddhi Legaltech ™ | Hyderabad, Telangana, India
+[2026-10-15 07:44:27] Done. Sent 8 new jobs. Total tracked: 896
+[2026-10-15 07:44:27] Single-run cycle complete. Exiting.
