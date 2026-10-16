@@ -4550,3 +4550,22 @@
 [2026-10-15 15:14:23] Checking for new B.Tech fresher jobs from LinkedIn...
 [2026-10-15 15:18:58] No new jobs found. Total tracked: 896
 [2026-10-15 15:18:58] Single-run cycle complete. Exiting.
+[2026-10-16 07:26:43] ============================================================
+[2026-10-16 07:26:43]   B.Tech Jobs Fresher - Telegram Bot
+[2026-10-16 07:26:43]   TARGET: B.Tech Freshers | LOCATION: Hyderabad
+[2026-10-16 07:26:43]   CHECK INTERVAL: Every 10 minutes
+[2026-10-16 07:26:43] ============================================================
+[2026-10-16 07:26:43] Loaded 896 previously seen jobs.
+[2026-10-16 07:26:43] Window: sending jobs posted after 2026-10-15T15:14:23.333209
+[2026-10-16 07:26:43] Checking for new B.Tech fresher jobs from LinkedIn...
+[2026-10-16 07:31:57] Found 8 new jobs! Sending to Telegram...
+[2026-10-16 07:32:00]   Sent: [LinkedIn] Engineer I, FEA @ TechnipFMC | Hyderabad, Telangana, India
+[2026-10-16 07:32:03]   Sent: [LinkedIn] Quality Control Engineer Hardware - Mechanical / Mechatronics @ Analinear | Hyderabad, Telangana, India
+[2026-10-16 07:32:05]   Sent: [LinkedIn] Software Engineer(Java,POSTMAN , Restful Web services, AWS) @ Infor | Hyderabad, Telangana, India
+[2026-10-16 07:32:08]   Sent: [LinkedIn] IT Support Engineer – IT Operations, Software & Automation (Remote) @ TheHiveCareers | Hyderabad, Telangana, India
+[2026-10-16 07:32:11]   Sent: [LinkedIn] Senior DFT Engineer @ Mulya Technologies | Greater Hyderabad Area
+[2026-10-16 07:32:14]   Sent: [LinkedIn] Distributed Control System Engineer @ Deccan Fine Chemicals Pvt. Limited | Hyderabad, Telangana, India
+[2026-10-16 07:32:17]   Sent: [LinkedIn] Video Editor @ Studytech International | Hyderabad, Telangana, India
+[2026-10-16 07:32:20]   Sent: [LinkedIn] Human Resources Trainee @ Ritsa Pharma Pvt. Ltd | Hyderabad, Telangana, India
+[2026-10-16 07:32:20] Done. Sent 8 new jobs. Total tracked: 904
+[2026-10-16 07:32:20] Single-run cycle complete. Exiting.
