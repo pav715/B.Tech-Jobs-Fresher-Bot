@@ -4579,3 +4579,15 @@
 [2026-10-16 14:58:00] Checking for new B.Tech fresher jobs from LinkedIn...
 [2026-10-16 15:03:11] No new jobs found. Total tracked: 904
 [2026-10-16 15:03:11] Single-run cycle complete. Exiting.
+[2026-10-17 07:07:38] ============================================================
+[2026-10-17 07:07:38]   B.Tech Jobs Fresher - Telegram Bot
+[2026-10-17 07:07:38]   TARGET: B.Tech Freshers | LOCATION: Hyderabad
+[2026-10-17 07:07:38]   CHECK INTERVAL: Every 10 minutes
+[2026-10-17 07:07:38] ============================================================
+[2026-10-17 07:07:38] Loaded 904 previously seen jobs.
+[2026-10-17 07:07:38] Window: sending jobs posted after 2026-10-16T14:58:00.273927
+[2026-10-17 07:07:38] Checking for new B.Tech fresher jobs from LinkedIn...
+[2026-10-17 07:11:08] Found 1 new jobs! Sending to Telegram...
+[2026-10-17 07:11:11]   Sent: [LinkedIn] Articled Assistant @ Mukkamala & Associates, Chartered Accountants | Hyderabad, Telangana, India
+[2026-10-17 07:11:11] Done. Sent 1 new jobs. Total tracked: 905
+[2026-10-17 07:11:11] Single-run cycle complete. Exiting.
