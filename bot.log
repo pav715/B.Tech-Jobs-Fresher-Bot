@@ -4611,3 +4611,15 @@
 [2026-10-17 17:26:39] Checking for new B.Tech fresher jobs from LinkedIn...
 [2026-10-17 17:32:19] No new jobs found. Total tracked: 905
 [2026-10-17 17:32:19] Single-run cycle complete. Exiting.
+[2026-10-18 07:22:04] ============================================================
+[2026-10-18 07:22:04]   B.Tech Jobs Fresher - Telegram Bot
+[2026-10-18 07:22:04]   TARGET: B.Tech Freshers | LOCATION: Hyderabad
+[2026-10-18 07:22:04]   CHECK INTERVAL: Every 10 minutes
+[2026-10-18 07:22:04] ============================================================
+[2026-10-18 07:22:04] Loaded 905 previously seen jobs.
+[2026-10-18 07:22:04] Window: sending jobs posted after 2026-10-17T17:26:39.598878
+[2026-10-18 07:22:04] Checking for new B.Tech fresher jobs from LinkedIn...
+[2026-10-18 07:26:55] Found 1 new jobs! Sending to Telegram...
+[2026-10-18 07:26:58]   Sent: [LinkedIn] Senior Associate Data Scientist @ Amgen | Hyderabad, Telangana, India
+[2026-10-18 07:26:58] Done. Sent 1 new jobs. Total tracked: 906
+[2026-10-18 07:26:58] Single-run cycle complete. Exiting.
