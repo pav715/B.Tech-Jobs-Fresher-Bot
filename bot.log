@@ -4643,3 +4643,24 @@
 [2026-10-18 17:28:24] Checking for new B.Tech fresher jobs from LinkedIn...
 [2026-10-18 17:32:53] No new jobs found. Total tracked: 906
 [2026-10-18 17:32:53] Single-run cycle complete. Exiting.
+[2026-10-19 08:00:43] ============================================================
+[2026-10-19 08:00:43]   B.Tech Jobs Fresher - Telegram Bot
+[2026-10-19 08:00:43]   TARGET: B.Tech Freshers | LOCATION: Hyderabad
+[2026-10-19 08:00:43]   CHECK INTERVAL: Every 10 minutes
+[2026-10-19 08:00:43] ============================================================
+[2026-10-19 08:00:43] Loaded 906 previously seen jobs.
+[2026-10-19 08:00:43] Window: sending jobs posted after 2026-10-18T17:28:24.433417
+[2026-10-19 08:00:43] Checking for new B.Tech fresher jobs from LinkedIn...
+[2026-10-19 08:05:30] Found 10 new jobs! Sending to Telegram...
+[2026-10-19 08:05:33]   Sent: [LinkedIn] Linux Patch Engineer @ NTT DATA, Inc. | Greater Hyderabad Area
+[2026-10-19 08:05:36]   Sent: [LinkedIn] Network Support Engineer @ Zayman Tech AI | Hyderabad, Telangana, India
+[2026-10-19 08:05:38]   Sent: [LinkedIn] Engineer II-Installation Analysis @ TechnipFMC | Hyderabad, Telangana, India
+[2026-10-19 08:05:41]   Sent: [LinkedIn] Sr. Analyst, Data Engineer - India @ Nationwide | Hyderabad, Telangana, India
+[2026-10-19 08:05:44]   Sent: [LinkedIn] Optical Engineer – Payload Integration & Test @ Eon Space Labs | Hyderabad, Telangana, India
+[2026-10-19 08:05:47]   Sent: [LinkedIn] Embedded Firmware Engineers @ Hire22.ai | Hyderabad, Telangana, India
+[2026-10-19 08:05:50]   Sent: [LinkedIn] Embedded Firmware Engineers @ EZSpace Ventures | Hyderabad, Telangana, India
+[2026-10-19 08:05:53]   Sent: [LinkedIn] SD L1 @ Unisys | Hyderabad, Telangana, India
+[2026-10-19 08:05:56]   Sent: [LinkedIn] Fixed Income Testing Analyst @ Akron Intel | Hyderabad, Telangana, India
+[2026-10-19 08:05:59]   Sent: [LinkedIn] Test Automation Engineer @ WSA – Wonderful Sound for All | Hyderabad, Telangana, India
+[2026-10-19 08:05:59] Done. Sent 10 new jobs. Total tracked: 916
+[2026-10-19 08:05:59] Single-run cycle complete. Exiting.
