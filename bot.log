@@ -4674,3 +4674,18 @@
 [2026-10-19 17:05:23] Checking for new B.Tech fresher jobs from LinkedIn...
 [2026-10-19 17:09:43] No new jobs found. Total tracked: 916
 [2026-10-19 17:09:43] Single-run cycle complete. Exiting.
+[2026-10-20 07:51:13] ============================================================
+[2026-10-20 07:51:13]   B.Tech Jobs Fresher - Telegram Bot
+[2026-10-20 07:51:13]   TARGET: B.Tech Freshers | LOCATION: Hyderabad
+[2026-10-20 07:51:13]   CHECK INTERVAL: Every 10 minutes
+[2026-10-20 07:51:13] ============================================================
+[2026-10-20 07:51:13] Loaded 916 previously seen jobs.
+[2026-10-20 07:51:13] Window: sending jobs posted after 2026-10-19T17:05:23.288064
+[2026-10-20 07:51:13] Checking for new B.Tech fresher jobs from LinkedIn...
+[2026-10-20 07:55:06] Found 4 new jobs! Sending to Telegram...
+[2026-10-20 07:55:08]   Sent: [LinkedIn] AI Engineer @ OptimumAI | Hyderabad, Telangana, India
+[2026-10-20 07:55:11]   Sent: [LinkedIn] Engineer @ Micron Technology | Hyderabad, Telangana, India
+[2026-10-20 07:55:14]   Sent: [LinkedIn] IN_Associate_CSV_ITRA_Advisory_Hyderabad @ PwC India | Greater Hyderabad Area
+[2026-10-20 07:55:17]   Sent: [LinkedIn] Video & Motion Graphics Editor | EdTech | Immediate Joining @ AR GLOBAL HUB | Hyderabad, Telangana, India
+[2026-10-20 07:55:17] Done. Sent 4 new jobs. Total tracked: 920
+[2026-10-20 07:55:17] Single-run cycle complete. Exiting.
