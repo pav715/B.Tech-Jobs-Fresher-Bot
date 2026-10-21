@@ -4699,3 +4699,25 @@
 [2026-10-20 15:17:11] Checking for new B.Tech fresher jobs from LinkedIn...
 [2026-10-20 15:22:28] No new jobs found. Total tracked: 920
 [2026-10-20 15:22:28] Single-run cycle complete. Exiting.
+[2026-10-21 07:54:54] ============================================================
+[2026-10-21 07:54:54]   B.Tech Jobs Fresher - Telegram Bot
+[2026-10-21 07:54:54]   TARGET: B.Tech Freshers | LOCATION: Hyderabad
+[2026-10-21 07:54:54]   CHECK INTERVAL: Every 10 minutes
+[2026-10-21 07:54:54] ============================================================
+[2026-10-21 07:54:54] Loaded 920 previously seen jobs.
+[2026-10-21 07:54:54] Window: sending jobs posted after 2026-10-20T15:17:11.974657
+[2026-10-21 07:54:54] Checking for new B.Tech fresher jobs from LinkedIn...
+[2026-10-21 08:00:39] Found 11 new jobs! Sending to Telegram...
+[2026-10-21 08:00:41]   Sent: [LinkedIn] SDE 1 - Python / Data Engineer | Quant Prop Trading @ CareerXperts Consulting | Hyderabad, Telangana, India
+[2026-10-21 08:00:44]   Sent: [LinkedIn] OIC Developer -Face to Face Walk-In Drive - 24th Oct - Jade Global Hyderbad  Location @ Jade Global | Hyderabad, Telangana, India
+[2026-10-21 08:00:46]   Sent: [LinkedIn] UAV Systems Integration & Verification  Engineer @ DROGO AEROSPACE | Hyderabad, Telangana, India
+[2026-10-21 08:00:49]   Sent: [LinkedIn] Static Timing Analysis (STA) Engineer | 3+ Yrs @ leadIC Design Pvt Ltd | Hyderabad, Telangana, India
+[2026-10-21 08:00:52]   Sent: [LinkedIn] Analog Layout Engineer @ Cyient | Greater Hyderabad Area
+[2026-10-21 08:00:55]   Sent: [LinkedIn] CNC PROGRAMER @ Hema Industries | Hyderabad, Telangana, India
+[2026-10-21 08:00:57]   Sent: [LinkedIn] MERN Stack Developer @ HextGen Ai | Hyderabad, Telangana, India
+[2026-10-21 08:01:00]   Sent: [LinkedIn] Full Stack Engineer Intern @ Keshava Elite Projects | Hyderabad, Telangana, India
+[2026-10-21 08:01:03]   Sent: [LinkedIn] QA Engineering @ Endowus | Hyderabad, Telangana, India
+[2026-10-21 08:01:05]   Sent: [LinkedIn] Graphic Designer Trainee @ The Go-To Guy! | Hyderabad, Telangana, India
+[2026-10-21 08:01:08]   Sent: [LinkedIn] 3D Animation (Blender) @ Hanu Studios | Hyderabad, Telangana, India
+[2026-10-21 08:01:08] Done. Sent 11 new jobs. Total tracked: 931
+[2026-10-21 08:01:08] Single-run cycle complete. Exiting.
