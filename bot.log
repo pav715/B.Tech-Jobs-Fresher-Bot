@@ -4731,3 +4731,24 @@
 [2026-10-21 15:29:37] Checking for new B.Tech fresher jobs from LinkedIn...
 [2026-10-21 15:35:25] No new jobs found. Total tracked: 931
 [2026-10-21 15:35:25] Single-run cycle complete. Exiting.
+[2026-10-22 07:51:21] ============================================================
+[2026-10-22 07:51:21]   B.Tech Jobs Fresher - Telegram Bot
+[2026-10-22 07:51:21]   TARGET: B.Tech Freshers | LOCATION: Hyderabad
+[2026-10-22 07:51:21]   CHECK INTERVAL: Every 10 minutes
+[2026-10-22 07:51:21] ============================================================
+[2026-10-22 07:51:21] Loaded 931 previously seen jobs.
+[2026-10-22 07:51:21] Window: sending jobs posted after 2026-10-21T15:29:37.491417
+[2026-10-22 07:51:21] Checking for new B.Tech fresher jobs from LinkedIn...
+[2026-10-22 07:57:02] Found 10 new jobs! Sending to Telegram...
+[2026-10-22 07:57:05]   Sent: [LinkedIn] Field Service Engineer(Hyderabad) @ DATOMS | Hyderabad, Telangana, India
+[2026-10-22 07:57:08]   Sent: [LinkedIn] Social Media Content Creator & Video Editor @ Steps AI | Hyderabad, Telangana, India
+[2026-10-22 07:57:10]   Sent: [LinkedIn] Equipment Engineer @ SysTechCorp Inc | Hyderabad, Telangana, India
+[2026-10-22 07:57:13]   Sent: [LinkedIn] Mech Design Engr II @ Honeywell Aerospace | Hyderabad, Telangana, India
+[2026-10-22 07:57:16]   Sent: [LinkedIn] Specialist - Software Development & Engineering @ Charles Schwab India | Hyderabad, Telangana, India
+[2026-10-22 07:57:18]   Sent: [LinkedIn] CDI/CDQ Developer @ Tata Consultancy Services | Greater Hyderabad Area
+[2026-10-22 07:57:21]   Sent: [LinkedIn] Analog Layout Engineer @ EdgeSilica Private Limited | Hyderabad, Telangana, India
+[2026-10-22 07:57:24]   Sent: [LinkedIn] Quality Assurance Developer @ OpenText | Hyderabad, Telangana, India
+[2026-10-22 07:57:26]   Sent: [LinkedIn] Site Reliability Engineer @ FactSet | Hyderabad, Telangana, India
+[2026-10-22 07:57:29]   Sent: [LinkedIn] Graphic Design & Video Editing Trainer @ Medha EduTech | Hyderabad, Telangana, India
+[2026-10-22 07:57:29] Done. Sent 10 new jobs. Total tracked: 941
+[2026-10-22 07:57:29] Single-run cycle complete. Exiting.
