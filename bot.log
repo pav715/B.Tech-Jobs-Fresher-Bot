@@ -4762,3 +4762,25 @@
 [2026-10-22 15:29:17] Checking for new B.Tech fresher jobs from LinkedIn...
 [2026-10-22 15:35:28] No new jobs found. Total tracked: 941
 [2026-10-22 15:35:28] Single-run cycle complete. Exiting.
+[2026-10-23 07:50:24] ============================================================
+[2026-10-23 07:50:24]   B.Tech Jobs Fresher - Telegram Bot
+[2026-10-23 07:50:24]   TARGET: B.Tech Freshers | LOCATION: Hyderabad
+[2026-10-23 07:50:24]   CHECK INTERVAL: Every 10 minutes
+[2026-10-23 07:50:24] ============================================================
+[2026-10-23 07:50:24] Loaded 941 previously seen jobs.
+[2026-10-23 07:50:24] Window: sending jobs posted after 2026-10-22T15:29:17.681417
+[2026-10-23 07:50:24] Checking for new B.Tech fresher jobs from LinkedIn...
+[2026-10-23 07:56:33] Found 11 new jobs! Sending to Telegram...
+[2026-10-23 07:56:36]   Sent: [LinkedIn] Design Engineer Associate @ Regal Rexnord | Hyderabad, Telangana, India
+[2026-10-23 07:56:38]   Sent: [LinkedIn] Associate - Software Development & Engineering (Java Developer) @ Charles Schwab India | Hyderabad, Telangana, India
+[2026-10-23 07:56:41]   Sent: [LinkedIn] Field Services Engineer @ Hi-Tech Equipments | Hyderabad, Telangana, India
+[2026-10-23 07:56:44]   Sent: [LinkedIn] Field POS Impementation Executive @ Mesaki Pvt Ltd | Hyderabad, Telangana, India
+[2026-10-23 07:56:47]   Sent: [LinkedIn] Tendering Engineer @ Best Infra | Hyderabad, Telangana, India
+[2026-10-23 07:56:50]   Sent: [LinkedIn] CAD Architectural And Structural Draughtsman @ nhance consulting engineers | Hyderabad, Telangana, India
+[2026-10-23 07:56:52]   Sent: [LinkedIn] Geotechnical Engineer @ JSM Consulting Inc. | Hyderabad, Telangana, India
+[2026-10-23 07:56:55]   Sent: [LinkedIn] Software Engineer @ Infor | Hyderabad, Telangana, India
+[2026-10-23 07:56:58]   Sent: [LinkedIn] Application Specific Integrated Circuit Design Engineer @ ACL Digital | Hyderabad, Telangana, India
+[2026-10-23 07:57:01]   Sent: [LinkedIn] Chemistry Specialist @ Vashishta Degree College, Manjulapur, Nirmal 504 106 | Hyderabad, Telangana, India
+[2026-10-23 07:57:03]   Sent: [LinkedIn] Recruiter I @ Conduent | Hyderabad, Telangana, India
+[2026-10-23 07:57:03] Done. Sent 11 new jobs. Total tracked: 952
+[2026-10-23 07:57:03] Single-run cycle complete. Exiting.
