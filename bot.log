@@ -4784,3 +4784,13 @@
 [2026-10-23 07:57:03]   Sent: [LinkedIn] Recruiter I @ Conduent | Hyderabad, Telangana, India
 [2026-10-23 07:57:03] Done. Sent 11 new jobs. Total tracked: 952
 [2026-10-23 07:57:03] Single-run cycle complete. Exiting.
+[2026-10-23 15:22:26] ============================================================
+[2026-10-23 15:22:26]   B.Tech Jobs Fresher - Telegram Bot
+[2026-10-23 15:22:26]   TARGET: B.Tech Freshers | LOCATION: Hyderabad
+[2026-10-23 15:22:26]   CHECK INTERVAL: Every 10 minutes
+[2026-10-23 15:22:26] ============================================================
+[2026-10-23 15:22:26] Loaded 952 previously seen jobs.
+[2026-10-23 15:22:26] Window: sending jobs posted after 2026-10-23T07:50:24.223120
+[2026-10-23 15:22:26] Checking for new B.Tech fresher jobs from LinkedIn...
+[2026-10-23 15:28:28] No new jobs found. Total tracked: 952
+[2026-10-23 15:28:28] Single-run cycle complete. Exiting.
