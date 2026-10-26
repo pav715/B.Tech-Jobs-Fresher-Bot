@@ -4863,3 +4863,26 @@
 [2026-10-25 17:47:54] Checking for new B.Tech fresher jobs from LinkedIn...
 [2026-10-25 17:53:21] No new jobs found. Total tracked: 959
 [2026-10-25 17:53:21] Single-run cycle complete. Exiting.
+[2026-10-26 08:01:16] ============================================================
+[2026-10-26 08:01:16]   B.Tech Jobs Fresher - Telegram Bot
+[2026-10-26 08:01:16]   TARGET: B.Tech Freshers | LOCATION: Hyderabad
+[2026-10-26 08:01:16]   CHECK INTERVAL: Every 10 minutes
+[2026-10-26 08:01:16] ============================================================
+[2026-10-26 08:01:16] Loaded 959 previously seen jobs.
+[2026-10-26 08:01:16] Window: sending jobs posted after 2026-10-25T17:47:54.509919
+[2026-10-26 08:01:16] Checking for new B.Tech fresher jobs from LinkedIn...
+[2026-10-26 08:06:52] Found 12 new jobs! Sending to Telegram...
+[2026-10-26 08:06:54]   Sent: [LinkedIn] Associate - Quality Control (Legal) – Freshers @ alliantgroup | Hyderabad, Telangana, India
+[2026-10-26 08:06:57]   Sent: [LinkedIn] Video Editor in Hyderabad @ SEPAL | Hyderabad, Telangana, India
+[2026-10-26 08:07:01]   Sent: [LinkedIn] Design Engineer @ ATS India Pvt Ltd | Hyderabad, Telangana, India
+[2026-10-26 08:07:03]   Sent: [LinkedIn] Financial Research Analyst @ Money Purse Finserv | Hyderabad, Telangana, India
+[2026-10-26 08:07:06]   Sent: [LinkedIn] Software Engineer @ Your Website I/O | Hyderabad, Telangana, India
+[2026-10-26 08:07:09]   Sent: [LinkedIn] Vlsi design and verification trainer @ Quriouz Mankey Pvt Ltd | Hyderabad, Telangana, India
+[2026-10-26 08:07:11]   Sent: [LinkedIn] Service Technician @ Fabo Services | Hyderabad, Telangana, India
+[2026-10-26 08:07:14]   Sent: [LinkedIn] Operations Support Analyst @ Arise TechGlobal | Hyderabad, Telangana, India
+[2026-10-26 08:07:17]   Sent: [LinkedIn] Information Technology Support Specialist @ Artech | Hyderabad, Telangana, India
+[2026-10-26 08:07:20]   Sent: [LinkedIn] Data Analyst - Qlik Dashboard Development & Analytics_105018 @ MyCareernet | Hyderabad, Telangana, India
+[2026-10-26 08:07:22]   Sent: [LinkedIn] Senior/Lead Design Verification Engineer (Hyd/Bangalore) @ Mirafra Technologies | Hyderabad, Telangana, India
+[2026-10-26 08:07:25]   Sent: [LinkedIn] Senior SQA I @ Verisk | Hyderabad, Telangana, India
+[2026-10-26 08:07:25] Done. Sent 12 new jobs. Total tracked: 971
+[2026-10-26 08:07:25] Single-run cycle complete. Exiting.
