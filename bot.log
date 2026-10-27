@@ -4896,3 +4896,21 @@
 [2026-10-26 16:52:20] Checking for new B.Tech fresher jobs from LinkedIn...
 [2026-10-26 16:56:28] No new jobs found. Total tracked: 971
 [2026-10-26 16:56:28] Single-run cycle complete. Exiting.
+[2026-10-27 08:14:45] ============================================================
+[2026-10-27 08:14:45]   B.Tech Jobs Fresher - Telegram Bot
+[2026-10-27 08:14:45]   TARGET: B.Tech Freshers | LOCATION: Hyderabad
+[2026-10-27 08:14:45]   CHECK INTERVAL: Every 10 minutes
+[2026-10-27 08:14:45] ============================================================
+[2026-10-27 08:14:45] Loaded 971 previously seen jobs.
+[2026-10-27 08:14:45] Window: sending jobs posted after 2026-10-26T16:52:20.702423
+[2026-10-27 08:14:45] Checking for new B.Tech fresher jobs from LinkedIn...
+[2026-10-27 08:19:11] Found 7 new jobs! Sending to Telegram...
+[2026-10-27 08:19:13]   Sent: [LinkedIn] Forward Deployed Engineer (TypeScript / JavaScript) @ HUNOVO Tech Labs | Hyderabad, Telangana, India
+[2026-10-27 08:19:16]   Sent: [LinkedIn] Electrician @ SPYHAWK TECHNOLOGIES PRIVATE LIMITED | Hyderabad, Telangana, India
+[2026-10-27 08:19:19]   Sent: [LinkedIn] Civil Engineering Intern @ Saras India Systems Private Limited | Hyderabad, Telangana, India
+[2026-10-27 08:19:22]   Sent: [LinkedIn] Software Engineer @ Global CXO Awards | Hyderabad, Telangana, India
+[2026-10-27 08:19:25]   Sent: [LinkedIn] Lead Engineer - CAD (Physical Verification ) - 6+years @ Silicon Labs | Hyderabad, Telangana, India
+[2026-10-27 08:19:28]   Sent: [LinkedIn] DevOps Engineer @ Route Mobile Limited | Hyderabad, Telangana, India
+[2026-10-27 08:19:31]   Sent: [LinkedIn] Ab Initio Admin @ Infosys | Hyderabad, Telangana, India
+[2026-10-27 08:19:31] Done. Sent 7 new jobs. Total tracked: 978
+[2026-10-27 08:19:31] Single-run cycle complete. Exiting.
