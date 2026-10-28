@@ -4924,3 +4924,30 @@
 [2026-10-27 15:57:44] Checking for new B.Tech fresher jobs from LinkedIn...
 [2026-10-27 16:02:51] No new jobs found. Total tracked: 978
 [2026-10-27 16:02:51] Single-run cycle complete. Exiting.
+[2026-10-28 08:52:31] ============================================================
+[2026-10-28 08:52:31]   B.Tech Jobs Fresher - Telegram Bot
+[2026-10-28 08:52:31]   TARGET: B.Tech Freshers | LOCATION: Hyderabad
+[2026-10-28 08:52:31]   CHECK INTERVAL: Every 10 minutes
+[2026-10-28 08:52:31] ============================================================
+[2026-10-28 08:52:31] Loaded 978 previously seen jobs.
+[2026-10-28 08:52:31] Window: sending jobs posted after 2026-10-27T15:57:44.019493
+[2026-10-28 08:52:31] Checking for new B.Tech fresher jobs from LinkedIn...
+[2026-10-28 08:58:21] Found 16 new jobs! Sending to Telegram...
+[2026-10-28 08:58:24]   Sent: [LinkedIn] 🎥 AI Video Prompt Writer @ Saral Vidhya | Hyderabad, Telangana, India
+[2026-10-28 08:58:27]   Sent: [LinkedIn] SDE I -ServiceNow @ Entain India | Hyderabad, Telangana, India
+[2026-10-28 08:58:29]   Sent: [LinkedIn] Software Engineer @ CXO Academy | Hyderabad, Telangana, India
+[2026-10-28 08:58:32]   Sent: [LinkedIn] plc engineer @ Maven automation solutions pvt Ltd | Hyderabad, Telangana, India
+[2026-10-28 08:58:35]   Sent: [LinkedIn] Admin/Facility Management | US MNC @ Impetus Career Consultants | Hyderabad, Telangana, India
+[2026-10-28 08:58:38]   Sent: [LinkedIn] Billing Executive- Infrastructure (Commercial Interior) @ SRIAN INFRASTRUCTURES PVT LTD | Hyderabad, Telangana, India
+[2026-10-28 08:58:40]   Sent: [LinkedIn] Intern- Zoetis Tech & Digital @ Zoetis | Hyderabad, Telangana, India
+[2026-10-28 08:58:43]   Sent: [LinkedIn] Technology Intern @ YTT Global | Hyderabad, Telangana, India
+[2026-10-28 08:58:45]   Sent: [LinkedIn] Software Engineer @ CXO Spotlight | Hyderabad, Telangana, India
+[2026-10-28 08:58:48]   Sent: [LinkedIn] React Native Mobile App Developer @ NRI PelliGola | Hyderabad, Telangana, India
+[2026-10-28 08:58:51]   Sent: [LinkedIn] Network Security Engineer @ Genpact | Hyderabad, Telangana, India
+[2026-10-28 08:58:53]   Sent: [LinkedIn] DFT Design Engineer - ASIC/SoC @ Sykatiya Technologies Pvt Ltd | Hyderabad, Telangana, India
+[2026-10-28 08:58:56]   Sent: [LinkedIn] Senior Verification Engineer - HSIO Unit Level @ NVIDIA | Hyderabad, Telangana, India
+[2026-10-28 08:58:59]   Sent: [LinkedIn] DEVOPS ENGINEER L2 @ Wipro | Hyderabad, Telangana, India
+[2026-10-28 08:59:01]   Sent: [LinkedIn] Automation Tester @ Brace Infotech Private Limited | Hyderabad, Telangana, India
+[2026-10-28 08:59:04]   Sent: [LinkedIn] Manager HR and Admin @ EIPL Group | Greater Hyderabad Area
+[2026-10-28 08:59:04] Done. Sent 16 new jobs. Total tracked: 994
+[2026-10-28 08:59:04] Single-run cycle complete. Exiting.
