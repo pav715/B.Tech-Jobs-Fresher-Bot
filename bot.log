@@ -4961,3 +4961,15 @@
 [2026-10-28 16:46:13] Checking for new B.Tech fresher jobs from LinkedIn...
 [2026-10-28 16:52:19] No new jobs found. Total tracked: 994
 [2026-10-28 16:52:19] Single-run cycle complete. Exiting.
+[2026-10-29 08:46:21] ============================================================
+[2026-10-29 08:46:21]   B.Tech Jobs Fresher - Telegram Bot
+[2026-10-29 08:46:21]   TARGET: B.Tech Freshers | LOCATION: Hyderabad
+[2026-10-29 08:46:21]   CHECK INTERVAL: Every 10 minutes
+[2026-10-29 08:46:21] ============================================================
+[2026-10-29 08:46:21] Loaded 994 previously seen jobs.
+[2026-10-29 08:46:21] Window: sending jobs posted after 2026-10-28T16:46:13.185526
+[2026-10-29 08:46:21] Checking for new B.Tech fresher jobs from LinkedIn...
+[2026-10-29 08:52:14] Found 1 new jobs! Sending to Telegram...
+[2026-10-29 08:52:17]   Sent: [LinkedIn] .NET Developer – React.js Focus @ Quest Global | Greater Hyderabad Area
+[2026-10-29 08:52:17] Done. Sent 1 new jobs. Total tracked: 995
+[2026-10-29 08:52:17] Single-run cycle complete. Exiting.
