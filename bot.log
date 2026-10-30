@@ -4983,3 +4983,25 @@
 [2026-10-29 17:01:33] Checking for new B.Tech fresher jobs from LinkedIn...
 [2026-10-29 17:07:55] No new jobs found. Total tracked: 995
 [2026-10-29 17:07:55] Single-run cycle complete. Exiting.
+[2026-10-30 08:55:11] ============================================================
+[2026-10-30 08:55:11]   B.Tech Jobs Fresher - Telegram Bot
+[2026-10-30 08:55:11]   TARGET: B.Tech Freshers | LOCATION: Hyderabad
+[2026-10-30 08:55:11]   CHECK INTERVAL: Every 10 minutes
+[2026-10-30 08:55:11] ============================================================
+[2026-10-30 08:55:11] Loaded 995 previously seen jobs.
+[2026-10-30 08:55:11] Window: sending jobs posted after 2026-10-29T17:01:33.270423
+[2026-10-30 08:55:11] Checking for new B.Tech fresher jobs from LinkedIn...
+[2026-10-30 09:01:13] Found 11 new jobs! Sending to Telegram...
+[2026-10-30 09:01:15]   Sent: [LinkedIn] Trainee Consultant - SAP - NextGen Technical Innovation Job @ YASH Technologies Middle East | Greater Hyderabad Area
+[2026-10-30 09:01:18]   Sent: [LinkedIn] Application Engineer @ Leanwatts | Hyderabad, Telangana, India
+[2026-10-30 09:01:21]   Sent: [LinkedIn] Design Engineer @ Cyient | Greater Hyderabad Area
+[2026-10-30 09:01:23]   Sent: [LinkedIn] Civil Quality Control Engineer @ APTGSSC PVT LTD | Hyderabad, Telangana, India
+[2026-10-30 09:01:26]   Sent: [LinkedIn] Software Engineer @ Scoutit | Hyderabad, Telangana, India
+[2026-10-30 09:01:29]   Sent: [LinkedIn] Senior Executive - Data Analytics @ Mango Mass Media | Hyderabad, Telangana, India
+[2026-10-30 09:01:32]   Sent: [LinkedIn] NETWORK @ Zensar Technologies | Hyderabad, Telangana, India
+[2026-10-30 09:01:34]   Sent: [LinkedIn] Support Engineer @ Artech | Hyderabad, Telangana, India
+[2026-10-30 09:01:37]   Sent: [LinkedIn] NETWORK @ Zensar Technologies | Hyderabad, Telangana, India
+[2026-10-30 09:01:40]   Sent: [LinkedIn] DevOps Engineer @ Scoutit | Hyderabad, Telangana, India
+[2026-10-30 09:01:43]   Sent: [LinkedIn] Front Office Executive @ PalTech | Hyderabad, Telangana, India
+[2026-10-30 09:01:43] Done. Sent 11 new jobs. Total tracked: 1005
+[2026-10-30 09:01:43] Single-run cycle complete. Exiting.
