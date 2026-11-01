@@ -5042,3 +5042,19 @@
 [2026-10-31 15:49:44] Checking for new B.Tech fresher jobs from LinkedIn...
 [2026-10-31 15:55:08] No new jobs found. Total tracked: 1011
 [2026-10-31 15:55:08] Single-run cycle complete. Exiting.
+[2026-11-01 09:32:09] ============================================================
+[2026-11-01 09:32:09]   B.Tech Jobs Fresher - Telegram Bot
+[2026-11-01 09:32:09]   TARGET: B.Tech Freshers | LOCATION: Hyderabad
+[2026-11-01 09:32:09]   CHECK INTERVAL: Every 10 minutes
+[2026-11-01 09:32:09] ============================================================
+[2026-11-01 09:32:09] Loaded 1011 previously seen jobs.
+[2026-11-01 09:32:09] Window: sending jobs posted after 2026-10-31T15:49:44.832669
+[2026-11-01 09:32:09] Checking for new B.Tech fresher jobs from LinkedIn...
+[2026-11-01 09:36:20] Found 5 new jobs! Sending to Telegram...
+[2026-11-01 09:36:23]   Sent: [LinkedIn] ENGINEER, SIG ELECTRICAL DESIGN @ Micron Technology | Hyderabad, Telangana, India
+[2026-11-01 09:36:26]   Sent: [LinkedIn] IC Package Development Engineer @ Micron Technology | Hyderabad, Telangana, India
+[2026-11-01 09:36:29]   Sent: [LinkedIn] SDx Expert @ L&T Technology Services | Hyderabad, Telangana, India
+[2026-11-01 09:36:31]   Sent: [LinkedIn] TOOLS ENGINEER L3 @ Wipro | Hyderabad, Telangana, India
+[2026-11-01 09:36:34]   Sent: [LinkedIn] Engineer – PDE Process Control Systems @ Micron Technology | Hyderabad, Telangana, India
+[2026-11-01 09:36:34] Done. Sent 5 new jobs. Total tracked: 1016
+[2026-11-01 09:36:34] Single-run cycle complete. Exiting.
