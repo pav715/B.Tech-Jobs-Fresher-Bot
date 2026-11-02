@@ -5068,3 +5068,31 @@
 [2026-11-01 16:53:10] Checking for new B.Tech fresher jobs from LinkedIn...
 [2026-11-01 16:59:01] No new jobs found. Total tracked: 1016
 [2026-11-01 16:59:01] Single-run cycle complete. Exiting.
+[2026-11-02 09:49:27] ============================================================
+[2026-11-02 09:49:27]   B.Tech Jobs Fresher - Telegram Bot
+[2026-11-02 09:49:27]   TARGET: B.Tech Freshers | LOCATION: Hyderabad
+[2026-11-02 09:49:27]   CHECK INTERVAL: Every 10 minutes
+[2026-11-02 09:49:27] ============================================================
+[2026-11-02 09:49:27] Loaded 1016 previously seen jobs.
+[2026-11-02 09:49:27] Window: sending jobs posted after 2026-11-01T16:53:10.458967
+[2026-11-02 09:49:27] Checking for new B.Tech fresher jobs from LinkedIn...
+[2026-11-02 09:55:06] Found 17 new jobs! Sending to Telegram...
+[2026-11-02 09:55:09]   Sent: [LinkedIn] Sales Specialist @ INtown | Hyderabad, Telangana, India
+[2026-11-02 09:55:11]   Sent: [LinkedIn] Associate - Software Development & Engineering (Site Reliability Engineer) @ Charles Schwab India | Hyderabad, Telangana, India
+[2026-11-02 09:55:14]   Sent: [LinkedIn] Conservation Fundraising Specialist @ WWF-India | Hyderabad, Telangana, India
+[2026-11-02 09:55:16]   Sent: [LinkedIn] ML Engineer I @ UST | Hyderabad, Telangana, India
+[2026-11-02 09:55:19]   Sent: [LinkedIn] Field Services Engineer @ Medsource Ozone Biomedicals Pvt. Ltd. | Hyderabad, Telangana, India
+[2026-11-02 09:55:22]   Sent: [LinkedIn] CPU Design Verification Engineer II @ SiFive | Hyderabad, Telangana, India
+[2026-11-02 09:55:25]   Sent: [LinkedIn] Frontend Developer @ Scoutit | Hyderabad, Telangana, India
+[2026-11-02 09:55:27]   Sent: [LinkedIn] Site Supervisor @ Nexgen Sports Infra Private Limited | Hyderabad, Telangana, India
+[2026-11-02 09:55:30]   Sent: [LinkedIn] Research Engineer II - Structural Engineering & Risk @ Verisk | Hyderabad, Telangana, India
+[2026-11-02 09:55:33]   Sent: [LinkedIn] Full Stack Developer Intern @ TRENDLANCE INNOVATIONS | Hyderabad, Telangana, India
+[2026-11-02 09:55:35]   Sent: [LinkedIn] Software Engineer II - Buyside Services Engineering @ FactSet | Hyderabad, Telangana, India
+[2026-11-02 09:55:38]   Sent: [LinkedIn] Software Engineer III - Buyside Services Engineering @ FactSet | Hyderabad, Telangana, India
+[2026-11-02 09:55:40]   Sent: [LinkedIn] Engineering Technician @ SysTechCorp Inc | Hyderabad, Telangana, India
+[2026-11-02 09:55:43]   Sent: [LinkedIn] Quality Assurance Engineer @ Adaptive Technology Insights | Hyderabad, Telangana, India
+[2026-11-02 09:55:46]   Sent: [LinkedIn] Pega Smart Dispute Developer @ Insight International (UK) Ltd | Hyderabad, Telangana, India
+[2026-11-02 09:55:48]   Sent: [LinkedIn] Faculty Vacancy 2026 at CMR College of Engineering and Technology, Hyderabad @ acadexmatch.com | Hyderabad, Telangana, India
+[2026-11-02 09:55:51]   Sent: [LinkedIn] Technical Recruiter @ Korn Ferry | Hyderabad, Telangana, India
+[2026-11-02 09:55:51] Done. Sent 17 new jobs. Total tracked: 1033
+[2026-11-02 09:55:51] Single-run cycle complete. Exiting.
