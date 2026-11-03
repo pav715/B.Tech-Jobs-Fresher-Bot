@@ -5106,3 +5106,31 @@
 [2026-11-02 20:28:04] Checking for new B.Tech fresher jobs from LinkedIn...
 [2026-11-02 20:33:33] No new jobs found. Total tracked: 1033
 [2026-11-02 20:33:33] Single-run cycle complete. Exiting.
+[2026-11-03 09:53:26] ============================================================
+[2026-11-03 09:53:26]   B.Tech Jobs Fresher - Telegram Bot
+[2026-11-03 09:53:26]   TARGET: B.Tech Freshers | LOCATION: Hyderabad
+[2026-11-03 09:53:26]   CHECK INTERVAL: Every 10 minutes
+[2026-11-03 09:53:26] ============================================================
+[2026-11-03 09:53:26] Loaded 1033 previously seen jobs.
+[2026-11-03 09:53:26] Window: sending jobs posted after 2026-11-02T20:28:04.181910
+[2026-11-03 09:53:26] Checking for new B.Tech fresher jobs from LinkedIn...
+[2026-11-03 09:59:24] Found 17 new jobs! Sending to Telegram...
+[2026-11-03 09:59:27]   Sent: [LinkedIn] Technical Support Engineer @ Vanix Technologies | Hyderabad, Telangana, India
+[2026-11-03 09:59:30]   Sent: [LinkedIn] Mechanical Design Engineer @ PREMIER PUMPS | Hyderabad, Telangana, India
+[2026-11-03 09:59:32]   Sent: [LinkedIn] Medical Coding Jobs for Biomedical Engineer and Biotechnology Engineer @ Achievers Spot | Hyderabad, Telangana, India
+[2026-11-03 09:59:35]   Sent: [LinkedIn] Opening for Biomedical Engineer and Biotechnology Engineer for Medical Coding @ Achievers Spot | Hyderabad, Telangana, India
+[2026-11-03 09:59:38]   Sent: [LinkedIn] Instrument Calibration Engineer @ Castor Engineering Pvt Ltd | Hyderabad, Telangana, India
+[2026-11-03 09:59:40]   Sent: [LinkedIn] CA Articleship Trainee – Hyderabad @ Shekar and Co. | Hyderabad, Telangana, India
+[2026-11-03 09:59:43]   Sent: [LinkedIn] Controls Engineer @ ATS India Pvt Ltd | Hyderabad, Telangana, India
+[2026-11-03 09:59:46]   Sent: [LinkedIn] HVAC Site Supervisor @ Matsya Green Enviro Private Limited | Hyderabad, Telangana, India
+[2026-11-03 09:59:49]   Sent: [LinkedIn] Site Supervisor @ SRK GREEN PARK AVENUES PVT LTD | Hyderabad, Telangana, India
+[2026-11-03 09:59:52]   Sent: [LinkedIn] Python Developer @ Scoutit | Hyderabad, Telangana, India
+[2026-11-03 09:59:55]   Sent: [LinkedIn] Software Development Engineer II @ Entain India | Hyderabad, Telangana, India
+[2026-11-03 09:59:57]   Sent: [LinkedIn] Frontend Developer - React @ Deservely Technologies | Hyderabad, Telangana, India
+[2026-11-03 10:00:00]   Sent: [LinkedIn] Backend Developer - Java @ Deservely Technologies | Hyderabad, Telangana, India
+[2026-11-03 10:00:02]   Sent: [LinkedIn] Engineering Technician / Equipment Technician @ SysTechCorp Inc | Hyderabad, Telangana, India
+[2026-11-03 10:00:05]   Sent: [LinkedIn] DC-ACI L2 Engineer | Immediate @ Neev | Hyderabad, Telangana, India
+[2026-11-03 10:00:08]   Sent: [LinkedIn] QA Engineer @ ARNsofttech | Hyderabad, Telangana, India
+[2026-11-03 10:00:11]   Sent: [LinkedIn] Social Media & Content Creator (Graphic Design) @ Club Rogue | Hyderabad, Telangana, India
+[2026-11-03 10:00:11] Done. Sent 17 new jobs. Total tracked: 1050
+[2026-11-03 10:00:11] Single-run cycle complete. Exiting.
