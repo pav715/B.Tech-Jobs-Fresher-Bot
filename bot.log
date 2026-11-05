@@ -5181,3 +5181,26 @@
 [2026-11-04 18:10:22] Checking for new B.Tech fresher jobs from LinkedIn...
 [2026-11-04 18:15:59] No new jobs found. Total tracked: 1066
 [2026-11-04 18:15:59] Single-run cycle complete. Exiting.
+[2026-11-05 09:44:42] ============================================================
+[2026-11-05 09:44:42]   B.Tech Jobs Fresher - Telegram Bot
+[2026-11-05 09:44:42]   TARGET: B.Tech Freshers | LOCATION: Hyderabad
+[2026-11-05 09:44:42]   CHECK INTERVAL: Every 10 minutes
+[2026-11-05 09:44:42] ============================================================
+[2026-11-05 09:44:42] Loaded 1066 previously seen jobs.
+[2026-11-05 09:44:42] Window: sending jobs posted after 2026-11-04T18:10:22.767363
+[2026-11-05 09:44:42] Checking for new B.Tech fresher jobs from LinkedIn...
+[2026-11-05 09:49:39] Found 12 new jobs! Sending to Telegram...
+[2026-11-05 09:49:43]   Sent: [LinkedIn] Sales Executive @ Fire & safety | Hyderabad, Telangana, India
+[2026-11-05 09:49:46]   Sent: [LinkedIn] FIELD MARKETING EXECUTIVE @ Sketch MultiCorp | Hyderabad, Telangana, India
+[2026-11-05 09:49:48]   Sent: [LinkedIn] Electrical Engineer @ MVR infra projects pvt.ltd | Hyderabad, Telangana, India
+[2026-11-05 09:49:51]   Sent: [LinkedIn] Associate Consultant - SAP FICO @ Argano | Hyderabad, Telangana, India
+[2026-11-05 09:49:54]   Sent: [LinkedIn] AutoCAD Designer @ Placenest Services Private Limited | Hyderabad, Telangana, India
+[2026-11-05 09:49:57]   Sent: [LinkedIn] CAD Volume Extraction Engineer @ Cyient | Greater Hyderabad Area
+[2026-11-05 09:50:00]   Sent: [LinkedIn] Estimator @ SISRA LLP | Hyderabad, Telangana, India
+[2026-11-05 09:50:03]   Sent: [LinkedIn] The Core Engineering - NFR & Controls Data Eng - Associate - Hyderabad @ Goldman Sachs | Hyderabad, Telangana, India
+[2026-11-05 09:50:05]   Sent: [LinkedIn] Software Engineer II @ Mitratech | Hyderabad, Telangana, India
+[2026-11-05 09:50:08]   Sent: [LinkedIn] Fullstack Java With Angular-Software Engineer II @ Deloitte | Hyderabad, Telangana, India
+[2026-11-05 09:50:11]   Sent: [LinkedIn] Sr. Engineer, Design @ Micron Technology | Hyderabad, Telangana, India
+[2026-11-05 09:50:14]   Sent: [LinkedIn] Information Technology Support Engineer @ Imaging Endpoints | Hyderabad, Telangana, India
+[2026-11-05 09:50:14] Done. Sent 12 new jobs. Total tracked: 1078
+[2026-11-05 09:50:14] Single-run cycle complete. Exiting.
