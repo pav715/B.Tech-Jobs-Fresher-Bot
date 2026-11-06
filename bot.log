@@ -5214,3 +5214,28 @@
 [2026-11-05 18:11:44] Checking for new B.Tech fresher jobs from LinkedIn...
 [2026-11-05 18:17:41] No new jobs found. Total tracked: 1078
 [2026-11-05 18:17:41] Single-run cycle complete. Exiting.
+[2026-11-06 09:41:47] ============================================================
+[2026-11-06 09:41:47]   B.Tech Jobs Fresher - Telegram Bot
+[2026-11-06 09:41:47]   TARGET: B.Tech Freshers | LOCATION: Hyderabad
+[2026-11-06 09:41:47]   CHECK INTERVAL: Every 10 minutes
+[2026-11-06 09:41:47] ============================================================
+[2026-11-06 09:41:47] Loaded 1078 previously seen jobs.
+[2026-11-06 09:41:47] Window: sending jobs posted after 2026-11-05T18:11:44.423738
+[2026-11-06 09:41:47] Checking for new B.Tech fresher jobs from LinkedIn...
+[2026-11-06 09:47:29] Found 14 new jobs! Sending to Telegram...
+[2026-11-06 09:47:32]   Sent: [LinkedIn] Sales Specialists @ Polmon Instruments Pvt Ltd | Hyderabad, Telangana, India
+[2026-11-06 09:47:34]   Sent: [LinkedIn] Business Analyst (AI & Enterprise Technology) @ Turium Ai | Hyderabad, Telangana, India
+[2026-11-06 09:47:37]   Sent: [LinkedIn] Human Resources Service Center Support Entry Professional @ Hitachi Digital | Hyderabad, Telangana, India
+[2026-11-06 09:47:40]   Sent: [LinkedIn] Junior Salesforce Admin @ Artmac | Hyderabad, Telangana, India
+[2026-11-06 09:47:42]   Sent: [LinkedIn] Mechanical quality control engineer @ PREMIER PUMPS | Hyderabad, Telangana, India
+[2026-11-06 09:47:45]   Sent: [LinkedIn] Junior Research Fellow @ University of Hyderabad | Hyderabad, Telangana, India
+[2026-11-06 09:47:48]   Sent: [LinkedIn] L1 Support Engineer @ TECEZE | Hyderabad, Telangana, India
+[2026-11-06 09:47:51]   Sent: [LinkedIn] Mechanical, Electrical, and Plumbing Engineer @ Cesmep Consultants Pvt Ltd | Hyderabad, Telangana, India
+[2026-11-06 09:47:53]   Sent: [LinkedIn] Research Technician III - Agriculture @ International Rice Research Institute | Hyderabad, Telangana, India
+[2026-11-06 09:47:56]   Sent: [LinkedIn] Business Strategy Analyst @ Arise TechGlobal | Hyderabad, Telangana, India
+[2026-11-06 09:47:59]   Sent: [LinkedIn] Applications Engineer - ICV Runset Development @ Synopsys Inc | Hyderabad, Telangana, India
+[2026-11-06 09:48:02]   Sent: [LinkedIn] IT Testing Engineer I @ Conduent | Hyderabad, Telangana, India
+[2026-11-06 09:48:05]   Sent: [LinkedIn] IT Testing Engineer I @ Conduent | Hyderabad, Telangana, India
+[2026-11-06 09:48:07]   Sent: [LinkedIn] Microsoft 365 Security and Compliance Senior Administrator @ Cyient | Greater Hyderabad Area
+[2026-11-06 09:48:07] Done. Sent 14 new jobs. Total tracked: 1091
+[2026-11-06 09:48:07] Single-run cycle complete. Exiting.
