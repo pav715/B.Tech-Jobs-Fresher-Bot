@@ -5249,3 +5249,23 @@
 [2026-11-06 17:38:18] Checking for new B.Tech fresher jobs from LinkedIn...
 [2026-11-06 17:44:22] No new jobs found. Total tracked: 1091
 [2026-11-06 17:44:22] Single-run cycle complete. Exiting.
+[2026-11-07 09:03:57] ============================================================
+[2026-11-07 09:03:57]   B.Tech Jobs Fresher - Telegram Bot
+[2026-11-07 09:03:57]   TARGET: B.Tech Freshers | LOCATION: Hyderabad
+[2026-11-07 09:03:57]   CHECK INTERVAL: Every 10 minutes
+[2026-11-07 09:03:57] ============================================================
+[2026-11-07 09:03:57] Loaded 1091 previously seen jobs.
+[2026-11-07 09:03:57] Window: sending jobs posted after 2026-11-06T17:38:18.140374
+[2026-11-07 09:03:57] Checking for new B.Tech fresher jobs from LinkedIn...
+[2026-11-07 09:09:46] Found 9 new jobs! Sending to Telegram...
+[2026-11-07 09:09:49]   Sent: [LinkedIn] Data Engineer Apprentice @ Crowe Capabilities Center – India | Greater Hyderabad Area
+[2026-11-07 09:09:51]   Sent: [LinkedIn] .Net Developer Apprentice @ Crowe Capabilities Center – India | Greater Hyderabad Area
+[2026-11-07 09:09:54]   Sent: [LinkedIn] Service Engineer – Lyo @ Tofflon India Pvt. Ltd. | Hyderabad, Telangana, India
+[2026-11-07 09:09:57]   Sent: [LinkedIn] Senior Engineer/ Engineer – Package Silicon Integration Engineer @ Micron Technology | Hyderabad, Telangana, India
+[2026-11-07 09:09:59]   Sent: [LinkedIn] Camera Firmware Engineer @ Qualcomm Innovation Center, Inc. | Greater Hyderabad Area
+[2026-11-07 09:10:02]   Sent: [LinkedIn] Staff Engineer, ASIC STA @ Micron Technology | Hyderabad, Telangana, India
+[2026-11-07 09:10:05]   Sent: [LinkedIn] Senior Engineer ASIC DV @ Micron Technology | Hyderabad, Telangana, India
+[2026-11-07 09:10:08]   Sent: [LinkedIn] Staff DFT Engineer @ Mulya Technologies | Greater Hyderabad Area
+[2026-11-07 09:10:10]   Sent: [LinkedIn] Senior Java Software Engineer with Groovy @ Hireign Innoways | Hyderabad, Telangana, India
+[2026-11-07 09:10:10] Done. Sent 9 new jobs. Total tracked: 1100
+[2026-11-07 09:10:10] Single-run cycle complete. Exiting.
