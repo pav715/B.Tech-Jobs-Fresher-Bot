@@ -5304,3 +5304,24 @@
 [2026-11-08 16:45:34] Checking for new B.Tech fresher jobs from LinkedIn...
 [2026-11-08 16:50:23] No new jobs found. Total tracked: 1104
 [2026-11-08 16:50:23] Single-run cycle complete. Exiting.
+[2026-11-09 10:07:32] ============================================================
+[2026-11-09 10:07:32]   B.Tech Jobs Fresher - Telegram Bot
+[2026-11-09 10:07:32]   TARGET: B.Tech Freshers | LOCATION: Hyderabad
+[2026-11-09 10:07:32]   CHECK INTERVAL: Every 10 minutes
+[2026-11-09 10:07:32] ============================================================
+[2026-11-09 10:07:32] Loaded 1104 previously seen jobs.
+[2026-11-09 10:07:32] Window: sending jobs posted after 2026-11-08T16:45:34.694037
+[2026-11-09 10:07:32] Checking for new B.Tech fresher jobs from LinkedIn...
+[2026-11-09 10:11:24] Found 10 new jobs! Sending to Telegram...
+[2026-11-09 10:11:28]   Sent: [LinkedIn] Radiology Assistant - BSC radiology Imaging fresh passouts @ Apollo Radiology International | Hyderabad, Telangana, India
+[2026-11-09 10:11:31]   Sent: [LinkedIn] Software Engineer and Tester @ iTester Inc | Hyderabad, Telangana, India
+[2026-11-09 10:11:33]   Sent: [LinkedIn] Software Engineer @ RiVirtual India | Hyderabad, Telangana, India
+[2026-11-09 10:11:36]   Sent: [LinkedIn] Network Development Engineer, Automation Deployment @ NetBrain Technologies Inc. | Greater Hyderabad Area
+[2026-11-09 10:11:39]   Sent: [LinkedIn] Engineer, DDEG Design Methodology @ Micron Technology | Hyderabad, Telangana, India
+[2026-11-09 10:11:42]   Sent: [LinkedIn] Field Application Engineer @ Hexagon R&D India | Hyderabad, Telangana, India
+[2026-11-09 10:11:44]   Sent: [LinkedIn] Coordinate Measuring Machine Programmer @ MEDHA SERVO DRIVES PVT LTD (MSDPL) | Hyderabad, Telangana, India
+[2026-11-09 10:11:47]   Sent: [LinkedIn] Data Engineering - Internship (Paid) @ SwiftB2B | Hyderabad, Telangana, India
+[2026-11-09 10:11:50]   Sent: [LinkedIn] Network Development Engineer, Platform Development @ NetBrain Technologies Inc. | Greater Hyderabad Area
+[2026-11-09 10:11:53]   Sent: [LinkedIn] Basis TSM @ vividstrats | Hyderabad, Telangana, India
+[2026-11-09 10:11:53] Done. Sent 10 new jobs. Total tracked: 1114
+[2026-11-09 10:11:53] Single-run cycle complete. Exiting.
