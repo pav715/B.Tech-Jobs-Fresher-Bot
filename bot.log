@@ -5335,3 +5335,26 @@
 [2026-11-09 20:57:40] Checking for new B.Tech fresher jobs from LinkedIn...
 [2026-11-09 21:02:58] No new jobs found. Total tracked: 1114
 [2026-11-09 21:02:58] Single-run cycle complete. Exiting.
+[2026-11-10 10:14:55] ============================================================
+[2026-11-10 10:14:55]   B.Tech Jobs Fresher - Telegram Bot
+[2026-11-10 10:14:55]   TARGET: B.Tech Freshers | LOCATION: Hyderabad
+[2026-11-10 10:14:55]   CHECK INTERVAL: Every 10 minutes
+[2026-11-10 10:14:55] ============================================================
+[2026-11-10 10:14:55] Loaded 1114 previously seen jobs.
+[2026-11-10 10:14:55] Window: sending jobs posted after 2026-11-09T20:57:40.810460
+[2026-11-10 10:14:55] Checking for new B.Tech fresher jobs from LinkedIn...
+[2026-11-10 10:20:29] Found 12 new jobs! Sending to Telegram...
+[2026-11-10 10:20:32]   Sent: [LinkedIn] Graphic Designer @ WebAnatomy | Hyderabad, Telangana, India
+[2026-11-10 10:20:35]   Sent: [LinkedIn] Technical Support Associate @ Lyros Technologies Pvt Ltd-CMMI Level 3 | Hyderabad, Telangana, India
+[2026-11-10 10:20:38]   Sent: [LinkedIn] Service Engineer for Philips/Siemens Cathlab @ SBM HEALTHCARE (INDIA) PVT. LTD. | Hyderabad, Telangana, India
+[2026-11-10 10:20:41]   Sent: [LinkedIn] Warehouse Executive @ FirstCry.com (BrainBees Solutions Ltd.) | Hyderabad, Telangana, India
+[2026-11-10 10:20:44]   Sent: [LinkedIn] Australia Tax Technology services – Consultant - Applied AI engineer @ Deloitte | Hyderabad, Telangana, India
+[2026-11-10 10:20:47]   Sent: [LinkedIn] Java Backend Developer @ EduRun Group | Hyderabad, Telangana, India
+[2026-11-10 10:20:50]   Sent: [LinkedIn] Dotnet Developer @ OwlSure | Hyderabad, Telangana, India
+[2026-11-10 10:20:53]   Sent: [LinkedIn] DevOps Engineer @ Soctronics | Hyderabad, Telangana, India
+[2026-11-10 10:20:55]   Sent: [LinkedIn] Senior Engineer-ASIC Design Verification @ Micron Technology | Hyderabad, Telangana, India
+[2026-11-10 10:20:58]   Sent: [LinkedIn] SoC Front-End Design & Signoff Engineer @ Amlogic, Inc. | Hyderabad, Telangana, India
+[2026-11-10 10:21:01]   Sent: [LinkedIn] Platform Engineering Associate @ The Depository Trust & Clearing Corporation (DTCC) | Hyderabad, Telangana, India
+[2026-11-10 10:21:04]   Sent: [LinkedIn] Front Desk Executive @ EThames Business School, Hyderabad | Hyderabad, Telangana, India
+[2026-11-10 10:21:04] Done. Sent 12 new jobs. Total tracked: 1126
+[2026-11-10 10:21:04] Single-run cycle complete. Exiting.
