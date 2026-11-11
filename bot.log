@@ -5368,3 +5368,31 @@
 [2026-11-10 18:05:50] Checking for new B.Tech fresher jobs from LinkedIn...
 [2026-11-10 18:10:49] No new jobs found. Total tracked: 1126
 [2026-11-10 18:10:49] Single-run cycle complete. Exiting.
+[2026-11-11 09:44:33] ============================================================
+[2026-11-11 09:44:33]   B.Tech Jobs Fresher - Telegram Bot
+[2026-11-11 09:44:33]   TARGET: B.Tech Freshers | LOCATION: Hyderabad
+[2026-11-11 09:44:33]   CHECK INTERVAL: Every 10 minutes
+[2026-11-11 09:44:33] ============================================================
+[2026-11-11 09:44:33] Loaded 1126 previously seen jobs.
+[2026-11-11 09:44:33] Window: sending jobs posted after 2026-11-10T18:05:50.557027
+[2026-11-11 09:44:33] Checking for new B.Tech fresher jobs from LinkedIn...
+[2026-11-11 09:49:31] Found 17 new jobs! Sending to Telegram...
+[2026-11-11 09:49:34]   Sent: [LinkedIn] Accountant @ Arclend | Hyderabad, Telangana, India
+[2026-11-11 09:49:36]   Sent: [LinkedIn] Interior Designer @ Archdexx Design Studio | Hyderabad, Telangana, India
+[2026-11-11 09:49:39]   Sent: [LinkedIn] Learning Specialist, 2 Hour Learning (Remote) - $60,000/year USD @ Alpha School | Hyderabad, Telangana, India
+[2026-11-11 09:49:42]   Sent: [LinkedIn] Associate - Finance Freshers MBA/CMA/CA @ Winfo Solutions | Greater Hyderabad Area
+[2026-11-11 09:49:44]   Sent: [LinkedIn] Staff/Principal Engineer, Product Engineering @ Micron Technology | Hyderabad, Telangana, India
+[2026-11-11 09:49:47]   Sent: [LinkedIn] Business Analyst @ TekGenio | Hyderabad, Telangana, India
+[2026-11-11 09:49:49]   Sent: [LinkedIn] Solidworks design intern @ Exodrone Systems | Hyderabad, Telangana, India
+[2026-11-11 09:49:52]   Sent: [LinkedIn] Civil Structural Designer @ 4K Sports Infra Private Limited | Hyderabad, Telangana, India
+[2026-11-11 09:49:55]   Sent: [LinkedIn] BIM Specialist I @ AECOM | Hyderabad, Telangana, India
+[2026-11-11 09:49:57]   Sent: [LinkedIn] Full Stack @ Rootlex Technologies Private Limited | Hyderabad, Telangana, India
+[2026-11-11 09:50:00]   Sent: [LinkedIn] Software Engineering - Internship (Paid) @ SwiftB2B | Hyderabad, Telangana, India
+[2026-11-11 09:50:03]   Sent: [LinkedIn] Analyst, Network Engineering @ ICE | Hyderabad, Telangana, India
+[2026-11-11 09:50:05]   Sent: [LinkedIn] Robotics Trainer @ Quantum Academics | Hyderabad, Telangana, India
+[2026-11-11 09:50:08]   Sent: [LinkedIn] AI & IoT Research Intern @ GAOTek Inc. | Hyderabad, Telangana, India
+[2026-11-11 09:50:11]   Sent: [LinkedIn] lead Design Engineer @ Cadence | Hyderabad, Telangana, India
+[2026-11-11 09:50:13]   Sent: [LinkedIn] STAFF ENGINEER, Design Verification @ Micron Technology | Hyderabad, Telangana, India
+[2026-11-11 09:50:16]   Sent: [LinkedIn] Senior Associate - Lead Cloud Operations Engineer [T500-30689] @ Deutsche Börse Group | Hyderabad, Telangana, India
+[2026-11-11 09:50:16] Done. Sent 17 new jobs. Total tracked: 1143
+[2026-11-11 09:50:16] Single-run cycle complete. Exiting.
