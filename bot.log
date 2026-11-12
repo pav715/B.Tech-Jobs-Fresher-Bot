@@ -5406,3 +5406,29 @@
 [2026-11-11 17:59:23] Checking for new B.Tech fresher jobs from LinkedIn...
 [2026-11-11 18:04:47] No new jobs found. Total tracked: 1143
 [2026-11-11 18:04:47] Single-run cycle complete. Exiting.
+[2026-11-12 10:05:24] ============================================================
+[2026-11-12 10:05:24]   B.Tech Jobs Fresher - Telegram Bot
+[2026-11-12 10:05:24]   TARGET: B.Tech Freshers | LOCATION: Hyderabad
+[2026-11-12 10:05:24]   CHECK INTERVAL: Every 10 minutes
+[2026-11-12 10:05:24] ============================================================
+[2026-11-12 10:05:24] Loaded 1143 previously seen jobs.
+[2026-11-12 10:05:24] Window: sending jobs posted after 2026-11-11T17:59:23.800060
+[2026-11-12 10:05:24] Checking for new B.Tech fresher jobs from LinkedIn...
+[2026-11-12 10:10:25] Found 15 new jobs! Sending to Telegram...
+[2026-11-12 10:10:28]   Sent: [LinkedIn] Junior AI Platform Engineer @ Crowe Capabilities Center – India | Greater Hyderabad Area
+[2026-11-12 10:10:31]   Sent: [LinkedIn] Software Engineer @ CXO Events | Hyderabad, Telangana, India
+[2026-11-12 10:10:33]   Sent: [LinkedIn] Software Engineer in Test @ 9Sprints | Hyderabad, Telangana, India
+[2026-11-12 10:10:36]   Sent: [LinkedIn] Soc Validation Engineer @ AMD | Hyderabad, Telangana, India
+[2026-11-12 10:10:39]   Sent: [LinkedIn] CPU Verification Engineer @ AMD | Hyderabad, Telangana, India
+[2026-11-12 10:10:42]   Sent: [LinkedIn] Intern Bachelors Mech Eng @ Honeywell Aerospace | Hyderabad, Telangana, India
+[2026-11-12 10:10:45]   Sent: [LinkedIn] Mechanical CAD Engineer @ Cyient | Greater Hyderabad Area
+[2026-11-12 10:10:47]   Sent: [LinkedIn] AutoCAD Developer @ Cyient | Greater Hyderabad Area
+[2026-11-12 10:10:50]   Sent: [LinkedIn] Java Developer @ BDS AI Digital Solutions Pvt Ltd | Hyderabad, Telangana, India
+[2026-11-12 10:10:53]   Sent: [LinkedIn] Java Software Engineer @ 9Sprints | Hyderabad, Telangana, India
+[2026-11-12 10:10:56]   Sent: [LinkedIn] Infrastructure / Network Engineer @ Infosys | Hyderabad, Telangana, India
+[2026-11-12 10:10:58]   Sent: [LinkedIn] Analog circuit designers @ Cyient | Greater Hyderabad Area
+[2026-11-12 10:11:01]   Sent: [LinkedIn] Quality Assurance Analyst(Selenium, API, Playwright, 2-4Yrs) @ Infor | Hyderabad, Telangana, India
+[2026-11-12 10:11:04]   Sent: [LinkedIn] Quality Assurance Analyst @ Infor | Hyderabad, Telangana, India
+[2026-11-12 10:11:06]   Sent: [LinkedIn] Radiology Typist @ Nextenti Tech Private Limited | Hyderabad, Telangana, India
+[2026-11-12 10:11:06] Done. Sent 15 new jobs. Total tracked: 1158
+[2026-11-12 10:11:06] Single-run cycle complete. Exiting.
