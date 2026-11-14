@@ -5473,3 +5473,23 @@
 [2026-11-13 17:57:46] Checking for new B.Tech fresher jobs from LinkedIn...
 [2026-11-13 18:03:23] No new jobs found. Total tracked: 1168
 [2026-11-13 18:03:23] Single-run cycle complete. Exiting.
+[2026-11-14 09:15:41] ============================================================
+[2026-11-14 09:15:41]   B.Tech Jobs Fresher - Telegram Bot
+[2026-11-14 09:15:41]   TARGET: B.Tech Freshers | LOCATION: Hyderabad
+[2026-11-14 09:15:41]   CHECK INTERVAL: Every 10 minutes
+[2026-11-14 09:15:41] ============================================================
+[2026-11-14 09:15:41] Loaded 1168 previously seen jobs.
+[2026-11-14 09:15:41] Window: sending jobs posted after 2026-11-13T17:57:46.518537
+[2026-11-14 09:15:41] Checking for new B.Tech fresher jobs from LinkedIn...
+[2026-11-14 09:21:20] Found 9 new jobs! Sending to Telegram...
+[2026-11-14 09:21:22]   Sent: [LinkedIn] Technical Support Executive @ Lyros Technologies Pvt Ltd-CMMI Level 3 | Hyderabad, Telangana, India
+[2026-11-14 09:21:25]   Sent: [LinkedIn] Electronics/Electrical Engineering Intern @ SILVERLINE LIGHTING & EXIM (INDIA) PRIVATE LIMITED | Hyderabad, Telangana, India
+[2026-11-14 09:21:28]   Sent: [LinkedIn] International Service Desk Support – MS 365 & Active Directory @ White Horse Manpower | Greater Hyderabad Area
+[2026-11-14 09:21:31]   Sent: [LinkedIn] Planning Engineer - Project Scheduling, Primavera P6, MS Project @ Veedee Solutions LLP | Hyderabad, Telangana, India
+[2026-11-14 09:21:33]   Sent: [LinkedIn] BIM Modeler @ GLORIOUS BIM SOLUTIONS | Greater Hyderabad Area
+[2026-11-14 09:21:36]   Sent: [LinkedIn] Full Stack Developer @ SolarX | Hyderabad, Telangana, India
+[2026-11-14 09:21:39]   Sent: [LinkedIn] Specialist Data Solution Analyst @ Nationwide | Hyderabad, Telangana, India
+[2026-11-14 09:21:41]   Sent: [LinkedIn] Sr Engineer, ASIC Validation @ Micron Technology | Hyderabad, Telangana, India
+[2026-11-14 09:21:44]   Sent: [LinkedIn] Consultant ou consultante Oracle Cloud Security @ Alithya | Hyderabad, Telangana, India
+[2026-11-14 09:21:44] Done. Sent 9 new jobs. Total tracked: 1177
+[2026-11-14 09:21:44] Single-run cycle complete. Exiting.
