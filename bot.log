@@ -5503,3 +5503,20 @@
 [2026-11-14 16:40:31] Checking for new B.Tech fresher jobs from LinkedIn...
 [2026-11-14 16:46:23] No new jobs found. Total tracked: 1177
 [2026-11-14 16:46:23] Single-run cycle complete. Exiting.
+[2026-11-15 09:45:53] ============================================================
+[2026-11-15 09:45:53]   B.Tech Jobs Fresher - Telegram Bot
+[2026-11-15 09:45:53]   TARGET: B.Tech Freshers | LOCATION: Hyderabad
+[2026-11-15 09:45:53]   CHECK INTERVAL: Every 10 minutes
+[2026-11-15 09:45:53] ============================================================
+[2026-11-15 09:45:53] Loaded 1177 previously seen jobs.
+[2026-11-15 09:45:53] Window: sending jobs posted after 2026-11-14T16:40:31.067941
+[2026-11-15 09:45:53] Checking for new B.Tech fresher jobs from LinkedIn...
+[2026-11-15 09:51:34] Found 6 new jobs! Sending to Telegram...
+[2026-11-15 09:51:37]   Sent: [LinkedIn] Mulesoft-Integration Engineer II @ Deloitte | Hyderabad, Telangana, India
+[2026-11-15 09:51:40]   Sent: [LinkedIn] HVAC BIM Modeller @ JKR CONSULTING & SERVICES | Hyderabad, Telangana, India
+[2026-11-15 09:51:42]   Sent: [LinkedIn] Embedded Engr II @ Honeywell Aerospace | Hyderabad, Telangana, India
+[2026-11-15 09:51:45]   Sent: [LinkedIn] Advanced Embedded Engr @ Honeywell Aerospace | Hyderabad, Telangana, India
+[2026-11-15 09:51:48]   Sent: [LinkedIn] Embedded Engr II @ Honeywell Aerospace | Hyderabad, Telangana, India
+[2026-11-15 09:51:51]   Sent: [LinkedIn] Engineer, IP Dev Layout @ Micron Technology | Hyderabad, Telangana, India
+[2026-11-15 09:51:51] Done. Sent 6 new jobs. Total tracked: 1182
+[2026-11-15 09:51:51] Single-run cycle complete. Exiting.
