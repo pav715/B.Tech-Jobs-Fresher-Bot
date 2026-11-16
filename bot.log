@@ -5530,3 +5530,26 @@
 [2026-11-15 17:20:56] Checking for new B.Tech fresher jobs from LinkedIn...
 [2026-11-15 17:26:22] No new jobs found. Total tracked: 1182
 [2026-11-15 17:26:22] Single-run cycle complete. Exiting.
+[2026-11-16 10:03:00] ============================================================
+[2026-11-16 10:03:00]   B.Tech Jobs Fresher - Telegram Bot
+[2026-11-16 10:03:00]   TARGET: B.Tech Freshers | LOCATION: Hyderabad
+[2026-11-16 10:03:00]   CHECK INTERVAL: Every 10 minutes
+[2026-11-16 10:03:00] ============================================================
+[2026-11-16 10:03:00] Loaded 1182 previously seen jobs.
+[2026-11-16 10:03:00] Window: sending jobs posted after 2026-11-15T17:20:56.524696
+[2026-11-16 10:03:00] Checking for new B.Tech fresher jobs from LinkedIn...
+[2026-11-16 10:08:21] Found 12 new jobs! Sending to Telegram...
+[2026-11-16 10:08:24]   Sent: [LinkedIn] Software Engineer (React Native+AI) @ Quanteon Solutions | Hyderabad, Telangana, India
+[2026-11-16 10:08:26]   Sent: [LinkedIn] Business Associate @ Arise TechGlobal | Hyderabad, Telangana, India
+[2026-11-16 10:08:29]   Sent: [LinkedIn] Opening for Biomedical Engineer,Biotech Engineer,Bioinformatics,Biochemistry gra @ Achievers Spot | Hyderabad, Telangana, India
+[2026-11-16 10:08:32]   Sent: [LinkedIn] Electrical Engineering @ AECOM | Hyderabad, Telangana, India
+[2026-11-16 10:08:35]   Sent: [LinkedIn] Ams Verification Engineer @ QuickHire | Hyderabad, Telangana, India
+[2026-11-16 10:08:38]   Sent: [LinkedIn] Technical Support Analyst @ Scoutit | Hyderabad, Telangana, India
+[2026-11-16 10:08:40]   Sent: [LinkedIn] After Sales Service Specialist @ Labosys Instruments India Private Limited | Hyderabad, Telangana, India
+[2026-11-16 10:08:43]   Sent: [LinkedIn] Quantity Surveyor - Quantity Estimation, Billing Engineer, BOQ @ Salexi HR Advisory Pvt. Ltd | Hyderabad, Telangana, India
+[2026-11-16 10:08:46]   Sent: [LinkedIn] AI/ML Engineer @ Quanteon Solutions | Hyderabad, Telangana, India
+[2026-11-16 10:08:49]   Sent: [LinkedIn] Sr Engineer, Design Enablement @ Renesas Electronics | Hyderabad, Telangana, India
+[2026-11-16 10:08:52]   Sent: [LinkedIn] Pen - tester (VAPT) (Web & Mobile) 2 to 3 Years @ 4AT CONSULTING | Hyderabad, Telangana, India
+[2026-11-16 10:08:55]   Sent: [LinkedIn] Workday LMS Consultant (63980) @ Hitachi Digital Services | Hyderabad, Telangana, India
+[2026-11-16 10:08:55] Done. Sent 12 new jobs. Total tracked: 1194
+[2026-11-16 10:08:55] Single-run cycle complete. Exiting.
