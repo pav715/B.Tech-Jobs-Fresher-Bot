@@ -5563,3 +5563,24 @@
 [2026-11-16 20:37:52] Checking for new B.Tech fresher jobs from LinkedIn...
 [2026-11-16 20:42:55] No new jobs found. Total tracked: 1194
 [2026-11-16 20:42:55] Single-run cycle complete. Exiting.
+[2026-11-17 10:58:53] ============================================================
+[2026-11-17 10:58:53]   B.Tech Jobs Fresher - Telegram Bot
+[2026-11-17 10:58:53]   TARGET: B.Tech Freshers | LOCATION: Hyderabad
+[2026-11-17 10:58:53]   CHECK INTERVAL: Every 10 minutes
+[2026-11-17 10:58:53] ============================================================
+[2026-11-17 10:58:53] Loaded 1194 previously seen jobs.
+[2026-11-17 10:58:53] Window: sending jobs posted after 2026-11-16T20:37:52.460774
+[2026-11-17 10:58:53] Checking for new B.Tech fresher jobs from LinkedIn...
+[2026-11-17 11:01:33] Found 10 new jobs! Sending to Telegram...
+[2026-11-17 11:01:36]   Sent: [LinkedIn] Field Service Engineer @ Aurolab | Hyderabad, Telangana, India
+[2026-11-17 11:01:39]   Sent: [LinkedIn] Mechanical MEP Planning Engineer- Data Centre @ Talentspring Staffing India | Hyderabad, Telangana, India
+[2026-11-17 11:01:42]   Sent: [LinkedIn] Site Supervisor @ Trayaksh Construction & Interiors | Hyderabad, Telangana, India
+[2026-11-17 11:01:45]   Sent: [LinkedIn] Modular Cleanroom Designer @ SWATHI CLEANROOMS | Hyderabad, Telangana, India
+[2026-11-17 11:01:47]   Sent: [LinkedIn] Junior Software Engineer @ Caliber Technologies | Hyderabad, Telangana, India
+[2026-11-17 11:01:50]   Sent: [LinkedIn] Java Developer @ Scoutit | Hyderabad, Telangana, India
+[2026-11-17 11:01:53]   Sent: [LinkedIn] Software Engineer @ Cornerstone OnDemand | Hyderabad, Telangana, India
+[2026-11-17 11:01:56]   Sent: [LinkedIn] Embedded Software Intern @ Acme Automation | Hyderabad, Telangana, India
+[2026-11-17 11:01:58]   Sent: [LinkedIn] Engineer- Audio Architecture and Systems Engineer @ Qualcomm | Greater Hyderabad Area
+[2026-11-17 11:02:01]   Sent: [LinkedIn] Fresher Research Assistant – Industrial Systems and Software Testing EEE ECE CSE @ RiNVENT CoE | Hyderabad, Telangana, India
+[2026-11-17 11:02:01] Done. Sent 10 new jobs. Total tracked: 1204
+[2026-11-17 11:02:01] Single-run cycle complete. Exiting.
