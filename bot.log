@@ -5594,3 +5594,27 @@
 [2026-11-17 22:33:40] Checking for new B.Tech fresher jobs from LinkedIn...
 [2026-11-17 22:39:26] No new jobs found. Total tracked: 1204
 [2026-11-17 22:39:26] Single-run cycle complete. Exiting.
+[2026-11-18 10:31:14] ============================================================
+[2026-11-18 10:31:14]   B.Tech Jobs Fresher - Telegram Bot
+[2026-11-18 10:31:14]   TARGET: B.Tech Freshers | LOCATION: Hyderabad
+[2026-11-18 10:31:14]   CHECK INTERVAL: Every 10 minutes
+[2026-11-18 10:31:14] ============================================================
+[2026-11-18 10:31:14] Loaded 1204 previously seen jobs.
+[2026-11-18 10:31:14] Window: sending jobs posted after 2026-11-17T22:33:40.646267
+[2026-11-18 10:31:14] Checking for new B.Tech fresher jobs from LinkedIn...
+[2026-11-18 10:36:09] Found 13 new jobs! Sending to Telegram...
+[2026-11-18 10:36:11]   Sent: [LinkedIn] FBS Application Developer I - Guidewire @ Capgemini | Hyderabad, Telangana, India
+[2026-11-18 10:36:14]   Sent: [LinkedIn] Apply now. India Campus Team! @ Micron Technology | Hyderabad, Telangana, India
+[2026-11-18 10:36:17]   Sent: [LinkedIn] CNC Service Engineer @ Hyderabad Machine Tools | Hyderabad, Telangana, India
+[2026-11-18 10:36:20]   Sent: [LinkedIn] Engineer I-Installation Analysis @ TechnipFMC | Hyderabad, Telangana, India
+[2026-11-18 10:36:23]   Sent: [LinkedIn] Software Engineer @ Capgemini | Hyderabad, Telangana, India
+[2026-11-18 10:36:25]   Sent: [LinkedIn] Managed Services Engineer II-Fullstack Java-Hyderabad/Bengaluru @ Deloitte | Hyderabad, Telangana, India
+[2026-11-18 10:36:28]   Sent: [LinkedIn] Back End Developer @ Scoutit | Hyderabad, Telangana, India
+[2026-11-18 10:36:31]   Sent: [LinkedIn] WLAN Developer @ Capgemini | Hyderabad, Telangana, India
+[2026-11-18 10:36:34]   Sent: [LinkedIn] Analog Layout Engineer @ SiMaxTech Pvt Ltd | Hyderabad, Telangana, India
+[2026-11-18 10:36:37]   Sent: [LinkedIn] SR, Engineer - AMS Verification @ Micron Technology | Hyderabad, Telangana, India
+[2026-11-18 10:36:40]   Sent: [LinkedIn] LDD Developer @ Capgemini | Hyderabad, Telangana, India
+[2026-11-18 10:36:43]   Sent: [LinkedIn] Software Engineer - Lab Automation @ Amgen | Hyderabad, Telangana, India
+[2026-11-18 10:36:45]   Sent: [LinkedIn] Sr. Cybersecurity Engineer @ eHealth Technologies | Hyderabad, Telangana, India
+[2026-11-18 10:36:45] Done. Sent 13 new jobs. Total tracked: 1217
+[2026-11-18 10:36:45] Single-run cycle complete. Exiting.
