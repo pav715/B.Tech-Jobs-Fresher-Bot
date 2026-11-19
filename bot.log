@@ -5628,3 +5628,19 @@
 [2026-11-18 22:13:31] Checking for new B.Tech fresher jobs from LinkedIn...
 [2026-11-18 22:18:38] No new jobs found. Total tracked: 1217
 [2026-11-18 22:18:38] Single-run cycle complete. Exiting.
+[2026-11-19 10:38:23] ============================================================
+[2026-11-19 10:38:23]   B.Tech Jobs Fresher - Telegram Bot
+[2026-11-19 10:38:23]   TARGET: B.Tech Freshers | LOCATION: Hyderabad
+[2026-11-19 10:38:23]   CHECK INTERVAL: Every 10 minutes
+[2026-11-19 10:38:23] ============================================================
+[2026-11-19 10:38:23] Loaded 1217 previously seen jobs.
+[2026-11-19 10:38:23] Window: sending jobs posted after 2026-11-18T22:13:31.158866
+[2026-11-19 10:38:23] Checking for new B.Tech fresher jobs from LinkedIn...
+[2026-11-19 10:41:23] Found 5 new jobs! Sending to Telegram...
+[2026-11-19 10:41:26]   Sent: [LinkedIn] Estimation Engineer - Aluminium Formwork @ DEC Industries | Hyderabad, Telangana, India
+[2026-11-19 10:41:29]   Sent: [LinkedIn] .NET Full Stack Developer @ Tecdatum | Hyderabad, Telangana, India
+[2026-11-19 10:41:32]   Sent: [LinkedIn] Mechatronics Intern @ Neonflake | Hyderabad, Telangana, India
+[2026-11-19 10:41:35]   Sent: [LinkedIn] Embedded Design Engineer @ Cetrama Technologies Pvt Ltd | Hyderabad, Telangana, India
+[2026-11-19 10:41:38]   Sent: [LinkedIn] Design Verification Engineer DDR @ Chip Smart Technologies Pvt Ltd | Hyderabad, Telangana, India
+[2026-11-19 10:41:38] Done. Sent 5 new jobs. Total tracked: 1222
+[2026-11-19 10:41:38] Single-run cycle complete. Exiting.
