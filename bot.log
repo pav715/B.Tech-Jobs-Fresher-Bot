@@ -5654,3 +5654,24 @@
 [2026-11-19 22:22:24] Checking for new B.Tech fresher jobs from LinkedIn...
 [2026-11-19 22:25:19] No new jobs found. Total tracked: 1222
 [2026-11-19 22:25:19] Single-run cycle complete. Exiting.
+[2026-11-20 10:19:07] ============================================================
+[2026-11-20 10:19:07]   B.Tech Jobs Fresher - Telegram Bot
+[2026-11-20 10:19:07]   TARGET: B.Tech Freshers | LOCATION: Hyderabad
+[2026-11-20 10:19:07]   CHECK INTERVAL: Every 10 minutes
+[2026-11-20 10:19:07] ============================================================
+[2026-11-20 10:19:07] Loaded 1222 previously seen jobs.
+[2026-11-20 10:19:07] Window: sending jobs posted after 2026-11-19T22:22:24.174204
+[2026-11-20 10:19:07] Checking for new B.Tech fresher jobs from LinkedIn...
+[2026-11-20 10:22:08] Found 10 new jobs! Sending to Telegram...
+[2026-11-20 10:22:11]   Sent: [LinkedIn] Medical Coding Jobs for Biomedical Engineer @ Achievers Spot | Hyderabad, Telangana, India
+[2026-11-20 10:22:14]   Sent: [LinkedIn] Associate Engineer, IT Eng System Mgr @ Micron Technology | Hyderabad, Telangana, India
+[2026-11-20 10:22:17]   Sent: [LinkedIn] Associate Technical Support Engineer (French/German/ Italian/Portuguese Speaking) @ SalesForce-ad | Hyderabad, Telangana, India
+[2026-11-20 10:22:19]   Sent: [LinkedIn] Website Developer @ aiRESULTS Global Advisory | Hyderabad, Telangana, India
+[2026-11-20 10:22:22]   Sent: [LinkedIn] Software Development Engineer I @ Amazon | Hyderabad, Telangana, India
+[2026-11-20 10:22:25]   Sent: [LinkedIn] Salesforce Developer @ Viraaj HR Solutions Private Limited | Hyderabad, Telangana, India
+[2026-11-20 10:22:28]   Sent: [LinkedIn] Full Stack Engineer (.NET | AI/ML) @ Ariqt Global Technologies | Hyderabad, Telangana, India
+[2026-11-20 10:22:31]   Sent: [LinkedIn] We ARE HIRING-SYSTEM ADMINISTRATOR @ Practolytics | Hyderabad, Telangana, India
+[2026-11-20 10:22:34]   Sent: [LinkedIn] Hardware Validation & Integration @ UST | Hyderabad, Telangana, India
+[2026-11-20 10:22:36]   Sent: [LinkedIn] Robotics Software Engineer @ Peepul Agri | Hyderabad, Telangana, India
+[2026-11-20 10:22:36] Done. Sent 10 new jobs. Total tracked: 1232
+[2026-11-20 10:22:36] Single-run cycle complete. Exiting.
