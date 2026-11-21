@@ -5685,3 +5685,17 @@
 [2026-11-20 18:43:53] Checking for new B.Tech fresher jobs from LinkedIn...
 [2026-11-20 18:46:50] No new jobs found. Total tracked: 1232
 [2026-11-20 18:46:50] Single-run cycle complete. Exiting.
+[2026-11-21 10:03:43] ============================================================
+[2026-11-21 10:03:43]   B.Tech Jobs Fresher - Telegram Bot
+[2026-11-21 10:03:43]   TARGET: B.Tech Freshers | LOCATION: Hyderabad
+[2026-11-21 10:03:43]   CHECK INTERVAL: Every 10 minutes
+[2026-11-21 10:03:43] ============================================================
+[2026-11-21 10:03:43] Loaded 1232 previously seen jobs.
+[2026-11-21 10:03:43] Window: sending jobs posted after 2026-11-20T18:43:53.241255
+[2026-11-21 10:03:43] Checking for new B.Tech fresher jobs from LinkedIn...
+[2026-11-21 10:06:04] Found 3 new jobs! Sending to Telegram...
+[2026-11-21 10:06:07]   Sent: [LinkedIn] CALIBRATION ENGINEER for Mechanical Electrical Pressure Mass&Volume Force and Thermal @ RK LABS | Hyderabad, Telangana, India
+[2026-11-21 10:06:10]   Sent: [LinkedIn] Design Engineers - Shell Drawings and Modulation (Aluminum Formwork) Exp: 1-3 @ DEC Industries | Hyderabad, Telangana, India
+[2026-11-21 10:06:12]   Sent: [LinkedIn] QA Intern · Hyderabad office @ Zomsi | Hyderabad, Telangana, India
+[2026-11-21 10:06:12] Done. Sent 3 new jobs. Total tracked: 1235
+[2026-11-21 10:06:12] Single-run cycle complete. Exiting.
