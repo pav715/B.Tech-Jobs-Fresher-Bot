@@ -5709,3 +5709,21 @@
 [2026-11-21 17:43:36] Checking for new B.Tech fresher jobs from LinkedIn...
 [2026-11-21 17:46:12] No new jobs found. Total tracked: 1235
 [2026-11-21 17:46:12] Single-run cycle complete. Exiting.
+[2026-11-22 10:06:36] ============================================================
+[2026-11-22 10:06:36]   B.Tech Jobs Fresher - Telegram Bot
+[2026-11-22 10:06:36]   TARGET: B.Tech Freshers | LOCATION: Hyderabad
+[2026-11-22 10:06:36]   CHECK INTERVAL: Every 10 minutes
+[2026-11-22 10:06:36] ============================================================
+[2026-11-22 10:06:36] Loaded 1235 previously seen jobs.
+[2026-11-22 10:06:36] Window: sending jobs posted after 2026-11-21T17:43:36.899029
+[2026-11-22 10:06:36] Checking for new B.Tech fresher jobs from LinkedIn...
+[2026-11-22 10:09:23] Found 7 new jobs! Sending to Telegram...
+[2026-11-22 10:09:26]   Sent: [LinkedIn] Analyst Transactions & Processing @ Trimont | Hyderabad, Telangana, India
+[2026-11-22 10:09:29]   Sent: [LinkedIn] 🎬 We’re Hiring: Video Editor (1-2 Years Experience) @ Waytowebs | Hyderabad, Telangana, India
+[2026-11-22 10:09:31]   Sent: [LinkedIn] Opening for Bioinfomatics and Biochemistry Graduates @ Achievers Spot | Hyderabad, Telangana, India
+[2026-11-22 10:09:34]   Sent: [LinkedIn] NOC Engineer | 2 to 4 yrs | Hyderabad @ Capgemini | Hyderabad, Telangana, India
+[2026-11-22 10:09:37]   Sent: [LinkedIn] Technical Analyst @ Scoutit | Hyderabad, Telangana, India
+[2026-11-22 10:09:39]   Sent: [LinkedIn] Network Engineer @ Zayman Tech AI | Hyderabad, Telangana, India
+[2026-11-22 10:09:42]   Sent: [LinkedIn] Software Tester Intern (Manual + Automation – Playwright) @ CareerBridge Technologies | Greater Hyderabad Area
+[2026-11-22 10:09:42] Done. Sent 7 new jobs. Total tracked: 1242
+[2026-11-22 10:09:42] Single-run cycle complete. Exiting.
