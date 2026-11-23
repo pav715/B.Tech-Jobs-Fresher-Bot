@@ -5737,3 +5737,23 @@
 [2026-11-22 17:58:33] Checking for new B.Tech fresher jobs from LinkedIn...
 [2026-11-22 18:02:17] No new jobs found. Total tracked: 1242
 [2026-11-22 18:02:17] Single-run cycle complete. Exiting.
+[2026-11-23 11:03:36] ============================================================
+[2026-11-23 11:03:36]   B.Tech Jobs Fresher - Telegram Bot
+[2026-11-23 11:03:36]   TARGET: B.Tech Freshers | LOCATION: Hyderabad
+[2026-11-23 11:03:36]   CHECK INTERVAL: Every 10 minutes
+[2026-11-23 11:03:36] ============================================================
+[2026-11-23 11:03:36] Loaded 1242 previously seen jobs.
+[2026-11-23 11:03:36] Window: sending jobs posted after 2026-11-22T17:58:33.852475
+[2026-11-23 11:03:36] Checking for new B.Tech fresher jobs from LinkedIn...
+[2026-11-23 11:07:31] Found 9 new jobs! Sending to Telegram...
+[2026-11-23 11:07:34]   Sent: [LinkedIn] 3D Printing Service Engineer (6 months to 1 years) @ Garuda3D | Hyderabad, Telangana, India
+[2026-11-23 11:07:36]   Sent: [LinkedIn] Accounts Payable Executive @ Kheyti | Hyderabad, Telangana, India
+[2026-11-23 11:07:40]   Sent: [LinkedIn] RTL Design Engineer @ Chipweave Technologioes Private Limited | Hyderabad, Telangana, India
+[2026-11-23 11:07:43]   Sent: [LinkedIn] Space Science Instructor @ aiqon | Hyderabad, Telangana, India
+[2026-11-23 11:07:46]   Sent: [LinkedIn] Electronics Application Engineer @ Azista Space | Hyderabad, Telangana, India
+[2026-11-23 11:07:49]   Sent: [LinkedIn] Network Engineers – Cisco Unified Communications @ ALTCloudAI | Hyderabad, Telangana, India
+[2026-11-23 11:07:52]   Sent: [LinkedIn] Software Development Engineer in Test II @ Neo | Hyderabad, Telangana, India
+[2026-11-23 11:07:54]   Sent: [LinkedIn] IN_Associate_Automation Engineer_GCC_Advisory_Hyderabad @ PwC India | Greater Hyderabad Area
+[2026-11-23 11:07:57]   Sent: [LinkedIn] Graphic Designer | Udemy / Coursera / Byjus Preferred @ AR GLOBAL HUB | Hyderabad, Telangana, India
+[2026-11-23 11:07:57] Done. Sent 9 new jobs. Total tracked: 1251
+[2026-11-23 11:07:57] Single-run cycle complete. Exiting.
