@@ -5789,3 +5789,30 @@
 [2026-11-24 23:35:06] Checking for new B.Tech fresher jobs from LinkedIn...
 [2026-11-24 23:38:53] No new jobs found. Total tracked: 1252
 [2026-11-24 23:38:53] Single-run cycle complete. Exiting.
+[2026-11-25 11:35:25] ============================================================
+[2026-11-25 11:35:25]   B.Tech Jobs Fresher - Telegram Bot
+[2026-11-25 11:35:25]   TARGET: B.Tech Freshers | LOCATION: Hyderabad
+[2026-11-25 11:35:25]   CHECK INTERVAL: Every 10 minutes
+[2026-11-25 11:35:25] ============================================================
+[2026-11-25 11:35:25] Loaded 1252 previously seen jobs.
+[2026-11-25 11:35:25] Window: sending jobs posted after 2026-11-24T23:35:06.287803
+[2026-11-25 11:35:25] Checking for new B.Tech fresher jobs from LinkedIn...
+[2026-11-25 11:38:09] Found 16 new jobs! Sending to Telegram...
+[2026-11-25 11:38:12]   Sent: [LinkedIn] Accounting Engineer - Only freshers (Non CA) @ Numerize AI | Hyderabad, Telangana, India
+[2026-11-25 11:38:15]   Sent: [LinkedIn] Site Civil Engineer @ Livenup design studio | Hyderabad, Telangana, India
+[2026-11-25 11:38:17]   Sent: [LinkedIn] Rubber Products Manufacturing Engineer @ ANDHRA POLYMERS PRIVATE LIMITED | Hyderabad, Telangana, India
+[2026-11-25 11:38:20]   Sent: [LinkedIn] Software Engineer, @ Optum | Hyderabad, Telangana, India
+[2026-11-25 11:38:23]   Sent: [LinkedIn] AI Product Engineer @ MatchPoint | Hyderabad, Telangana, India
+[2026-11-25 11:38:25]   Sent: [LinkedIn] Associate Consultant_AI/ML Engineer @ NTT DATA Business Solutions | Hyderabad, Telangana, India
+[2026-11-25 11:38:28]   Sent: [LinkedIn] Trainee @ NTT DATA Business Solutions | Hyderabad, Telangana, India
+[2026-11-25 11:38:31]   Sent: [LinkedIn] Data Analyst, MMF - Insights & Operational Excellence @ Novartis India | Greater Hyderabad Area
+[2026-11-25 11:38:34]   Sent: [LinkedIn] Trainee @ NTT DATA Business Solutions | Hyderabad, Telangana, India
+[2026-11-25 11:38:36]   Sent: [LinkedIn] Multimedia Display Test Engineer @ Visynth Labs Pvt Ltd | Hyderabad, Telangana, India
+[2026-11-25 11:38:39]   Sent: [LinkedIn] Multimedia Audio Test Engineer @ Visynth Labs Pvt Ltd | Hyderabad, Telangana, India
+[2026-11-25 11:38:42]   Sent: [LinkedIn] DEVSECOPS CONSULTANT L1 @ Wipro | Hyderabad, Telangana, India
+[2026-11-25 11:38:44]   Sent: [LinkedIn] Software Dev Ops Engineer II - Gen AI, Openshift, EKS @ Medtronic | Hyderabad, Telangana, India
+[2026-11-25 11:38:47]   Sent: [LinkedIn] Intern @ Micron Technology | Hyderabad, Telangana, India
+[2026-11-25 11:38:50]   Sent: [LinkedIn] Junior Researcher @ Mahindra University | Hyderabad, Telangana, India
+[2026-11-25 11:38:53]   Sent: [LinkedIn] HR Associate — Staffing & Client Acquisition @ Bcommune | Hyderabad, Telangana, India
+[2026-11-25 11:38:53] Done. Sent 16 new jobs. Total tracked: 1267
+[2026-11-25 11:38:53] Single-run cycle complete. Exiting.
