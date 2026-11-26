@@ -5826,3 +5826,28 @@
 [2026-11-25 23:12:49] Checking for new B.Tech fresher jobs from LinkedIn...
 [2026-11-25 23:16:48] No new jobs found. Total tracked: 1267
 [2026-11-25 23:16:48] Single-run cycle complete. Exiting.
+[2026-11-26 11:20:09] ============================================================
+[2026-11-26 11:20:09]   B.Tech Jobs Fresher - Telegram Bot
+[2026-11-26 11:20:09]   TARGET: B.Tech Freshers | LOCATION: Hyderabad
+[2026-11-26 11:20:09]   CHECK INTERVAL: Every 10 minutes
+[2026-11-26 11:20:09] ============================================================
+[2026-11-26 11:20:09] Loaded 1267 previously seen jobs.
+[2026-11-26 11:20:09] Window: sending jobs posted after 2026-11-25T23:12:49.730834
+[2026-11-26 11:20:09] Checking for new B.Tech fresher jobs from LinkedIn...
+[2026-11-26 11:24:34] Found 14 new jobs! Sending to Telegram...
+[2026-11-26 11:24:36]   Sent: [LinkedIn] Link Building & Outreach Executive @ ET Creatives | Hyderabad, Telangana, India
+[2026-11-26 11:24:39]   Sent: [LinkedIn] Trainee Engineer - Analog Design @ Infineon Technologies | Hyderabad, Telangana, India
+[2026-11-26 11:24:42]   Sent: [LinkedIn] Applied Scientist I, Worldwide Returns & Recommerce - Science @ Amazon Science | Hyderabad, Telangana, India
+[2026-11-26 11:24:44]   Sent: [LinkedIn] Technical Support Analyst @ Octave | Hyderabad, Telangana, India
+[2026-11-26 11:24:47]   Sent: [LinkedIn] Support Associate, Investigations, Diligence and Compliance - Core @ Kroll | Hyderabad, Telangana, India
+[2026-11-26 11:24:50]   Sent: [LinkedIn] Design Executive Hyderabad @ Placenest Services Private Limited | Hyderabad, Telangana, India
+[2026-11-26 11:24:53]   Sent: [LinkedIn] Junior Research Fellow @ BITS Pilani, Hyderabad Campus | Hyderabad, Telangana, India
+[2026-11-26 11:24:55]   Sent: [LinkedIn] Andriod Developer @ Zensar Technologies | Hyderabad, Telangana, India
+[2026-11-26 11:24:58]   Sent: [LinkedIn] PCC - Powercurve Collection @ UST | Hyderabad, Telangana, India
+[2026-11-26 11:25:01]   Sent: [LinkedIn] Software Developer @ The AI Humanist Movement | Greater Hyderabad Area
+[2026-11-26 11:25:03]   Sent: [LinkedIn] Fullstack Java With React-Software Engineer II @ Deloitte | Hyderabad, Telangana, India
+[2026-11-26 11:25:06]   Sent: [LinkedIn] Full Stack Engineer @ Staffington Global | Hyderabad, Telangana, India
+[2026-11-26 11:25:09]   Sent: [LinkedIn] Report Analyst @ Corporate Steps | Hyderabad, Telangana, India
+[2026-11-26 11:25:11]   Sent: [LinkedIn] Quality Checker – Mechanical Engineering / Engineering Drawings @ Cyient | Greater Hyderabad Area
+[2026-11-26 11:25:11] Done. Sent 14 new jobs. Total tracked: 1281
+[2026-11-26 11:25:11] Single-run cycle complete. Exiting.
