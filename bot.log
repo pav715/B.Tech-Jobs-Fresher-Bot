@@ -5861,3 +5861,30 @@
 [2026-11-26 23:11:36] Checking for new B.Tech fresher jobs from LinkedIn...
 [2026-11-26 23:16:30] No new jobs found. Total tracked: 1281
 [2026-11-26 23:16:30] Single-run cycle complete. Exiting.
+[2026-11-27 11:13:41] ============================================================
+[2026-11-27 11:13:41]   B.Tech Jobs Fresher - Telegram Bot
+[2026-11-27 11:13:41]   TARGET: B.Tech Freshers | LOCATION: Hyderabad
+[2026-11-27 11:13:41]   CHECK INTERVAL: Every 10 minutes
+[2026-11-27 11:13:41] ============================================================
+[2026-11-27 11:13:41] Loaded 1281 previously seen jobs.
+[2026-11-27 11:13:41] Window: sending jobs posted after 2026-11-26T23:11:36.192571
+[2026-11-27 11:13:41] Checking for new B.Tech fresher jobs from LinkedIn...
+[2026-11-27 11:17:14] Found 16 new jobs! Sending to Telegram...
+[2026-11-27 11:17:17]   Sent: [LinkedIn] Associate Software Development Engineer @ NTT DATA, Inc. | Greater Hyderabad Area
+[2026-11-27 11:17:20]   Sent: [LinkedIn] Associate Security Platform Engineer @ NTT DATA, Inc. | Greater Hyderabad Area
+[2026-11-27 11:17:22]   Sent: [LinkedIn] Wanted Biomedical Engineer and Biotechnology Engineer @ Achievers Spot | Hyderabad, Telangana, India
+[2026-11-27 11:17:25]   Sent: [LinkedIn] Associate Software Engineer - Test Automation @ Veeva Systems | Hyderabad, Telangana, India
+[2026-11-27 11:17:28]   Sent: [LinkedIn] Field Application Engineer @ MULTISPHERE POWER SOLUTIONS PRIVATE LIMITED | Hyderabad, Telangana, India
+[2026-11-27 11:17:32]   Sent: [LinkedIn] CA Articleship – Article Assistant (CA Inter) – Hyderabad @ Shekar and Co. | Hyderabad, Telangana, India
+[2026-11-27 11:17:35]   Sent: [LinkedIn] Building Management Systems Engineer @ Grid 2 Chip | Hyderabad, Telangana, India
+[2026-11-27 11:17:38]   Sent: [LinkedIn] Operations & Strategy Analyst @ Samarthya Financial Services Pvt Ltd | Hyderabad, Telangana, India
+[2026-11-27 11:17:41]   Sent: [LinkedIn] Junior Space Associate - IT @ Skyroot Aerospace | Hyderabad, Telangana, India
+[2026-11-27 11:17:44]   Sent: [LinkedIn] Network Administrator @ Consultixs | Greater Hyderabad Area
+[2026-11-27 11:17:47]   Sent: [LinkedIn] Telecommunications Design Engineer @ Neo Plus Pte Ltd | Hyderabad, Telangana, India
+[2026-11-27 11:17:51]   Sent: [LinkedIn] PD CAD Engineer @ AMD | Hyderabad, Telangana, India
+[2026-11-27 11:17:53]   Sent: [LinkedIn] Associate III - VLSI MB @ UST | Hyderabad, Telangana, India
+[2026-11-27 11:17:56]   Sent: [LinkedIn] Intern @ Qpact | Hyderabad, Telangana, India
+[2026-11-27 11:17:59]   Sent: [LinkedIn] Automation Analyst @ ShimentoX Technologies | Hyderabad, Telangana, India
+[2026-11-27 11:18:02]   Sent: [LinkedIn] L2- Azure, AWS & Kubernetes Engineer @ Neev | Hyderabad, Telangana, India
+[2026-11-27 11:18:02] Done. Sent 16 new jobs. Total tracked: 1297
+[2026-11-27 11:18:02] Single-run cycle complete. Exiting.
